@@ -225,6 +225,32 @@ The following dates are observed Holidays for this immersive.  There will be no 
 </ul></details>
 
 ____
+
+Class Schedule
+
+### Unit 1 - 
+	Week 1 - HTML, CSS, JS, DOM Manipulation
+	Week 2 - JS Higher Order Functions, OOP, API calls + Fetch
+	Week 3 - Project 1 (API Call / JS Game)
+
+### Unit 2 - 
+	Week 4 - React Basics, React Hooks
+	Week 5 - React Hooks, Router, Axios and API calls
+	Week 6 - Project 2 (React Axios)
+
+### Unit 3 -
+	Week 7 - SQL, Sequelize, Express
+	Week 8 - Sequelize with Express, React + Sequelize Auth with JWT
+	Week 9 - Group PERN Stack Project
+
+###Unit 4 -
+  Week 10 - Python, Django
+  Week 11 - Django Auth, Group Hackathon
+  Week 12 - Capstone Project  
+
+
+
+____
 <details><summary><strong>Unit 1</strong> - HTML | CSS | JavaScript</summary><p>
 
 <ul type="none">

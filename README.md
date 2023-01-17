@@ -226,7 +226,7 @@ The following dates are observed Holidays for this immersive.  There will be no 
 
 ____
 
-Class Schedule
+# Class Schedule
 
 ### Unit 1 - 
 	Week 1 - HTML, CSS, JS, DOM Manipulation

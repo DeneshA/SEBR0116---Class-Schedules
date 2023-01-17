@@ -87,7 +87,7 @@ ____
 
 
 
- <!-- <div align="center">
+<div align="center">
   <img width="200px" src="https://i.imgur.com/dH5Pznf.png" alt="default">
   <h3>Tylus Dawkins</h3>
   <h4>Teaching Assistant</h4>
@@ -168,7 +168,7 @@ Below, you will find Class Policies and Requirements as laid out in Orientation 
 <li><details><summary><strong>Deliverable Submission Requirements</strong></summary><p>
 
 <ul>
-  <li>Deliverables must be submitted following the <a href="https://github.com/SEIR-1003/template_pull_request">PR Guidelines</a>.</li>
+  <li>Deliverables must be submitted following the <a href="https://github.com/SEIR-123/template_pull_request">PR Guidelines</a>.</li>
   <li>Students must meet deliverable requirements for the submission to be marked as "Complete".</li>
   <li>Deliverables are <i>always</i> due the following class day at the beginning of class, unless otherwise stated.</li>
   <li>There is a grace period for re-submission or late submission.  All re-submits/late submits are due the <b>Monday following the week of assignment</b>.
@@ -217,9 +217,8 @@ The following dates are observed Holidays for this immersive.  There will be no 
 
 | Holiday | Date(s) |
 |:---:|:---:|
-| Veterans Day | November 11, 2022 |
-| Thanksgiving | November 23- November 25, 2022 |
-| Winter Break | December 26th- January 2, 2022 |
+| Presidents Day | February 20, 2023 |
+
 
 </p></details></li>
 
@@ -238,12 +237,12 @@ ____
 
   | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | [InstallFest](https://github.com/SEIR-1003/u1_installations)| [Github / Homework Submission](https://github.com/SEI-R-6-21/u1_lesson_github) | [JS Datatypes](https://github.com/SEIR-1003/u1_lesson_js_data_types)  |  [JS Functions](https://github.com/SEIR-1003/u1_lesson_js_functions) | [Intro Daily JS Challenges](https://github.com/SEIR-1003/daily_js_challenges)
-  | [Terminal Lesson](https://github.com/SEIR-1003/u1_lesson_terminal)  | [Intro to HTML](https://github.com/SEIR-1003/u1_lesson_intro_HTML) | [JS Arrays](https://github.com/SEIR-1003/u1_lesson_js_arrays)| [JS Scope](https://github.com/SEIR-1003/u1_lesson_js_scope) | [JS Events](https://github.com/SEIR-1003/u1_lesson_js_events)
-  |  [Git Lesson](https://github.com/SEIR-1003/u1_lesson_git) | [Grumpy Cat Resume](https://github.com/SEIR-1003/u1_lab_fake_resume) | [JS Loops & Control Flow](https://github.com/SEIR-1003/u1_lesson_loops_and_control_flow) | [JS Objects](https://github.com/SEIR-1003/u1_lesson_js_objects) | [JS Dots Game Lab](https://github.com/SEIR-1003/u1_lab_dots)| 
-  |  [VS Code Lesson](https://github.com/SEIR-1003/u1_lesson_VSCode/blob/main/README.md)| [Intro to CSS](https://github.com/SEIR-1003/u1_lesson_intro_CSS) | [Data Types practice](https://github.com/SEIR-1003/U1_data_types_practice)  | [Jurassic Objects Lab](https://github.com/SEIR-1003/u1_lab_jurassic_objects) |   | |
-  | [Star Wars HW](https://github.com/SEIR-1003/u1_hw_star_wars)  | [Flex & Grid](https://github.com/SEIR-1003/u1_lesson_flex_grid) | [Arrays ad Iteration Lab](https://github.com/SEIR-1003/u1_arrays_and_iteration_lab)  | [CodeWars](https://github.com/SEIR-1003/u1_hw_codewars_challenges) | [Tic Tac Toe HW](https://github.com/SEIR-1003/u1_hw_tic_tac_toe) |
-  |  | [Fashion blog](https://github.com/SEIR-1003/Fashion-Blog)  | [Control Flow Adventure HW](https://github.com/SEIR-1003/u1_hw_control_flow_adventure) | |  |
+  | [InstallFest](https://github.com/SEIR-123/u1_installations)| [Github / Homework Submission](https://github.com/SEIR-123/u1_lesson_github) | [JS Datatypes](https://github.com/SEIR-123/u1_lesson_js_data_types)  |  [JS Functions](https://github.com/SEIR-123/u1_lesson_js_functions) | [Intro Daily JS Challenges](https://github.com/SEIR-123/daily_js_challenges)
+  | [Terminal Lesson](https://github.com/SEIR-123/u1_lesson_terminal)  | [Intro to HTML](https://github.com/SEIR-123/u1_lesson_intro_HTML) | [JS Arrays](https://github.com/SEIR-123/u1_lesson_js_arrays)| [JS Scope](https://github.com/SEIR-123/u1_lesson_js_scope) | [JS Events](https://github.com/SEIR-123/u1_lesson_js_events)
+  |  [Git Lesson](https://github.com/SEIR-123/u1_lesson_git) | [Grumpy Cat Resume](https://github.com/SEIR-123/u1_lab_fake_resume) | [JS Loops & Control Flow](https://github.com/SEIR-123/u1_lesson_loops_and_control_flow) | [JS Objects](https://github.com/SEIR-123/u1_lesson_js_objects) | [JS Dots Game Lab](https://github.com/SEIR-123/u1_lab_dots)| 
+  |  [VS Code Lesson](https://github.com/SEIR-123/u1_lesson_VSCode/blob/main/README.md)| [Intro to CSS](https://github.com/SEIR-123/u1_lesson_intro_CSS) | [Data Types practice](https://github.com/SEIR-123/U1_data_types_practice)  | [Jurassic Objects Lab](https://github.com/SEIR-123/u1_lab_jurassic_objects) |   | |
+  | [Star Wars HW](https://github.com/SEIR-123/u1_hw_star_wars)  | [Flex & Grid](https://github.com/SEIR-123/u1_lesson_flex_grid) | [Arrays ad Iteration Lab](https://github.com/SEIR-123/u1_arrays_and_iteration_lab)  | [CodeWars](https://github.com/SEIR-123/u1_hw_codewars_challenges) | [Tic Tac Toe HW](https://github.com/SEIR-123/u1_hw_tic_tac_toe) |
+  |  | [Fashion blog](https://github.com/SEIR-123/Fashion-Blog)  | [Control Flow Adventure HW](https://github.com/SEIR-123/u1_hw_control_flow_adventure) | |  |
 
   <ul type="none">
 
@@ -269,8 +268,8 @@ ____
 
   | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  |  [Daily JS Challenges](https://github.com/SEIR-1003/daily_js_challenges)| [JS HOF HW](https://github.com/SEIR-1003/u1_hw_HOF) | CSS Media Quieries  | JS KAHOOT | [Project 1 Prompt](https://github.com/SEI-R-6-21/u1_project_prompt)|
-  |  [ES6 Syntax](https://github.com/SEIR-1003/u1_lesson_ES6) |  [Intro to OOP](https://github.com/SEIR-1003/u1_lesson_OOP) | Wireframes| [Intro to APIs](https://github.com/SEI-R-6-21/u1_lesson_intro_to_APIs) | Project Time|
+  |  [Daily JS Challenges](https://github.com/SEIR-1003/daily_js_challenges)| [JS HOF HW](https://github.com/SEIR-1003/u1_hw_HOF) | CSS Media Quieries  | JS KAHOOT | [Project 1 Prompt](https://github.com/SEI-R123/u1_project_prompt)|
+  |  [ES6 Syntax](https://github.com/SEIR-1003/u1_lesson_ES6) |  [Intro to OOP](https://github.com/SEIR-1003/u1_lesson_OOP) | Wireframes| [Intro to APIs](https://github.com/SEIr-123/u1_lesson_intro_to_APIs) | Project Time|
   | [ES6 Lab](https://github.com/SEIR-1003/u1_lab_ES6_practice) | [OOP Exercise Lab](https://github.com/SEIR-1003/u1_lab_OOP_exercise)  |  OUTCOMES  | [Poke' API](https://github.com/SEIR-1003/u1_api-intro)|  
   | Calculator |  | | [NYC Crime API](https://github.com/SEIR-1003/u1_api_lab/blob/main/README.md) |  |
   |  |  |  | [P1 Prompt](https://github.com/SEIR-1003/u1_project_prompt) |  |

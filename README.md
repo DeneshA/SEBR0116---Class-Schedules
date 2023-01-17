@@ -243,11 +243,10 @@ Class Schedule
 	Week 8 - Sequelize with Express, React + Sequelize Auth with JWT
 	Week 9 - Group PERN Stack Project
 
-###Unit 4 -
-  Week 10 - Python, Django
-  Week 11 - Django Auth, Group Hackathon
-  Week 12 - Capstone Project  
-
+### Unit 4 -
+	  Week 10 - Python, Django
+	  Week 11 - Django Auth, Group Hackathon
+	  Week 12 - Capstone Project  
 
 
 ____

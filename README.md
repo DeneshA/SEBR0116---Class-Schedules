@@ -5,7 +5,7 @@
 </div>
 
 ___
-Welcome to the <b>SEI-R-10-03 Class Wiki</b>.
+Welcome to the <b>SEIR-123 Class Wiki</b>.
 
 This repository is a place where links to all of the course content that we cover can be found. Content is organized by <i>Unit</i> and <i>Week</i> with lesson repos and class recordings for each day.
 <br>
@@ -45,7 +45,7 @@ ____
 <div align="center">
   <img width="200px" src="https://i.imgur.com/TkTJmAs.png" alt="brittany">
   <h3>Brittany Morataya</h3>
-  <h4>Instructional Associate</h4>
+  <h4>Senior Instructional Associate</h4>
   <p>My name is Brittany and I will be your <b>Instructor Associate (IA)</b>. I will be here as added support through your journey of becoming a software engineer.</p>
   <p>As a GA graduate, I have been in your shoes and understand what it takes to get through such a course. As for my experience, with a focus in front-end design, I freelanced for multiple clients implementing skills from previous experience with managing teams, data collection, and communication to provide a positive and open space for colleagues and clients. This will be my second cohort as an IA and I am excited to guide and help shape your minds.</p>
   <span><a href="https://github.com/bmorataya3">GitHub</a> | <a href="https://www.linkedin.com/in/brittany-morataya/">LinkedIn</a></span>
@@ -85,17 +85,7 @@ ____
 
 ____
 
- <div align="center">
-  <img width="200px" src="https://i.imgur.com/vmYBpd8h.jpg" alt="default">
-  <h3>Jay Thurber</h3>
-  <h4>Instructor Associate</h4>
-  <p>Hey everyone! I’m Jay and I will be one of your Instructional Associates for this course! I worked as a nurse for 10 years before taking the plunge into tech, graduating General Assembly’s SEIR program in October 2021, and have since been both an IA and TA for five cohorts. I love hyping up and motivating my students, as well as being a part of those “Aha!” moments, especially considering I was a student like yourselves not long ago!
-In my free time, you can find me playing board games with my wife and friends, hiking with my two dogs, cooking, watching anime, working on personal projects, and as of recently climbing! :woman_climbing:</p> 
- <span><a href="https://github.com/jthurber87">GitHub</a> | <a href="https://www.linkedin.com/in/jthurber87/">LinkedIn</a></span> 
-  <br>
-</div>
 
-____
 
  <!-- <div align="center">
   <img width="200px" src="https://i.imgur.com/dH5Pznf.png" alt="default">
@@ -119,12 +109,8 @@ ____
 ____
 
 <div align="center">
-  <img width="200px" src="https://i.imgur.com/BeQIMbn.png" alt="default">
-  <h3>Carla Pantuosco</h3>
+  <h3>Em Gordon</h3>
   <h4>Student Success Specialist</h4>
-  <!--   <p>Hello everyone, I am a default placeholder for an instructors introduction paragraph. This instructor's role will be to be a faceless representation of what an instructor might be, but nothing more. They will lead no lessons, they will offer no help, they will father no sons. They are void.</p>
-  <p>I am nothing but a filler for where an instructor might put their personal brand statement! I just sit here and fill space so that the developer can see what it might look like when an instructor has actually provided them with their intro. I have no purpose beyond that and my existence is meaningless!</p> -->
-  <!--   <span><a href="https://www.linkedin.com/in/david-allison1/">LinkedIn</a></span> -->
   <br>
 </div>
 
@@ -141,11 +127,8 @@ ____
 
 <div align="center">
   <img width="200px" src="https://i.imgur.com/1yhipgO.png" alt="default">
-  <h3>Tommy Peterson</h3>
+  <h3>Bradford Smith</h3>
   <h4>Outcomes Coach</h4>
-  <!--   <p>Hello everyone, I am a default placeholder for an instructors introduction paragraph. This instructor's role will be to be a faceless representation of what an instructor might be, but nothing more. They will lead no lessons, they will offer no help, they will father no sons. They are void.</p>
-  <p>I am nothing but a filler for where an instructor might put their personal brand statement! I just sit here and fill space so that the developer can see what it might look like when an instructor has actually provided them with their intro. I have no purpose beyond that and my existence is meaningless!</p> -->
-  <!--   <span><a href="https://www.linkedin.com/">LinkedIn</a></span> -->
   <br>
 </div>
 

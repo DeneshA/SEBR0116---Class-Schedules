@@ -304,13 +304,13 @@ ____
 
 
 
- <li><details><summary>Class Recordings - Group 2</summary><p>
+ <li><details><summary>Class Recordings</summary><p>
 
 | Monday | Tuesday | Wednesday | Thursday | Friday |
  |:---:|:---:|:---:|:---:|:---:|
  | [Recording](https://generalassembly.zoom.us/rec/share/w1Rf-C5P2Iv7WwunynJKK_FLKehTpZoL9zXN9eQkaWOC1i85jMV34PqEXYjnX4Fv.WjhprUHr264TDDXb) | [Recording](https://generalassembly.zoom.us/rec/share/-4cxHk0me5QfUZxt8Ds4GE8S4tSJt10WrHnUDBjfdxYslnxpgdahUnHXux6MHWos.SNGG38TA8CAQZlOS) | [Recording](https://generalassembly.zoom.us/rec/share/WfuEH4fb-mGGoFUBOW9NyRnGcKrROhaYM7oYPwBJchvb4a_0n6Cuf1PljMKxh-cA.CuICsZNG_gZcbpxA) | [Recording](https://generalassembly.zoom.us/rec/share/R_0VXhOYbAXNxRHHiKnSQwJ1uUh5bMyRnHba4MkUl-Zxp_qcPQnMTeDLvr3y6_88.PD4ZJQ4Sh15AKg-h) |[Recording](https://generalassembly.zoom.us/rec/share/n1-Gj_MAtjhGLUK3gX6hvQ-jmhysJybAZLZnNmTmpZEAWSTGZ7rCOmco8rxLwtfJ.e99bqAvYsPJWYFGC)|
  | Passcode: `&Ta9O50&` | Passcode: `y0#UWaa?` | Passcode: `^smC7*0E` | Passcode: `M6iwu4=s` | Passcode: `Jr7=@@74` |
->  
+-->
  </p></details></li>
  
   </ul>
@@ -319,7 +319,7 @@ ____
 
 </p></details>
   
--->
+
 ___
    
    
@@ -382,7 +382,7 @@ ___
   |:---:|:---:|:---:|:---:|:---:|
   | [Recording](https://generalassembly.zoom.us/rec/share/ffTiKu-oR2qVHgUe7PQJwKS5kI3exmcUTuXcf0j3UTjAgs-u132HPoUKhk2w-edz.bc6B7TQOdZDeKO0B) |   [Recording](https://generalassembly.zoom.us/rec/share/wKAR5owYiU754qo2X82vMN-I4FJtruS8KUm2zw49EwlH9cxQf3YhtaE8U-5NhU8R.u6c_Z3I4jV8qRlk1) | [Recording](https://generalassembly.zoom.us/rec/share/sc9DqncSDnCIhtGlAF1HGM9pd8mS7m2bgE8s4u-bANbvimieGQky0ykNWfBHX351.Vfz57037nmfWB_ZP) |  [Recording](https://generalassembly.zoom.us/rec/share/aumlwU3wt9aa8Z7VhejEA2hXqIkk83cZx31tRrTnvB-iu866NfsXb3ZAbOyzvXZb.oGHEoHpH-GVAVD4h) |
   | Passcode: `@.d6&L3w` | Passcode: `V%QQ+Nr7` | Passcode: `#7S$Dh*R` | Passcode: `z3$QYsf%` |
-
+ -->
   </p></details></li>
   
   </ul>
@@ -392,7 +392,7 @@ ___
 </p></details>
 
  
- -->
+
 
 ___
 <details><summary><strong>Unit 3</strong> - PostgreSQL | Sequelize</summary><p>
@@ -420,16 +420,15 @@ ___
   <ul type="none">
 
   <li><details><summary>Class Recordings</summary><p>
-  
+ 
 | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Recording](https://generalassembly.zoom.us/rec/share/17MFOFAqTOZeQttdUyRR9C0PRq8ETQ0G7cV5bwJxhHvs23ZTt0vPR-QNcFZ5RkbR.qC4rLNfjM58phIRh) | [Recording](https://generalassembly.zoom.us/rec/share/LjHfB-f5G4WRmnmTF8HDbqRJ58HvRlkHFWOMVH6wRSSuzsnnfatWwUjES_LLqLvB.qTEyU3gTZXCQue8q) | [Recording](https://generalassembly.zoom.us/rec/share/h0-l4u7pllE9sbgIohV76k5HW-9wTAwMr6MKlJucKrJ7plkK99E39P1Os480jGd4.y5spY08272n4NVzN) | <!-- [Recording]() -->| <!-- [Recording]() -->| 
+  | [Recording](https://generalassembly.zoom.us/rec/share/17MFOFAqTOZeQttdUyRR9C0PRq8ETQ0G7cV5bwJxhHvs23ZTt0vPR-QNcFZ5RkbR.qC4rLNfjM58phIRh) | [Recording](https://generalassembly.zoom.us/rec/share/LjHfB-f5G4WRmnmTF8HDbqRJ58HvRlkHFWOMVH6wRSSuzsnnfatWwUjES_LLqLvB.qTEyU3gTZXCQue8q) | [Recording](https://generalassembly.zoom.us/rec/share/h0-l4u7pllE9sbgIohV76k5HW-9wTAwMr6MKlJucKrJ7plkK99E39P1Os480jGd4.y5spY08272n4NVzN) || [Recording]()  
   | Passcode: `?g5mbk1E` | Passcode: `k1c^y^XF` | Passcode: `Y$S.5jQ8` | Passcode: `` | Passcode: `` |
-
+-->
  
-</p></details></li>
-	  
--->	  
+   </p></details></li>
+-->
   ___
   </p></details></li>
 
@@ -465,7 +464,7 @@ ___
 </p></details>
 
  
- -->
+
 
 ___
 <details><summary><strong>Unit 4</strong> -  Python | Django</summary><p>
@@ -499,8 +498,10 @@ ___
   | [Recording](https://generalassembly.zoom.us/rec/share/VEWSr_IzJo7D0IaI-J5iDt97W4JOY4xTfBptrIgQUg56J1tc8q8QvVNwKJs0JsZA.4DLkQVHjMaYXWm_D) | [Recording](https://generalassembly.zoom.us/rec/share/c2_vfhIyeEsoiHOXXMsoI3121KvlPcf1oKO0xqD7VzvYxqWj8e70ZiKG-V_AUdM.qJUzjSJT5gMSfiqd) | [Recording](https://generalassembly.zoom.us/rec/share/kcMLaelyvDOiCo9tOLVEObSP5fAu-cwP3aru4yr-wnBNUFpqHoG8cx6Gme3F9HkU.fwnlTvGrtVDLsy2i) | [Recording](https://generalassembly.zoom.us/rec/share/mknk_D0igQwnaQX8C2QENUnas8B2Mc9W00XPBgzl3IW4zEAS8Bn2y-uG4hrRJIuR.vCiZbxMXN7rvC_-p) | No Recording |
   | Passcode: `H6s6#*#2` | Passcode: `3DDLbP&%` | Passcode: `6MsS!%kZ` | Passcode: `x9Aj0=M3` |  |
 -->
+
   </p></details></li>
-___
+-->
+  ___
   </p></details></li>
 
   <li><details><summary><strong>Week 12</strong></summary><p>

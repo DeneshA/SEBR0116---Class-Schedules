@@ -275,8 +275,8 @@ ____
 
   | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Recording](https://generalassembly.zoom.us/rec/share/F7x31AAbNpltdeAAk2LyQRn3LlbOAGBDpIvZLJDiEV0JH3b1Cui9i3jFXFClJ3Tx.oIMAcARgVnSxZJbr)| [Recording](https://generalassembly.zoom.us/rec/share/6XpFfjj5sL92iwFkr9n4smh3RK_M5S6aZhpvXT-RxvG7LfMk4ooY6BOv9grkvbA2.G7DRfBnaujoZzJLD)|[Recording](https://generalassembly.zoom.us/rec/share/KptzSmjQ5LeWMCLEYrRO3PUxzfzGKo2e6HKO9AmPcED2Bg_N2KqOIgG_qspOUMUM.tICOh143LDWOWNjP)| [Recording](https://generalassembly.zoom.us/rec/share/LMCXrY7N9Gj9-QxOPYLTQYWCvDXQEhjr41U3eJZ4wCeP44YiEqKQcwhOM7gd21vD.5x0NPgXiMG4vcLe_)| [Recording](https://generalassembly.zoom.us/rec/share/1vVt0DXo66DKowCnkzqDMvPqY9bz-5JVJS8NIYu9lPsdN0VqgF784aST8lTGL-rI.wyKWm6jQtC_0hRwF)|
-  | Passcode: `w=?0kwr#`  | Passcode: `&sGpfTy9` | Passcode: ` z+5QD?Qv` | Passcode: `VRz9xNi.` | Passcode: `5rhb@.1&` |
+  | [Recording]()| [Recording]()|[Recording]()| [Recording]()| [Recording]()|
+  | Passcode: ``  | Passcode: `` | Passcode: ` ` | Passcode: `` | Passcode: `` |
 
   </p></details></li>
 

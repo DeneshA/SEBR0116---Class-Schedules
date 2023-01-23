@@ -291,7 +291,8 @@ ____
   In Week 2, we practice more <b>DOM Manipulation</b> and are introduced to <b>Daily JavaScript Challenges</b> and basic algorithmic problem solving. We learn about <b>ES6</b> syntax along with <b>Higher Order Functions</b> and <b>Object Oriented Programming</b> in JavaScript. At the end of the week, we learn how to call on external data sources with <b>APIs</b>.
   </p>
 
-  | Monday | Tuesday | Wednesday | Thursday | Friday |
+ <!--
+ | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
   |  [Daily JS Challenges](https://github.com/SEIR-1003/daily_js_challenges)| [JS HOF HW](https://github.com/SEIR-1003/u1_hw_HOF) | CSS Media Quieries  | JS KAHOOT | [Project 1 Prompt](https://github.com/SEI-R123/u1_project_prompt)|
   |  [ES6 Syntax](https://github.com/SEIR-1003/u1_lesson_ES6) |  [Intro to OOP](https://github.com/SEIR-1003/u1_lesson_OOP) | Wireframes| [Intro to APIs](https://github.com/SEIr-123/u1_lesson_intro_to_APIs) | Project Time|
@@ -318,7 +319,7 @@ ____
 
 </p></details>
   
-
+-->
 ___
    
    
@@ -332,7 +333,7 @@ ___
      In Week 4, we learn all about <b>React</b> and what an amazing JavaScript library it can be for developers. We learn the concepts of <b>components</b>, <b>props</b>, and about <b>React Hooks</b> and <b>functional components</b>. We learn about <b>useState</b> and how to use it to manage our state within our apps. We also get into how we can use <b>useEffect</b> to make axios calls in our React apps. Finally at the end of the week, we learn <b>React Router</b>, a powerful tool for navigating around our virtual DOM.
   </p>
 
-
+<!--
 | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
   | [Intro to React](https://github.com/SEIR-1003/u2_lesson_intro_to_react/blob/main/README.md) | [Component Hierarchy Diagrams](https://github.com/SEI-R-6-21/u2_lesson_component_hierarchy) | [React Router](https://github.com/SEIR-1003/u2_react_router_intro/blob/main/README.md)  |  [Intro to State & Hooks](https://github.com/SEIR-1003/u2_lesson_state_and_hooks) |[Calculator Lab](https://github.com/SEIR-1003/u2_react_calculator_lab/blob/main/README.md)|
@@ -354,7 +355,7 @@ ___
   | Passcode: `b95S6X#.` | Passcode: `8@F6Fj+$` | Passcode: `7K3SkA.M` | Passcode: `iK4+M&rv` | Passcode: `G%Jv!5Wk` |
 
   </p></details></li>
-
+-->
   ___
   </p></details></li>
 
@@ -364,7 +365,7 @@ ___
   In Week 5, we are introduced to back-end and get to practice using <b>Express</b> and <b>Express Middleware</b>.  We also learn how to implement <b>controllers</b>.  We then get a taste of <b>MongoDB</b> and <b>mongoose</b> as a way to store our app's data. We round out the week with a huge group <b>Hackathon!</b>
   </p>
 
-
+<!--
   | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
   | [useEffect](https://github.com/SEIR-1003/u2_lesson_useEffect) | [React Router](https://github.com/SEIR-1003/u2_lesson_react_router) | [useContext](https://github.com/SEIR-1003/u2_lesson_useContext) | Project Proposals | PROJECTS |
@@ -391,7 +392,7 @@ ___
 </p></details>
 
  
- 
+ -->
 
 ___
 <details><summary><strong>Unit 3</strong> - PostgreSQL | Sequelize</summary><p>
@@ -404,7 +405,7 @@ ___
   In Week 7, we spend the first few days building out a Full Stack app as a review of Unit 2! Then, we are introduced to <b>SQL databases</b> and start to learn SQL commands to interact with our database.  We also learn about the concept of <b>SQL Joins</b>. Then, we learn all about <b>Sequelize</b> and how it can interpret for our SQL database and our backend Node servers and we learn how to make <b>queries</b> with it!
   </p>
 
-    
+  <!--  
   | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
   | [SQL Intro](https://github.com/SEIR-1003/u3_lesson_SQL_intro)| [Intro to Express](https://github.com/SEIR-1003/u3_lesson_express_intro) | [Database Design](https://github.com/SEIR-1003/u3_lesson_database_design) | [Sequelize Intro](https://github.com/SEIR-1003/u3_lesson_sequelize_intro) | [Sequelize Migrations](https://github.com/SEIR-1003/u3_lesson_sequelize_migrations) |
@@ -427,6 +428,8 @@ ___
 
  
 </p></details></li>
+	  
+-->	  
   ___
   </p></details></li>
 
@@ -436,7 +439,7 @@ ___
   In Week 8, we cover Sequelize <b>migrations</b> and <b>associations</b>, as well as how to set up <b>Sequelize with Express</b>.  Then we learn all about how to integrate <b>user authentication</b> in our apps from scratch. At the end of the week, we learn how to set up <b>complex associations</b> in Sequelize and then split up into our Groups for Project 3!
   </p>
 
-  
+ <!-- 
   | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
   | [Express Sequelize]() | Full Stack Project | HOLIDAY BREAK | HOLIDAY BREAK  | HOLIDAY BREAK  |
@@ -462,7 +465,7 @@ ___
 </p></details>
 
  
- 
+ -->
 
 ___
 <details><summary><strong>Unit 4</strong> -  Python | Django</summary><p>
@@ -475,7 +478,7 @@ ___
   In Week 11, we are introduced to <b>Python</b> and learn about <b>functions</b>, <b>control flow</b>, <b>loops</b>, and <b>dictionaries</b>. We continue with Python through the week by learning about <b>tuples</b> and <b>OOP</b>. We then get a quick intro to <b>Django</b> and how to set up <b>views</b>. 
   </p>
 
-    
+ <!--   
   | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
   | [Intro to Python](https://github.com/SEIR-1003/u4_lesson_python_intro) | [Python Tuples Lab](https://github.com/SEIR-1003/u4_lab_python_tuple_exercise) | [Code War Challenges](https://github.com/SEIR-1003/u4_python_challenges/blob/main/README.md) | [Django Install](https://github.com/SEIR-1003/u4_lesson_django_intro) | [Django Serializer I](https://github.com/SEIR-1003/u4_lesson_django_REST_API) |
@@ -506,6 +509,7 @@ ___
   In Week 12, we continue with Python by working in groups for A stackathon challenge. At the end of the week, we begin our <b>Capstone Project</b>!
   </p>
 
+<!--
   | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
   | [Django Full Stackathon](https://github.com/SEIR-1003/u4_django_fullstack) | [Django Full Stackathon Cont...](https://github.com/SEIR-1003/u4_django_fullstack) | Full Stackathon Presentations | P4 Project Planning | Project Week |
@@ -516,7 +520,7 @@ ___
 
   <li><details><summary>Class Recordings</summary><p>
 
-  <!--| Monday | Tuesday | Wednesday | Thursday | Friday |
+  | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
   | No Recording | [Recording](https://generalassembly.zoom.us/rec/share/Z-QyP2YXdGoYVH5FMKtMbkueON2HtJ2SytEz2Ce_lr800G4Wlzi87salpqgq7DYU.ojfLVjBIaC5Mhb5s) | [Recording](https://generalassembly.zoom.us/rec/share/v-EJn260ACoULVzTZYnC5MrsrWNzT3H8-ihTjpmu1VE7_tIQD1JnrTamIwxzOq0y.v5w4kZy7tNRdskwC) | No Recording | No Recording |
   |  | Passcode: `84QCh@=*` | Passcode: `i4h^LC%X` |  |  |

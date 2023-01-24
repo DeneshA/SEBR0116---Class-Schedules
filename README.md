@@ -275,8 +275,8 @@ ____
 
   | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Recording]()| [Recording]()|[Recording]()| [Recording]()| [Recording]()|
-  | Passcode: ``  | Passcode: `` | Passcode: ` ` | Passcode: `` | Passcode: `` |
+  | [Recording](https://generalassembly.zoom.us/rec/share/HoSsZqVeetd4x3zPeABT_R6OOJePIE6Ea8OpXCVzNBSPTsoPDDVDPRWLzj6JF_s.099iG3nqPUwDrFyO)| [Recording]()|[Recording]()| [Recording]()| [Recording]()|
+  | Passcode: `ZGC^D5jM`  | Passcode: `` | Passcode: ` ` | Passcode: `` | Passcode: `` |
 
   </p></details></li>
 

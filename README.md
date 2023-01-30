@@ -294,11 +294,11 @@ ____
  
  | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  |  [ES6 Syntax](https://github.com/SEIR-123/u1_lesson_ES6) | Wireframing | CSS Media Queries  | | [Project 1 Prompt](https://github.com/SEI-R123/u1_project_prompt)|
-  | [JS HOF](https://github.com/SEIR-123/u1_hw_HOF |  [Intro to OOP](https://github.com/SEIR-123/u1_lesson_OOP) | Calculator| [Intro to APIs](https://github.com/SEIr-123/u1_lesson_intro_to_APIs) | Project Time|
-  | [ES6 Lab](https://github.com/SEIR-123/u1_lab_ES6_practice) | [OOP Exercise Lab](https://github.com/SEIR-123/u1_lab_OOP_exercise)  |    | [Poke' API](https://github.com/SEIR-123/u1_api-intro)|  
-  | Calculator |  | |  OUTCOMES|  |
-  |  |  |  | [P1 Prompt](https://github.com/SEIR-1003/u1_project_prompt) |  |
+  |  [ES6 Syntax](https://github.com/SEIR-123/u1_lesson_ES6) | Wireframing | CSS Media Queries  | [Intro to APIs](https://github.com/SEIr-123/u1_lesson_intro_to_APIs) | [Project 1 Prompt](https://github.com/SEI-R123/u1_project_prompt)|
+  | [ES6 Lab](https://github.com/SEIR-123/u1_lab_ES6_practice)  | Calculator  | [Intro to OOP](https://github.com/SEIR-123/u1_lesson_OOP)| [Poke' API](https://github.com/SEIR-123/u1_api-intro) | Project Time|
+  | [JS HOF](https://github.com/SEIR-123/u1_hw_HOF) |  OUTCOMES  |  [OOP Exercise Lab](https://github.com/SEIR-123/u1_lab_OOP_exercise)  | |  
+  | [JS Lab](https://github.com/seir-123/u1_lab_HOF) |  |[Donut Adventure] | [P1 Prompt](https://github.com/SEIR-1003/u1_project_prompt) |  |
+  |  |  |  |  |  |
 
  <ul type="none">
 

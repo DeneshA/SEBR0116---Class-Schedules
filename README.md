@@ -291,13 +291,13 @@ ____
   In Week 2, we practice more <b>DOM Manipulation</b> and are introduced to <b>Daily JavaScript Challenges</b> and basic algorithmic problem solving. We learn about <b>ES6</b> syntax along with <b>Higher Order Functions</b> and <b>Object Oriented Programming</b> in JavaScript. At the end of the week, we learn how to call on external data sources with <b>APIs</b>.
   </p>
 
- <!--
+ 
  | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  |  [Daily JS Challenges](https://github.com/SEIR-1003/daily_js_challenges)| [JS HOF HW](https://github.com/SEIR-1003/u1_hw_HOF) | CSS Media Quieries  | JS KAHOOT | [Project 1 Prompt](https://github.com/SEI-R123/u1_project_prompt)|
-  |  [ES6 Syntax](https://github.com/SEIR-1003/u1_lesson_ES6) |  [Intro to OOP](https://github.com/SEIR-1003/u1_lesson_OOP) | Wireframes| [Intro to APIs](https://github.com/SEIr-123/u1_lesson_intro_to_APIs) | Project Time|
+  |  [ES6 Syntax](https://github.com/SEIR-1003/u1_lesson_ES6) | [JS HOF HW](https://github.com/SEIR-1003/u1_hw_HOF) | CSS Media Quieries  | JS KAHOOT | [Project 1 Prompt](https://github.com/SEI-R123/u1_project_prompt)|
+  |  |  [Intro to OOP](https://github.com/SEIR-1003/u1_lesson_OOP) | Wireframes| [Intro to APIs](https://github.com/SEIr-123/u1_lesson_intro_to_APIs) | Project Time|
   | [ES6 Lab](https://github.com/SEIR-1003/u1_lab_ES6_practice) | [OOP Exercise Lab](https://github.com/SEIR-1003/u1_lab_OOP_exercise)  |  OUTCOMES  | [Poke' API](https://github.com/SEIR-1003/u1_api-intro)|  
-  | Calculator |  | | [NYC Crime API](https://github.com/SEIR-1003/u1_api_lab/blob/main/README.md) |  |
+  | Calculator |  | |  |  |
   |  |  |  | [P1 Prompt](https://github.com/SEIR-1003/u1_project_prompt) |  |
 
  <ul type="none">
@@ -308,9 +308,9 @@ ____
 
 | Monday | Tuesday | Wednesday | Thursday | Friday |
  |:---:|:---:|:---:|:---:|:---:|
- | [Recording](https://generalassembly.zoom.us/rec/share/w1Rf-C5P2Iv7WwunynJKK_FLKehTpZoL9zXN9eQkaWOC1i85jMV34PqEXYjnX4Fv.WjhprUHr264TDDXb) | [Recording](https://generalassembly.zoom.us/rec/share/-4cxHk0me5QfUZxt8Ds4GE8S4tSJt10WrHnUDBjfdxYslnxpgdahUnHXux6MHWos.SNGG38TA8CAQZlOS) | [Recording](https://generalassembly.zoom.us/rec/share/WfuEH4fb-mGGoFUBOW9NyRnGcKrROhaYM7oYPwBJchvb4a_0n6Cuf1PljMKxh-cA.CuICsZNG_gZcbpxA) | [Recording](https://generalassembly.zoom.us/rec/share/R_0VXhOYbAXNxRHHiKnSQwJ1uUh5bMyRnHba4MkUl-Zxp_qcPQnMTeDLvr3y6_88.PD4ZJQ4Sh15AKg-h) |[Recording](https://generalassembly.zoom.us/rec/share/n1-Gj_MAtjhGLUK3gX6hvQ-jmhysJybAZLZnNmTmpZEAWSTGZ7rCOmco8rxLwtfJ.e99bqAvYsPJWYFGC)|
- | Passcode: `&Ta9O50&` | Passcode: `y0#UWaa?` | Passcode: `^smC7*0E` | Passcode: `M6iwu4=s` | Passcode: `Jr7=@@74` |
--->
+ | [Recording]| [Recording]| [Recording] | [Recording] ||
+ | Passcode:  | Passcode:  | Passcode: | Passcode:  | Passcode:  |
+
  </p></details></li>
  
   </ul>

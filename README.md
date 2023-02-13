@@ -308,8 +308,8 @@ ____
 
 | Monday | Tuesday | Wednesday | Thursday | Friday |
  |:---:|:---:|:---:|:---:|:---:|
- | [Recording]| [Recording](https://generalassembly.zoom.us/rec/share/_myczvxpfOUM3FQ7w7fgEYy0yXnYQzutsPrEDTAj66w6N6w4m-FbF5c5a_zZrGu8.OX0IrFjoIi3e_Mo5)| [Recording](https://generalassembly.zoom.us/rec/share/fsZDx4AUj3edyl2YSi4T9ju11Li6-X2gl1Ud1Rrg2HYxkZHiBmTXufL76AgTSiiJ.UNUWkn8-S96L-NQA) | [Recording] ||
- | Passcode:  | Passcode:`CakU27!q`| Passcode:`A#6iq3mU` | Passcode:  | Passcode:  |
+ | [Recording]| [Recording](https://generalassembly.zoom.us/rec/share/_myczvxpfOUM3FQ7w7fgEYy0yXnYQzutsPrEDTAj66w6N6w4m-FbF5c5a_zZrGu8.OX0IrFjoIi3e_Mo5)| [Recording](https://generalassembly.zoom.us/rec/share/fsZDx4AUj3edyl2YSi4T9ju11Li6-X2gl1Ud1Rrg2HYxkZHiBmTXufL76AgTSiiJ.UNUWkn8-S96L-NQA) |  [Recording](https://generalassembly.zoom.us/rec/share/42A7SwpvmU8ejo1NWlUW7bSBgY6-BlYP3THNrQjSugaNiSakTTgeI2vKTCaoR-Wx.m3CdqPBQAmh3euu6) | [Recording](https://generalassembly.zoom.us/rec/share/MSInd1wR5zRyx6kqylz72oZzG1Qwkqzz1sZjlQkzw1mUi5aOc1UjrhcKVGxO3dxP.3FPfaS-w1nE0snf4)|
+ | Passcode:  | Passcode:`CakU27!q`| Passcode:`A#6iq3mU` | Passcode: `2JJLn!z` | Passcode: `H=4z7Cz@` |
 
  </p></details></li>
  
@@ -333,15 +333,15 @@ ___
      In Week 4, we learn all about <b>React</b> and what an amazing JavaScript library it can be for developers. We learn the concepts of <b>components</b>, <b>props</b>, and about <b>React Hooks</b> and <b>functional components</b>. We learn about <b>useState</b> and how to use it to manage our state within our apps. We also get into how we can use <b>useEffect</b> to make axios calls in our React apps. Finally at the end of the week, we learn <b>React Router</b>, a powerful tool for navigating around our virtual DOM.
   </p>
 
-<!--
+
 | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Intro to React](https://github.com/SEIR-1003/u2_lesson_intro_to_react/blob/main/README.md) | [Component Hierarchy Diagrams](https://github.com/SEI-R-6-21/u2_lesson_component_hierarchy) | [React Router](https://github.com/SEIR-1003/u2_react_router_intro/blob/main/README.md)  |  [Intro to State & Hooks](https://github.com/SEIR-1003/u2_lesson_state_and_hooks) |[Calculator Lab](https://github.com/SEIR-1003/u2_react_calculator_lab/blob/main/README.md)|
-  | [LOTR Lab](https://github.com/SEIR-1003/u2_lab_react_LOTR)| [Mapping Components](https://github.com/SEIR-1003/u2_lesson_react_mapping_components-1) | [React Portfolio](https://github.com/SEIR-1003/u2_react_portfolio_lab/blob/main/README.md) | [Likes Lab](https://github.com/SEIR-1003/u2_lab_likes)|  |
-  | [Conditionals Lab](https://github.com/SEIR-1003/u2_lab_conditional_rendering) | [Mapping Lab](https://github.com/SEI-R-6-21/u2_lab_mapping_contactss) | OUTCOMES | [React Forms](https://github.com/SEIR-1003/u2_lesson_react_forms) |  |
-  | [Hello React HW](https://github.com/SEIR-1003/u2_hw_hello_react/blob/main/README.md)  | [Movie Mapping HW](https://github.com/SEIR-1003/u2_hw_movie_mapping) | | [Groceries Lab](https://github.com/SEIR-1003/u2_lab_groceries)  |  |
-  |  ||  | [ATM Lab](https://github.com/SEIR-1003/u2_lab_react_ATM) |  |
-  |  | |  | [Password Validator](https://github.com/SEIR-1003/u2_lab_password_validator) |  |
+  | [Intro to React](https://github.com/seir-123/u2_lesson_intro_to_react/blob/main/README.md) | [Component Hierarchy Diagrams](https://github.com/seir-123/u2_lesson_component_hierarchy) | [React Router](https://github.com/seir-123/u2_react_router_intro)  |  [Intro to State & Hooks](https://github.com/seir-123/u2_lesson_state_and_hooks) |[Calculator Lab](https://github.com/seir-123/u2_react_calculator_lab)|
+  | [LOTR Lab](https://github.com/SEIR-1003/u2_lab_react_LOTRR)| [Portfolio](https://github.com/seir-123/u2_react_portfolio_lab) | [Mapping Components](https://github.com/seir-123/u2_lesson_react_mapping_components-1/blob/main/README.md) | [Likes Lab](https://github.com/seir-123/u2_lab_likes/blob/main/README.md)|  |
+  | [Conditionals Lab](https://github.com/seir-123/u2_lab_conditional_rendering) | OUTCOMES | [Mapping Lab](https://github.com/seir-123/u2_lab_mapping_contacts/blob/main/README.md) | [React Forms](https://github.com/seir-123/u2_react_forms) |  |
+  | [Hello React HW](https://github.com/seir-123/u2_hw_hello_react)  |  | [Movie Mapping HW](https://github.com/seir-123/u2_hw_movie_mapping) | [Groceries Lab](https://github.com/seir-123/u2_lab_groceries)  |  |
+  |  ||  | [ATM Lab](https://github.com/seir-123/u2_lab_react_ATM) |  |
+  |  | |  | [Password Validator](https://github.com/seir-123/u2_lab_password_validator) |  |
 
 <ul type="none">
 
@@ -351,11 +351,11 @@ ___
 
 | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Recording](https://generalassembly.zoom.us/rec/share/FXJpSSFSKiigCBNt4l6xyS5U4LQEHgk_SF0MLKslHGmqOS8lHKWSibwTHPycKESu.-N1_FaTz8Kdan4Fw) | [Recording](https://generalassembly.zoom.us/rec/share/tfw3k_muD72MaSzEFElOTWbF55FnXuq1yWZ8Nd7C6oa5UTBGeHpCBJwWsVOGB55L.5838VjUeCxebfwOr) | [Recording](https://generalassembly.zoom.us/rec/share/2ZJD4LNvD5GvuPPKQBRvR29qYRWWvo1LZt1_p3krRN_edzbO1vj-X8MWcOtjMSzn.Pt35N9_IUg1QNP52) | [Recording](https://generalassembly.zoom.us/rec/share/27yva2f5HJImQ8PjUypsmO-0-fPoqWrD0StB3BZkgiIV3r33marHxQSAlot9c6nd.mT_1KrME0qdDMT6R) | [Recording](https://generalassembly.zoom.us/rec/share/Mr2RSi68R1NiebudnySOyHgwIuqkeSRgwTRjDpuwrEt5HhENzl4FgiWv_0-SBw4.PsSADazrGSF5rMb9) |
-  | Passcode: `b95S6X#.` | Passcode: `8@F6Fj+$` | Passcode: `7K3SkA.M` | Passcode: `iK4+M&rv` | Passcode: `G%Jv!5Wk` |
+  | [Recording]() | [Recording]() | [Recording]() | [Recording]() | [Recording]() |
+  | Passcode: `` | Passcode: `` | Passcode: `` | Passcode: `` | Passcode: `` |
 
   </p></details></li>
--->
+
   ___
   </p></details></li>
 

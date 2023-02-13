@@ -339,7 +339,7 @@ ___
   | [Intro to React](https://github.com/seir-123/u2_lesson_intro_to_react/blob/main/README.md) | [Component Hierarchy Diagrams](https://github.com/seir-123/u2_lesson_component_hierarchy) | [React Router](https://github.com/seir-123/u2_react_router_intro)  |  [Intro to State & Hooks](https://github.com/seir-123/u2_lesson_state_and_hooks) |[Calculator Lab](https://github.com/seir-123/u2_react_calculator_lab)|
   | [LOTR Lab](https://github.com/SEIR-1003/u2_lab_react_LOTRR)| [Portfolio](https://github.com/seir-123/u2_react_portfolio_lab) | [Mapping Components](https://github.com/seir-123/u2_lesson_react_mapping_components-1/blob/main/README.md) | [Likes Lab](https://github.com/seir-123/u2_lab_likes/blob/main/README.md)|  |
   | [Korilla Lab](https://github.com/seir-123/u2_react_Korilla_receipts/blob/main/README.md) | OUTCOMES | [Mapping Lab](https://github.com/seir-123/u2_lab_mapping_contacts/blob/main/README.md) | [React Forms](https://github.com/seir-123/u2_react_forms) |  |
-  | [Hello React HW](https://github.com/seir-123/u2_hw_hello_react)  |  | [Movie Mapping HW](https://github.com/seir-123/u2_hw_movie_mapping) | [Groceries Lab](https://github.com/seir-123/u2_lab_groceries)  |  |
+  |   |  | [Movie Mapping HW](https://github.com/seir-123/u2_hw_movie_mapping) | [Groceries Lab](https://github.com/seir-123/u2_lab_groceries)  |  |
   |  ||  | [ATM Lab](https://github.com/seir-123/u2_lab_react_ATM) |  |
   |  | |  | [Password Validator](https://github.com/seir-123/u2_lab_password_validator) |  |
 

@@ -308,8 +308,8 @@ ____
 
 | Monday | Tuesday | Wednesday | Thursday | Friday |
  |:---:|:---:|:---:|:---:|:---:|
- | [Recording]| [Recording](https://generalassembly.zoom.us/rec/share/_myczvxpfOUM3FQ7w7fgEYy0yXnYQzutsPrEDTAj66w6N6w4m-FbF5c5a_zZrGu8.OX0IrFjoIi3e_Mo5)| [Recording](https://generalassembly.zoom.us/rec/share/fsZDx4AUj3edyl2YSi4T9ju11Li6-X2gl1Ud1Rrg2HYxkZHiBmTXufL76AgTSiiJ.UNUWkn8-S96L-NQA) |  [Recording](https://generalassembly.zoom.us/rec/share/42A7SwpvmU8ejo1NWlUW7bSBgY6-BlYP3THNrQjSugaNiSakTTgeI2vKTCaoR-Wx.m3CdqPBQAmh3euu6) | [Recording](https://generalassembly.zoom.us/rec/share/MSInd1wR5zRyx6kqylz72oZzG1Qwkqzz1sZjlQkzw1mUi5aOc1UjrhcKVGxO3dxP.3FPfaS-w1nE0snf4)|
- | Passcode:  | Passcode:`CakU27!q`| Passcode:`A#6iq3mU` | Passcode: `2JJLn!z` | Passcode: `H=4z7Cz@` |
+ | [Recording](https://generalassembly.zoom.us/rec/share/_myczvxpfOUM3FQ7w7fgEYy0yXnYQzutsPrEDTAj66w6N6w4m-FbF5c5a_zZrGu8.OX0IrFjoIi3e_Mo5)| | [Recording](https://generalassembly.zoom.us/rec/share/fsZDx4AUj3edyl2YSi4T9ju11Li6-X2gl1Ud1Rrg2HYxkZHiBmTXufL76AgTSiiJ.UNUWkn8-S96L-NQA) |  [Recording](https://generalassembly.zoom.us/rec/share/42A7SwpvmU8ejo1NWlUW7bSBgY6-BlYP3THNrQjSugaNiSakTTgeI2vKTCaoR-Wx.m3CdqPBQAmh3euu6) | [Recording](https://generalassembly.zoom.us/rec/share/MSInd1wR5zRyx6kqylz72oZzG1Qwkqzz1sZjlQkzw1mUi5aOc1UjrhcKVGxO3dxP.3FPfaS-w1nE0snf4)|
+ | Passcode:`CakU27!q`  | | Passcode:`A#6iq3mU` | Passcode: `2JJLn!z` | Passcode: `H=4z7Cz@` |
 
  </p></details></li>
  

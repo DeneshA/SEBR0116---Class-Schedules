@@ -368,20 +368,19 @@ ___
 <!--
   | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | [useEffect](https://github.com/SEIR-1003/u2_lesson_useEffect) | [React Router](https://github.com/SEIR-1003/u2_lesson_react_router) | [useContext](https://github.com/SEIR-1003/u2_lesson_useContext) | Project Proposals | PROJECTS |
-  | [React API](https://github.com/SEIR-1003/u2_lesson_react_APIs) | [React Router Lab](https://github.com/SEIR-1003/u2_lab_react_router) | [Context Lab](https://github.com/SEIR-1003/u2_react_useContext_lab/blob/main/README.md) |  | |
-  | [STARWARS Lab](https://github.com/SEIR-1003/u2_react_axios_lab) |  | [Project 2 Promt](https://github.com/SEIR-1003/project2_prompt/blob/main/README.md) |  |  |
-  |  | | Outcomes  |  |  |
-  |  |  |  |  |  |
-  |  |  | 
+  | HOLIDAY | [React Router](https://github.com/seir-123/u2_lesson_react_router) | [useEffect](https://github.com/seir-123/u2_lesson_useEffect) |  [useContext](https://github.com/seir-123/u2_lesson_useContext)  | Project Proposals |
+  |  | [React Router Lab](https://github.com/seir-123/u2_lab_react_router) | [React API](https://github.com/seir-123/u2_lesson_react_APIs)| [Context Lab](https://github.com/seir-123/u2_react_useContext_lab)  | Resct Review |
+  | | Outcomes | [STARWARS Lab](https://github.com/seir-123/u2_react_axios_lab)  |[Project 2 Promt](https://github.com/seir-123/project2_prompt/blob/main/README.md) | Project Work |
+  |  | |  |  |  |
+ 
 
 
   <li><details><summary>Class Recordings </summary><p>
 
 | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Recording](https://generalassembly.zoom.us/rec/share/ffTiKu-oR2qVHgUe7PQJwKS5kI3exmcUTuXcf0j3UTjAgs-u132HPoUKhk2w-edz.bc6B7TQOdZDeKO0B) |   [Recording](https://generalassembly.zoom.us/rec/share/wKAR5owYiU754qo2X82vMN-I4FJtruS8KUm2zw49EwlH9cxQf3YhtaE8U-5NhU8R.u6c_Z3I4jV8qRlk1) | [Recording](https://generalassembly.zoom.us/rec/share/sc9DqncSDnCIhtGlAF1HGM9pd8mS7m2bgE8s4u-bANbvimieGQky0ykNWfBHX351.Vfz57037nmfWB_ZP) |  [Recording](https://generalassembly.zoom.us/rec/share/aumlwU3wt9aa8Z7VhejEA2hXqIkk83cZx31tRrTnvB-iu866NfsXb3ZAbOyzvXZb.oGHEoHpH-GVAVD4h) |
-  | Passcode: `@.d6&L3w` | Passcode: `V%QQ+Nr7` | Passcode: `#7S$Dh*R` | Passcode: `z3$QYsf%` |
+  | [Recording]() | [Recording]() | [Recording]() | [Recording]() | [Recording]() |
+  | Passcode: `` | Passcode: `` | Passcode: `` | Passcode: `` | Passcode: `` |
  -->
   </p></details></li>
   

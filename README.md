@@ -368,9 +368,9 @@ ___
 
   | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | HOLIDAY |[useEffect](https://github.com/seir-123/u2_lesson_useEffect)  | [useContext](https://github.com/seir-123/u2_lesson_useContext)  | [Project 2 Proposal](https://github.com/seir-123/project2_prompt/blob/main/README.md)  | [Project 2](https://github.com/seir-123/project2_prompt/blob/main/README.md) |
-  |  | [React API](https://github.com/seir-123/u2_lesson_react_APIs)  | [Context Lab](https://github.com/seir-123/u2_react_useContext_lab) |  React Review |  |
-  | |[STARWARS Lab](https://github.com/seir-123/u2_react_axios_lab) |   | |  |
+  | HOLIDAY |[useEffect](https://github.com/seir-123/u2_lesson_useEffect)  | [Router II](https://github.com/seir-123/u2_lesson_react_router)  | [useContext](https://github.com/seir-123/u2_lesson_useContext)  | [Project 2](https://github.com/seir-123/project2_prompt/blob/main/README.md) |
+  |  | [React API](https://github.com/seir-123/u2_lesson_react_APIs)  | [Router Lab](https://github.com/seir-123/u2_lab_react_router)| [Context Lab](https://github.com/seir-123/u2_react_useContext_lab)   | React Review |
+  | |[STARWARS Lab](https://github.com/seir-123/u2_react_axios_lab) |   | Project Proposals |  |
   |  | OUTCOMES|  |  |  |
  
 

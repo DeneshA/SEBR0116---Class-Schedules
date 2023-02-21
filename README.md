@@ -365,13 +365,13 @@ ___
   In Week 5, we are introduced to back-end and get to practice using <b>Express</b> and <b>Express Middleware</b>.  We also learn how to implement <b>controllers</b>.  We then get a taste of <b>MongoDB</b> and <b>mongoose</b> as a way to store our app's data. We round out the week with a huge group <b>Hackathon!</b>
   </p>
 
-<!--
+
   | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | HOLIDAY | [React Router](https://github.com/seir-123/u2_lesson_react_router) | [useEffect](https://github.com/seir-123/u2_lesson_useEffect) |  [useContext](https://github.com/seir-123/u2_lesson_useContext)  | Project Proposals |
-  |  | [React Router Lab](https://github.com/seir-123/u2_lab_react_router) | [React API](https://github.com/seir-123/u2_lesson_react_APIs)| [Context Lab](https://github.com/seir-123/u2_react_useContext_lab)  | Resct Review |
-  | | Outcomes | [STARWARS Lab](https://github.com/seir-123/u2_react_axios_lab)  |[Project 2 Promt](https://github.com/seir-123/project2_prompt/blob/main/README.md) | Project Work |
-  |  | |  |  |  |
+  | HOLIDAY |[useEffect](https://github.com/seir-123/u2_lesson_useEffect)  | [useContext](https://github.com/seir-123/u2_lesson_useContext)  | [Project 2 Proposal](https://github.com/seir-123/project2_prompt/blob/main/README.md)  | [Project 2](https://github.com/seir-123/project2_prompt/blob/main/README.md) |
+  |  | [React API](https://github.com/seir-123/u2_lesson_react_APIs)  | [Context Lab](https://github.com/seir-123/u2_react_useContext_lab) |  React Review |  |
+  | |[STARWARS Lab](https://github.com/seir-123/u2_react_axios_lab) |   | |  |
+  |  | OUTCOMES|  |  |  |
  
 
 
@@ -381,7 +381,7 @@ ___
   |:---:|:---:|:---:|:---:|:---:|
   | [Recording]() | [Recording]() | [Recording]() | [Recording]() | [Recording]() |
   | Passcode: `` | Passcode: `` | Passcode: `` | Passcode: `` | Passcode: `` |
- -->
+ 
   </p></details></li>
   
   </ul>

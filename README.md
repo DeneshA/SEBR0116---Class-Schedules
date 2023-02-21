@@ -351,8 +351,8 @@ ___
 
 | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Recording](https://generalassembly.zoom.us/rec/share/xhbmONFGRS43yc6jbzRapBE1iW9LgCTOP-Eunn0LPqCKBnUhANKkAQ_om1zInjtT.P3TB9mMQ4zk_4Ewe) | [Recording]() | [Recording]() | [Recording]() | [Recording]() |
-  | Passcode: `P246nby!` | Passcode: `` | Passcode: `` | Passcode: `` | Passcode: `` |
+  | [Recording](https://generalassembly.zoom.us/rec/share/xhbmONFGRS43yc6jbzRapBE1iW9LgCTOP-Eunn0LPqCKBnUhANKkAQ_om1zInjtT.P3TB9mMQ4zk_4Ewe) | [Recording](https://generalassembly.zoom.us/rec/share/xhbmONFGRS43yc6jbzRapBE1iW9LgCTOP-Eunn0LPqCKBnUhANKkAQ_om1zInjtT.P3TB9mMQ4zk_4Ewe) | [Recording](https://generalassembly.zoom.us/rec/share/fh2EqDrXONFgiYTvUCQtUSCZDn5CNtZ0V8sIHjrXm9k9aKu_fEECV-0K0qbhl-8.45-XXNVptGfWXoMV) | [Recording](https://generalassembly.zoom.us/rec/share/RY8GmzDxcdzplFmv9GNCqeavZpRo95oqGbr5S0oOZozK9fUVNl4NnSO7UKdHYwRQ.aF-paFRznraRUMDj) | [No Recording]() |
+  | Passcode: `P246nby!` | Passcode: `P246nby!` | Passcode: `!T73bj@u` | Passcode: `8yw*23Bb` | Passcode: `` |
 
   </p></details></li>
 

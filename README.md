@@ -404,16 +404,16 @@ ___
   In Week 7, we spend the first few days building out a Full Stack app as a review of Unit 2! Then, we are introduced to <b>SQL databases</b> and start to learn SQL commands to interact with our database.  We also learn about the concept of <b>SQL Joins</b>. Then, we learn all about <b>Sequelize</b> and how it can interpret for our SQL database and our backend Node servers and we learn how to make <b>queries</b> with it!
   </p>
 
-  <!--  
+ 
   | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | [SQL Intro](https://github.com/SEIR-1003/u3_lesson_SQL_intro)| [Intro to Express](https://github.com/SEIR-1003/u3_lesson_express_intro) | [Database Design](https://github.com/SEIR-1003/u3_lesson_database_design) | [Sequelize Intro](https://github.com/SEIR-1003/u3_lesson_sequelize_intro) | [Sequelize Migrations](https://github.com/SEIR-1003/u3_lesson_sequelize_migrations) |
-  | [SQL Practice Lab](https://github.com/SEIR-1003/u3_lab_SQL_practice) | [Express Routes](https://github.com/SEIR-1003/u3_lesson_express_routing) | [ERD's](https://github.com/SEIR-1003/u3_lesson_ERD) | [Sequelize Queries](https://github.com/SEIR-1003/u3_lesson_sequelize_queries-1) | [Migrations Lab](https://github.com/SEIR-1003/u3_lab_sequelize_migrations_exercise) |
-  |[SQL Joins](https://github.com/SEIR-1003/u3_lesson_SQL_joins)  | [Intro to Middle](https://github.com/SEIR-1003/u3_lesson_express_middleware) |  Outcomes| [Sequelize Query Lab](https://github.com/SEIR-1003/u3_lab_sequelize_querying)  | [Git Group](https://github.com/SEIR-1003/u3_lesson_group_git) |
-  | [SQL Joins lab](https://github.com/SEIR-1003/u3_lab_SQL_joins) | [Express Controllers](https://github.com/SEIR-1003/u3_lesson_express_controllers)  |  | [Sequelize Associateions](https://github.com/SEIR-1003/u3_lesson_sequelize_associations) | [Associations hw](https://github.com/SEIR-1003/u3_hw_sequelize_associations_and_migrations) |
-  | [Carmen Sandiego HW](https://github.com/SEIR-1003/u3_hw_carmen_sandiego) | [Express Fruits API](https://github.com/SEIR-1003/u3_hw_express_fruits) |  | [Associations Exercise](https://github.com/SEIR-1003/u3_lab_sequelize_associations_exercise) | |
-|||| [Complex Associations](https://github.com/SEIR-1003/u3_lesson_sequelize_complex_associations)|
-| | | |[Sequelize Practice](https://github.com/SEIR-1003/u3_hw_sequelize_practice) |
+  | [SQL Intro](https://github.com/seir-123/u3_lesson_SQL_intro)| [Sequelize Intro](https://github.com/seir-123/u3_lesson_sequelize_intro) | [Database Design](https://github.com/seir-123/u3_lesson_database_design) | [ERD's](https://github.com/seir-123/u3_lesson_ERD) | [Intro to Express](https://github.com/seir-123/u3_lesson_express_intro-1) |
+  | [SQL Practice Lab](https://github.com/seir-123/u3_lab_SQL_practice) | [Sequelize Queries](https://github.com/seir-123/u3_lesson_sequelize_queries-1) | [Sequelize Associations](https://github.com/seir-123/u3_lesson_sequelize_associations) | [Sequelize Migrations](https://github.com/seir-123/u3_lesson_sequelize_migrations) | [Express Routes](https://github.com/seir-123/u3_lesson_express_routing) |
+  |[SQL Joins](https://github.com/seir-123/u3_lesson_SQL_joins)  | [ Query Lab](https://github.com/seir-123/u3_lab_sequelize_querying) |  [Associations Exercise](https://github.com/seir-123/u3_lab_sequelize_associations_exercise) | [Migrations Lab](https://github.com/seir-123/u3_lab_sequelize_migrations_exercise)  | [Intro to Middle](https://github.com/seir-123/u3_lesson_express_middleware) |
+  | [SQL Joins lab](https://github.com/seir-123/u3_lab_SQL_joins) | OUTCOMES | [Complex Associations](https://github.com/seir-123/u3_lesson_sequelize_complex_associations) | [ Associateions HW ](https://github.com/seir-123/u3_hw_sequelize_associations_and_migrations) | [Express Controllers](https://github.com/seir-123/u3_lesson_express_controllers) |
+  | [Carmen Sandiego HW](https://github.com/seir-123/u3_hw_carmen_sandiego) |  | [Sequelize Practice](https://github.com/seir-123/u3_hw_sequelize_practice) |  | [Express Fruits](https://github.com/seir-123/u3_hw_express_fruits)|
+|||| |
+| | | | |
 
 
   <ul type="none">
@@ -424,11 +424,11 @@ ___
 
 | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Recording](https://generalassembly.zoom.us/rec/share/FXJpSSFSKiigCBNt4l6xyS5U4LQEHgk_SF0MLKslHGmqOS8lHKWSibwTHPycKESu.-N1_FaTz8Kdan4Fw) | [Recording](https://generalassembly.zoom.us/rec/share/tfw3k_muD72MaSzEFElOTWbF55FnXuq1yWZ8Nd7C6oa5UTBGeHpCBJwWsVOGB55L.5838VjUeCxebfwOr) | [Recording](https://generalassembly.zoom.us/rec/share/2ZJD4LNvD5GvuPPKQBRvR29qYRWWvo1LZt1_p3krRN_edzbO1vj-X8MWcOtjMSzn.Pt35N9_IUg1QNP52) | [Recording](https://generalassembly.zoom.us/rec/share/27yva2f5HJImQ8PjUypsmO-0-fPoqWrD0StB3BZkgiIV3r33marHxQSAlot9c6nd.mT_1KrME0qdDMT6R) | [Recording](https://generalassembly.zoom.us/rec/share/Mr2RSi68R1NiebudnySOyHgwIuqkeSRgwTRjDpuwrEt5HhENzl4FgiWv_0-SBw4.PsSADazrGSF5rMb9) |
-  | Passcode: `b95S6X#.` | Passcode: `8@F6Fj+$` | Passcode: `7K3SkA.M` | Passcode: `iK4+M&rv` | Passcode: `G%Jv!5Wk` |
+  | [Recording](https://generalassembly.zoom.us/rec/share/9uV4FZZFWETM5pKJC_t_PINg2pJc9ZXL9or5GLEtAoJknxxot_AyAT4OnAUazPlO.haPG1YSDf7cKkWVV) | [Recording]() | [Recording]() | [Recording]() | [Recording]() |
+  | Passcode: `692TdrH=` | Passcode: `` | Passcode: `` | Passcode: `` | Passcode: `` |
 
   </p></details></li>
--->
+
   ___
   </p></details></li>
 

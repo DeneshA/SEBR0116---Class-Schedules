@@ -362,7 +362,7 @@ ___
   <li><details><summary><strong>Week 5</strong></summary><p>
 
   <p>
-  In Week 5, we are introduced to back-end and get to practice using <b>Express</b> and <b>Express Middleware</b>.  We also learn how to implement <b>controllers</b>.  We then get a taste of <b>MongoDB</b> and <b>mongoose</b> as a way to store our app's data. We round out the week with a huge group <b>Hackathon!</b>
+  In Week we continue to work with React Functional Components, learning about some amazing Hooks like useEffect and useContext, as well as two powerful libraries, Axios and the React Router
   </p>
 
 
@@ -401,7 +401,7 @@ ___
   <li><details><summary><strong>Week 7</strong></summary><p>
 
   <p>
-  In Week 7, we spend the first few days building out a Full Stack app as a review of Unit 2! Then, we are introduced to <b>SQL databases</b> and start to learn SQL commands to interact with our database.  We also learn about the concept of <b>SQL Joins</b>. Then, we learn all about <b>Sequelize</b> and how it can interpret for our SQL database and our backend Node servers and we learn how to make <b>queries</b> with it!
+  In Week 7 we are introduced to <b>SQL databases</b> and start to learn SQL commands to interact with our database.  We also learn about the concept of <b>SQL Joins</b>. Then, we learn all about <b>Sequelize</b> and how it can interpret for our SQL database and our backend Node servers and we learn how to make <b>queries</b> with it, as well as how to set up <b>Sequelize with Express</b>
   </p>
 
  
@@ -435,7 +435,7 @@ ___
   <li><details><summary><strong>Week 8</strong></summary><p>
 
   <p>
-  In Week 8, we cover Sequelize <b>migrations</b> and <b>associations</b>, as well as how to set up <b>Sequelize with Express</b>.  Then we learn all about how to integrate <b>user authentication</b> in our apps from scratch. At the end of the week, we learn how to set up <b>complex associations</b> in Sequelize and then split up into our Groups for Project 3!
+  In Week 8, we learn all about how to integrate <b>user authentication</b> in our apps from scratch. At the end of the week, we learn how to set up <b>complex associations</b> in Sequelize and then split up into our Groups for Project 3!
   </p>
 
  <!-- 

@@ -424,8 +424,8 @@ ___
 
 | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Recording](https://generalassembly.zoom.us/rec/share/9uV4FZZFWETM5pKJC_t_PINg2pJc9ZXL9or5GLEtAoJknxxot_AyAT4OnAUazPlO.haPG1YSDf7cKkWVV) | [Recording]() | [Recording]() | [Recording]() | [Recording]() |
-  | Passcode: `692TdrH=` | Passcode: `` | Passcode: `` | Passcode: `` | Passcode: `` |
+  | [Recording](https://generalassembly.zoom.us/rec/share/9uV4FZZFWETM5pKJC_t_PINg2pJc9ZXL9or5GLEtAoJknxxot_AyAT4OnAUazPlO.haPG1YSDf7cKkWVV) | [Recording](https://generalassembly.zoom.us/rec/share/uKCuqZa3ayPbwveXKTyrpG-CoE9LeZ7q8ZrhHweIDueskKRRZcxPDfqD3GMfzD1x.x8l3bXTSGuLU-_0r) | [Recording](https://generalassembly.zoom.us/rec/share/yvcObbUQgrxYdpcgPRym3WkZQu6ysYBjtAEapHENCgWTmpYVl9i63bPR7wtvrFPU.q9Nt-4cZKzD4U7PC) | [Recording](https://generalassembly.zoom.us/rec/share/2z58ZFX5KOWWftOVTVzh-jIFtWsdNb6c0E2CoKnp3oPO-jQblgdFLWB6XXmmtUCo.5aJCUTFv07pd73zm) | [Recording](https://generalassembly.zoom.us/rec/share/7NCgrYJZmWQ6JP6n_ZQYy10pCaLQA3gKQWFlU45c_mrXPqu0tni_E7li6kWNZREE.CMVXDlxRF_IpYmy3) |
+  | Passcode: `692TdrH=` | Passcode: `=vpVTa2q` | Passcode: `s#3wQAs2` | Passcode: `z1b#Lx5^` | Passcode: `Vdf$UnP8` |
 
   </p></details></li>
 
@@ -438,23 +438,23 @@ ___
   In Week 8, we learn all about how to integrate <b>user authentication</b> in our apps from scratch. At the end of the week, we learn how to set up <b>complex associations</b> in Sequelize and then split up into our Groups for Project 3!
   </p>
 
- <!-- 
+ 
   | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Express Sequelize]() | Full Stack Project | HOLIDAY BREAK | HOLIDAY BREAK  | HOLIDAY BREAK  |
-  | [Sequelize API from scratch]() | [P3 Group Demo]() |  |  | |
-  | [Router Lab]() | | |  |  |
+  | [Express Sequelize](https://github.com/seir-123/u3_lesson_express_sequelize) | [Group Git](https://github.com/seir-123/u3_lesson_group_git) | [JWT](https://github.com/seir-123/u3_lesson_JWT_auth) | Project Proposal  | Project Work |
+  | [Sequelize API from scratch](https://github.com/seir-123/u3_lab_sequelize_API_from_scratch) | [Full Stack Lab](https://github.com/seir-123/u3_lab_PERN_stack/blob/main/README.md) | [Sequelize Auth](https://github.com/seir-123/u3_lesson_sequelize_auth-1) | Proposal Presentations  | |
+  | [Router Lab]() | [Auth Practice Reading](https://github.com/seir-123/u3_hw_JWT_auth_study/blob/main/README.md)| [React Auth](https://github.com/seir-123/u3_lesson_react_auth) |  |  |
   
 
   <ul type="none">
 
   <li><details><summary>Class Recordings</summary><p>
 
-  <!--| Monday | Tuesday | Wednesday | Thursday | Friday |
+| Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Recording](https://generalassembly.zoom.us/rec/share/SRw1cFztUQnR8geFaPOh1KWlMGaZmPa3-i0CJiL820bnkz_257iEO3EPZcJ-NjRb.I-lw6NBXrtnpb3Rd) | [Recording](https://generalassembly.zoom.us/rec/share/xB440xZjxTuvQgCj5fiO55LYRcEaxyY7xftsLgII6r7vf9h30JG5IK9vAq3WMtq_.cW_6fog9dofBmDBe) | [Recording](https://generalassembly.zoom.us/rec/share/jtUOpTmmDYv9ZU6-Tv5dOq-5Wgnv3u9vRlfpYAm1NysWJISD00u97TQkRJeD6xoN.0sMqu3RuRN9WuWwG) | No Recording | No Recording |
-  | Passcode: `k#h#h6u1` | Passcode: `M%hvy8@v` | Passcode: `u&vhC40K` |  |  |
--->
+  | [Recording]() | [Recording]() | [Recording]() | [Recording]() |[Recording]()|
+  | Passcode: `` | Passcode: `` | Passcode: `` | Passcode: ``  |  Passcode: `` |
+
  </p></details></li>
   
   </ul>

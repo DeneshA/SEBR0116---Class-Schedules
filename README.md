@@ -452,8 +452,8 @@ ___
 
 | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Recording]() | [Recording]() | [Recording]() | [Recording]() |[Recording]()|
-  | Passcode: `` | Passcode: `` | Passcode: `` | Passcode: ``  |  Passcode: `` |
+  | [Recording](https://generalassembly.zoom.us/rec/share/8HQJaLMPCJwcEmdN6H9Zad01GNjmoLCclRFv4CCl1JZN-xNNi7YeF7AJC0h6kvJp.pclB8UGJL5RxJNG3) | [Recording]() | [Recording]() | [Recording]() |[Recording]()|
+  | Passcode: `$jg?^C4i` | Passcode: `` | Passcode: `` | Passcode: ``  |  Passcode: `` |
 
  </p></details></li>
   

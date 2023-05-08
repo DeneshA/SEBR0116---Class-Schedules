@@ -262,12 +262,12 @@ ____
 
   | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | [InstallFest](https://github.com/SEIR-123/u1_installations)| [Github / Homework Submission](https://github.com/SEIR-123/u1_lesson_github) | [JS Datatypes](https://github.com/SEIR-123/u1_lesson_js_data_types)  |  [JS Functions](https://github.com/SEIR-123/u1_lesson_js_functions) | [Intro Daily JS Challenges](https://github.com/SEIR-123/daily_js_challenges)
-  | [Terminal Lesson](https://github.com/SEIR-123/u1_lesson_terminal)  | [Intro to HTML](https://github.com/SEIR-123/u1_lesson_intro_HTML) | [JS Arrays](https://github.com/SEIR-123/u1_lesson_js_arrays)| [JS Scope](https://github.com/SEIR-123/u1_lesson_js_scope) | [JS Events](https://github.com/SEIR-123/u1_lesson_js_events)
-  |  [Git Lesson](https://github.com/SEIR-123/u1_lesson_git-1) | [Grumpy Cat Resume](https://github.com/SEIR-123/u1_lab_fake_resume-1) | [JS Loops & Control Flow](https://github.com/SEIR-123/u1_lesson_loops_and_control_flow) | [JS Objects](https://github.com/SEIR-123/u1_lesson_js_objects) | [JS Dots Game Lab](https://github.com/SEIR-123/u1_lab_dots)| 
-  |  [VS Code Lesson](https://github.com/SEIR-123/u1_lesson_VSCode/blob/main/README.md)| [Intro to CSS](https://github.com/SEIR-123/u1_lesson_intro_CSS-1) | [Data Types practice](https://github.com/SEIR-123/U1_data_types_practice)  | [Jurassic Objects Lab](https://github.com/SEIR-123/u1_lab_jurassic_objects) |   | |
-  | [Star Wars HW](https://github.com/seir-123/u1_hw_star_wars)  | [Flex & Grid](https://github.com/SEIR-123/u1_lesson_flex_grid) | [Arrays and Iteration Lab](https://github.com/SEIR-123/u1_arrays_and_iteration_lab)  | [CodeWars](https://github.com/SEIR-123/u1_hw_codewars_challenges) | [Tic Tac Toe HW](https://github.com/SEIR-123/u1_hw_tic_tac_toe) |
-  |  | [Fashion blog](https://github.com/SEIR-123/Fashion-Blog-1)  | [Control Flow Adventure HW](https://github.com/SEIR-123/u1_hw_control_flow_adventure) | |  |
+  | Introductions| [JS Intro- Datatypes](https://github.com/SEIR-0508/u1_js_intro_datatypes/blob/main/README.md) | [HTML](https://github.com/SEIR-0508/u1_HTML_intro)  |  [Array Iterators](https://github.com/SEIR-0508/u1_array_iterators) | [DOM Events](https://github.com/SEIR-0508/u1_lesson_js_dom_events)
+  | [CLI Intro](https://github.com/SEIR-0508/u1_CLI_intro)  | [Control Flow](https://github.com/SEIR-0508/u1_js_control_flow/blob/main/README.md) | [Grumpy Cat](https://github.com/SEIR-0508/u1_lab_grumpy_cat_resume)| [JS Objects](https://github.com/SEIR-0508/u1_lesson_js_objects/blob/main/README.md) | [Color Switcher](https://github.com/SEIR-0508/u1_lab_dom_color_switcher)
+  |  [InstallFest](https://github.com/SEIR-0508/u1_Installfest) | [Arrays](https://github.com/SEIR-0508/u1_js_arrays/blob/main/README.md) | [CSS](https://github.com/SEIR-0508/u1_CSS_intro) | [Jurassic Objects Lab](https://github.com/SEIR-0508/u1_lab_jurassic_objects/blob/main/README.md) | [JS Dots Game Lab](https://github.com/SEIR-0508/u1_lab_dom_dots)| 
+  |  [Git](https://github.com/SEIR-0508/u1_lesson_git_intro)| [Functions and Scopes](https://github.com/SEIR-0508/u1_js_functions_and_scope/blob/main/README.md) | [Resume](https://github.com/SEIR-0508/u1_lab_personal_resume)  | [CodeWars Challenges](https://github.com/seir-123/u1_hw_codewars_challenges) | [Connect Four](https://github.com/SEIR-0508/u1_hw_Connect_four/blob/main/README.md)  | |
+  | [Command Line Practice](https://github.com/SEIR-0508/u1_hw_star_wars-1/blob/main/README.md)  | [Data Types Practice](https://github.com/SEIR-0508/U1_data_types_practice) | [Flexbox](https://github.com/SEIR-0508/u1_CSS_Flex_and_Grid)  | OUTCOMES  | [Tic Tac Toe](https://github.com/SEIR-0508/u1_hw_tic_tac_toe)  |
+  |  | [Functions Lab](https://github.com/SEIR-0508/u1_functions_lab/blob/main/README.md)  | [CFashion Blog](https://github.com/SEIR-0508/u1_HW_Fashion-Blog/blob/master/README.md) | | |
 
   <ul type="none">
 
@@ -275,8 +275,8 @@ ____
 
   | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Recording](https://generalassembly.zoom.us/rec/share/HoSsZqVeetd4x3zPeABT_R6OOJePIE6Ea8OpXCVzNBSPTsoPDDVDPRWLzj6JF_s.099iG3nqPUwDrFyO)| [Recording](https://generalassembly.zoom.us/rec/share/SaUuFam0wzfD2cQWiTTwKDXGjUmXHM3LtUMOa5Cx5SyHLxAS3XpAA0rcfBdXX4Jh.G7WUWjm431HkEbcJ)|[Recording](https://generalassembly.zoom.us/rec/share/9U3TvlEGI8iCv4NjmX6Kmeod1B4pTWE5mucjhcufQ8oOZ-Gonx6DspylkJfS1Rnw.SGynO1IGF-7xwSRS)| [Recording](https://generalassembly.zoom.us/rec/share/SSd41SmptyS8WeO91HK8B5v2QOnW3F45bRkGE_ARxpNvunjwgaUeK9PuSEhtVb4.P_Sc5HVwOBCKplMR)| [Recording](https://generalassembly.zoom.us/rec/share/3ABOQBp4r6zTu5mpvbPYsNuGSb3tEgvybQQZcPwGLlfJefVCO6lm63_ojbkiReWk.sn9Dlaf03mbOTVko)|
-  | Passcode: `ZGC^D5jM`  | Passcode: `TMJ1xA?` | Passcode: `9c%.mZ53` | Passcode: `45e#1@Jz` | Passcode: `wE8gi9%%` |
+  | [Recording]()| [Recording]()|[Recording]()| [Recording]()| [Recording]()|
+  | Passcode: ``  | Passcode: `` | Passcode: `` | Passcode: `` | Passcode: `` |
 
   </p></details></li>
 
@@ -292,7 +292,7 @@ ____
   </p>
 
  
- | Monday | Tuesday | Wednesday | Thursday | Friday |
+ <!-- | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
   |  [ES6 Syntax](https://github.com/SEIR-123/u1_lesson_ES6) | Wireframing | CSS Media Queries  | [Intro to APIs](https://github.com/SEIr-123/u1_lesson_intro_to_APIs) | [Project 1 Prompt](https://github.com/SEI-R123/u1_project_prompt)|
   | [ES6 Lab](https://github.com/SEIR-123/u1_lab_ES6_practice)  | Calculator  | [Intro to OOP](https://github.com/SEIR-123/u1_lesson_OOP)| [Poke' API](https://github.com/SEIR-123/u1_api-intro) | Project Time|
@@ -309,7 +309,7 @@ ____
 | Monday | Tuesday | Wednesday | Thursday | Friday |
  |:---:|:---:|:---:|:---:|:---:|
  | [Recording](https://generalassembly.zoom.us/rec/share/_myczvxpfOUM3FQ7w7fgEYy0yXnYQzutsPrEDTAj66w6N6w4m-FbF5c5a_zZrGu8.OX0IrFjoIi3e_Mo5)| | [Recording](https://generalassembly.zoom.us/rec/share/fsZDx4AUj3edyl2YSi4T9ju11Li6-X2gl1Ud1Rrg2HYxkZHiBmTXufL76AgTSiiJ.UNUWkn8-S96L-NQA) |  [Recording](https://generalassembly.zoom.us/rec/share/42A7SwpvmU8ejo1NWlUW7bSBgY6-BlYP3THNrQjSugaNiSakTTgeI2vKTCaoR-Wx.m3CdqPBQAmh3euu6) | [Recording](https://generalassembly.zoom.us/rec/share/MSInd1wR5zRyx6kqylz72oZzG1Qwkqzz1sZjlQkzw1mUi5aOc1UjrhcKVGxO3dxP.3FPfaS-w1nE0snf4)|
- | Passcode:`CakU27!q`  | | Passcode:`A#6iq3mU` | Passcode: `2JJLn!z` | Passcode: `H=4z7Cz@` |
+ | Passcode:`CakU27!q`  | | Passcode:`A#6iq3mU` | Passcode: `2JJLn!z` | Passcode: `H=4z7Cz@` |  
 
  </p></details></li>
  
@@ -477,7 +477,7 @@ ___
   In Week 11, we are introduced to <b>Python</b> and learn about <b>functions</b>, <b>control flow</b>, <b>loops</b>, and <b>dictionaries</b>. We continue with Python through the week by learning about <b>tuples</b> and <b>OOP</b>. We then get a quick intro to <b>Django</b> and how to set up <b>views</b>. 
   </p>
 
- <!--   
+ 
   | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
   | [Intro to Python](https://github.com/SEIR-1003/u4_lesson_python_intro) | [Python Tuples Lab](https://github.com/SEIR-1003/u4_lab_python_tuple_exercise) | [Code War Challenges](https://github.com/SEIR-1003/u4_python_challenges/blob/main/README.md) | [Django Install](https://github.com/SEIR-1003/u4_lesson_django_intro) | [Django Serializer I](https://github.com/SEIR-1003/u4_lesson_django_REST_API) |
@@ -499,7 +499,7 @@ ___
   | Passcode: `b95S6X#.` | Passcode: `8@F6Fj+$` | Passcode: `7K3SkA.M` | Passcode: `iK4+M&rv` | Passcode: `G%Jv!5Wk` |
 
   </p></details></li>
--->
+
   ___
   </p></details></li>
 
@@ -509,7 +509,7 @@ ___
   In Week 12, we continue with Python by working in groups for A stackathon challenge. At the end of the week, we begin our <b>Capstone Project</b>!
   </p>
 
-<!--
+
   | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
   | [Django Full Stackathon](https://github.com/SEIR-1003/u4_django_fullstack) | [Django Full Stackathon Cont...](https://github.com/SEIR-1003/u4_django_fullstack) | Full Stackathon Presentations | P4 Project Planning | Project Week |

@@ -5,7 +5,7 @@
 </div>
 
 ___
-Welcome to the <b>SEIR-123 Class Wiki</b>.
+Welcome to the <b>SEIR-0508 Class Wiki</b>.
 
 This repository is a place where links to all of the course content that we cover can be found. Content is organized by <i>Unit</i> and <i>Week</i> with lesson repos and class recordings for each day.
 <br>
@@ -17,7 +17,7 @@ This repository is a place where links to all of the course content that we cove
 
 
 <a href="https://github.com/bmorataya3/Pull-Request-Template" target="_blank"><img src="https://i.imgur.com/WYBWzSth.png" alt="Template" height="160" width="150"></a> &nbsp; 
-<a href="https://github.com/seir-123/daily_js_challenges" target="_blank"><img src="https://i.imgur.com/W2YYUOPb.png" alt="Template"></a>  &nbsp; 
+<a href="https://github.com/seir-/daily_js_challenges" target="_blank"><img src="https://i.imgur.com/W2YYUOPb.png" alt="Template"></a>  &nbsp; 
 <a href="https://github.com/seir-123/cs_data_structures" target="_blank"><img src="https://i.imgur.com/Bq75otNm.png" alt="Template" height="160" width="175" ></a>
 </div>
 
@@ -203,7 +203,7 @@ The following dates are observed Holidays for this immersive.  There will be no 
 | Independence Day | July 4, 2023 |
 
 
-
+</details>
 ____
 
 # Class Schedule

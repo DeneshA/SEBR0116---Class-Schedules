@@ -210,7 +210,7 @@ ____
 
 ### Unit 1 - 
 	Week 1 - HTML, CSS, JS, DOM Manipulation
-	Week 2 - JS Higher Order Functions, OOP, API calls + Fetch
+	Week 2 - JS Higher Order Functions, OOP, API calls + Axios
 	Week 3 - Project 1 (API Call / JS Game)
 
 ### Unit 2 - 

@@ -109,7 +109,7 @@ ____
 ____
 
 <div align="center">
-  <h3>Em Gordon</h3>
+  <h3>Alyx Warner</h3>
   <h4>Student Success Specialist</h4>
   <br>
 </div>
@@ -119,26 +119,7 @@ ____
 
 </p></details></li>
 
-<li><details><summary><strong>Outcomes Team</strong></summary><p>
 
-<p>This teams job is to ensure your success <i>after</i> the immersive is complete. Any job search, resume, LinkedIn, or interview questions can be directed to them.</p>
-
-____
-
-<div align="center">
-  <img width="200px" src="https://i.imgur.com/1yhipgO.png" alt="default">
-  <h3>Bradford Smith</h3>
-  <h4>Outcomes Coach</h4>
-  <br>
-</div>
-
-
-
-
-
-</p></details></li>
-
-</ul></details>
 
 ____
 <details><summary><strong>Class Policies</strong></summary><p>
@@ -217,7 +198,9 @@ The following dates are observed Holidays for this immersive.  There will be no 
 
 | Holiday | Date(s) |
 |:---:|:---:|
-| Presidents Day | February 20, 2023 |
+| Memorial Day | February 20, 2023 |
+| Juneteenth | June 19, 2023 |
+| Independence Day | July 4, 2023 |
 
 
 </p></details></li>
@@ -239,9 +222,9 @@ ____
 	Week 6 - Project 2 (React Axios)
 
 ### Unit 3 -
-	Week 7 - SQL, Sequelize, Express
-	Week 8 - Sequelize with Express, React + Sequelize Auth with JWT
-	Week 9 - Group PERN Stack Project
+	Week 7 - Mongo, Mongoose, Express
+	Week 8 - Mongoose with Express, React + Auth with JWT
+	Week 9 - Group MERN Stack Project
 
 ### Unit 4 -
 	  Week 10 - Python, Django

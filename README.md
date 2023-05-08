@@ -235,7 +235,9 @@ ____
 
 
 </p></details></li>
+
 ____
+
 <details><summary><strong>Unit 1</strong> - HTML | CSS | JavaScript</summary><p>
 
 <ul type="none">
@@ -485,7 +487,7 @@ ___
   </p></details></li>
 
   ___
-  </p></details></li>
+ 
 
   <li><details><summary><strong>Week 12</strong></summary><p>
 

@@ -190,7 +190,7 @@ Below, you will find Class Policies and Requirements as laid out in Orientation 
 
 </p></details></li>
 
-<li><details><summary><strong>Observed Holidays</strong></summary><p>
+Observed Holidays
 
 <p>
 The following dates are observed Holidays for this immersive.  There will be no class days on or within any of the date ranges listed below.  These will not decrease the overall length of the immersive, but add on additional replacement days to the end to fulfill the 12 weeks. If you have any questions regarding Holidays, or have a special circumstance, please don't hesitate to reach out to your instructional team.
@@ -203,9 +203,6 @@ The following dates are observed Holidays for this immersive.  There will be no 
 | Independence Day | July 4, 2023 |
 
 
-</p></details></li>
-
-</ul></details>
 
 ____
 

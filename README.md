@@ -229,6 +229,7 @@ ____
 	  Week 12 - Capstone Project  
 
 
+</p></details></li>
 ____
 <details><summary><strong>Unit 1</strong> - HTML | CSS | JavaScript</summary><p>
 

@@ -66,13 +66,18 @@ ____
 
 ____
 
+<div align="center">
+  <h3>Jordan Bank</h3>
+  <h4>Instructional Associate</h4>
+
+<p>I'm a software developer, digital artist, and photographer from New York. I'm also a Software Engineering Alum and I'm excited to help new students find their footing. I usually spend my free time cooking, trying new restaurants, or watching the Knicks lose.</p>
+
+____
 
 
 <li><details><summary><strong>Teaching Assistants</strong></summary><p>
 
 <p>TAs will lead nightly study and debugging sessions that are <b>highly recommended</b> to attend.</p>
-
-____
 
 <div align="center">
   <img width="200px" src="https://i.imgur.com/a5jjxUf.jpg" alt="kristina">

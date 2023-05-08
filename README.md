@@ -309,7 +309,7 @@ ____
 | Monday | Tuesday | Wednesday | Thursday | Friday |
  |:---:|:---:|:---:|:---:|:---:|
  | [Recording](https://generalassembly.zoom.us/rec/share/_myczvxpfOUM3FQ7w7fgEYy0yXnYQzutsPrEDTAj66w6N6w4m-FbF5c5a_zZrGu8.OX0IrFjoIi3e_Mo5)| | [Recording](https://generalassembly.zoom.us/rec/share/fsZDx4AUj3edyl2YSi4T9ju11Li6-X2gl1Ud1Rrg2HYxkZHiBmTXufL76AgTSiiJ.UNUWkn8-S96L-NQA) |  [Recording](https://generalassembly.zoom.us/rec/share/42A7SwpvmU8ejo1NWlUW7bSBgY6-BlYP3THNrQjSugaNiSakTTgeI2vKTCaoR-Wx.m3CdqPBQAmh3euu6) | [Recording](https://generalassembly.zoom.us/rec/share/MSInd1wR5zRyx6kqylz72oZzG1Qwkqzz1sZjlQkzw1mUi5aOc1UjrhcKVGxO3dxP.3FPfaS-w1nE0snf4)|
- | Passcode:`CakU27!q`  | | Passcode:`A#6iq3mU` | Passcode: `2JJLn!z` | Passcode: `H=4z7Cz@` |  
+ | Passcode:`CakU27!q`  | | Passcode:`A#6iq3mU` | Passcode: `2JJLn!z` | Passcode: `H=4z7Cz@` |  -->
 
  </p></details></li>
  
@@ -334,7 +334,7 @@ ___
   </p>
 
 
-| Monday | Tuesday | Wednesday | Thursday | Friday |
+<!--| Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
   | [Intro to React](https://github.com/seir-123/u2_lesson_intro_to_react/blob/main/README.md) | [Component Hierarchy Diagrams](https://github.com/seir-123/u2_lesson_component_hierarchy) | [React Router](https://github.com/seir-123/u2_react_router_intro)  |  [Intro to State & Hooks](https://github.com/seir-123/u2_lesson_state_and_hooks) |[Calculator Lab](https://github.com/seir-123/u2_react_calculator_lab)|
   | [LOTR Lab](https://github.com/SEIR-1003/u2_lab_react_LOTRR)| [Portfolio](https://github.com/seir-123/u2_react_portfolio_lab) | [Mapping Components](https://github.com/seir-123/u2_lesson_react_mapping_components-1/blob/main/README.md) | [Likes Lab](https://github.com/seir-123/u2_lab_likes/blob/main/README.md)|  |
@@ -352,21 +352,20 @@ ___
 | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
   | [Recording](https://generalassembly.zoom.us/rec/share/xhbmONFGRS43yc6jbzRapBE1iW9LgCTOP-Eunn0LPqCKBnUhANKkAQ_om1zInjtT.P3TB9mMQ4zk_4Ewe) | [Recording](https://generalassembly.zoom.us/rec/share/xhbmONFGRS43yc6jbzRapBE1iW9LgCTOP-Eunn0LPqCKBnUhANKkAQ_om1zInjtT.P3TB9mMQ4zk_4Ewe) | [Recording](https://generalassembly.zoom.us/rec/share/fh2EqDrXONFgiYTvUCQtUSCZDn5CNtZ0V8sIHjrXm9k9aKu_fEECV-0K0qbhl-8.45-XXNVptGfWXoMV) | [Recording](https://generalassembly.zoom.us/rec/share/RY8GmzDxcdzplFmv9GNCqeavZpRo95oqGbr5S0oOZozK9fUVNl4NnSO7UKdHYwRQ.aF-paFRznraRUMDj) | [No Recording]() |
-  | Passcode: `P246nby!` | Passcode: `P246nby!` | Passcode: `!T73bj@u` | Passcode: `8yw*23Bb` | Passcode: `` |
+  | Passcode: `P246nby!` | Passcode: `P246nby!` | Passcode: `!T73bj@u` | Passcode: `8yw*23Bb` | Passcode: `` | -->
 
   </p></details></li>
 
-  ___
-  </p></details></li>
+  
 
   <li><details><summary><strong>Week 5</strong></summary><p>
 
   <p>
-  In Week we continue to work with React Functional Components, learning about some amazing Hooks like useEffect and useContext, as well as two powerful libraries, Axios and the React Router
+  In Week 5 we continue to work with React Functional Components, learning about some amazing Hooks like useEffect and useContext, as well as two powerful libraries, Axios and the React Router
   </p>
 
 
-  | Monday | Tuesday | Wednesday | Thursday | Friday |
+ <!-- | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
   | HOLIDAY |[useEffect](https://github.com/seir-123/u2_lesson_useEffect)  | [Router II](https://github.com/seir-123/u2_lesson_react_router)  | [useContext](https://github.com/seir-123/u2_lesson_useContext)  | [Project 2](https://github.com/seir-123/project2_prompt/blob/main/README.md) |
   |  | [React API](https://github.com/seir-123/u2_lesson_react_APIs)  | [Router Lab](https://github.com/seir-123/u2_lab_react_router)| [Context Lab](https://github.com/seir-123/u2_react_useContext_lab)   | React Review |
@@ -380,7 +379,7 @@ ___
 | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
   | [Recording]() | [Recording]() | [Recording]() | [Recording]() | [Recording]() |
-  | Passcode: `` | Passcode: `` | Passcode: `` | Passcode: `` | Passcode: `` |
+  | Passcode: `` | Passcode: `` | Passcode: `` | Passcode: `` | Passcode: `` | -->
  
   </p></details></li>
   
@@ -405,7 +404,7 @@ ___
   </p>
 
  
-  | Monday | Tuesday | Wednesday | Thursday | Friday |
+  <!--| Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
   | [SQL Intro](https://github.com/seir-123/u3_lesson_SQL_intro)| [Sequelize Intro](https://github.com/seir-123/u3_lesson_sequelize_intro) | [Database Design](https://github.com/seir-123/u3_lesson_database_design) | [ERD's](https://github.com/seir-123/u3_lesson_ERD) | [Intro to Express](https://github.com/seir-123/u3_lesson_express_intro-1) |
   | [SQL Practice Lab](https://github.com/seir-123/u3_lab_SQL_practice) | [Sequelize Queries](https://github.com/seir-123/u3_lesson_sequelize_queries-1) | [Sequelize Associations](https://github.com/seir-123/u3_lesson_sequelize_associations) | [Sequelize Migrations](https://github.com/seir-123/u3_lesson_sequelize_migrations) | [Express Routes](https://github.com/seir-123/u3_lesson_express_routing) |
@@ -425,12 +424,11 @@ ___
 | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
   | [Recording](https://generalassembly.zoom.us/rec/share/9uV4FZZFWETM5pKJC_t_PINg2pJc9ZXL9or5GLEtAoJknxxot_AyAT4OnAUazPlO.haPG1YSDf7cKkWVV) | [Recording](https://generalassembly.zoom.us/rec/share/uKCuqZa3ayPbwveXKTyrpG-CoE9LeZ7q8ZrhHweIDueskKRRZcxPDfqD3GMfzD1x.x8l3bXTSGuLU-_0r) | [Recording](https://generalassembly.zoom.us/rec/share/yvcObbUQgrxYdpcgPRym3WkZQu6ysYBjtAEapHENCgWTmpYVl9i63bPR7wtvrFPU.q9Nt-4cZKzD4U7PC) | [Recording](https://generalassembly.zoom.us/rec/share/2z58ZFX5KOWWftOVTVzh-jIFtWsdNb6c0E2CoKnp3oPO-jQblgdFLWB6XXmmtUCo.5aJCUTFv07pd73zm) | [Recording](https://generalassembly.zoom.us/rec/share/7NCgrYJZmWQ6JP6n_ZQYy10pCaLQA3gKQWFlU45c_mrXPqu0tni_E7li6kWNZREE.CMVXDlxRF_IpYmy3) |
-  | Passcode: `692TdrH=` | Passcode: `=vpVTa2q` | Passcode: `s#3wQAs2` | Passcode: `z1b#Lx5^` | Passcode: `Vdf$UnP8` |
+  | Passcode: `692TdrH=` | Passcode: `=vpVTa2q` | Passcode: `s#3wQAs2` | Passcode: `z1b#Lx5^` | Passcode: `Vdf$UnP8` | -->
 
   </p></details></li>
 
-  ___
-  </p></details></li>
+
 
   <li><details><summary><strong>Week 8</strong></summary><p>
 
@@ -439,7 +437,7 @@ ___
   </p>
 
  
-  | Monday | Tuesday | Wednesday | Thursday | Friday |
+  <!--| Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
   | [Express Sequelize](https://github.com/seir-123/u3_lesson_express_sequelize) | [Group Git](https://github.com/seir-123/u3_lesson_group_git) | [JWT](https://github.com/seir-123/u3_lesson_JWT_auth) | Project Proposal  | Project Work |
   | [Sequelize API from scratch](https://github.com/seir-123/u3_lab_sequelize_API_from_scratch) | [Full Stack Lab](https://github.com/seir-123/u3_lab_PERN_stack/blob/main/README.md) | [Sequelize Auth](https://github.com/seir-123/u3_lesson_sequelize_auth-1) | Proposal Presentations  | |
@@ -453,7 +451,7 @@ ___
 | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
   | [Recording](https://generalassembly.zoom.us/rec/share/8HQJaLMPCJwcEmdN6H9Zad01GNjmoLCclRFv4CCl1JZN-xNNi7YeF7AJC0h6kvJp.pclB8UGJL5RxJNG3) | [Recording](https://generalassembly.zoom.us/rec/share/o7bpgJ48xEL6xVj--5laLn8nOVX-64WHui3NnvNaDS3CQjQ60DyWp0Up7uQQGhjX.DahYw8OeCkVJHlkx) | [Recording]() | [Recording]() |[Recording]()|
-  | Passcode: `$jg?^C4i` | Passcode: `?47xCs9k` | Passcode: `` | Passcode: ``  |  Passcode: `` |
+  | Passcode: `$jg?^C4i` | Passcode: `?47xCs9k` | Passcode: `` | Passcode: ``  |  Passcode: `` | -->
 
  </p></details></li>
   
@@ -478,7 +476,7 @@ ___
   </p>
 
  
-  | Monday | Tuesday | Wednesday | Thursday | Friday |
+  <!-- | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
   | [Intro to Python](https://github.com/SEIR-1003/u4_lesson_python_intro) | [Python Tuples Lab](https://github.com/SEIR-1003/u4_lab_python_tuple_exercise) | [Code War Challenges](https://github.com/SEIR-1003/u4_python_challenges/blob/main/README.md) | [Django Install](https://github.com/SEIR-1003/u4_lesson_django_intro) | [Django Serializer I](https://github.com/SEIR-1003/u4_lesson_django_REST_API) |
   | [Python Functions](https://github.com/SEIR-1003/u4_lesson_python_functions) | [Python OOP](https://github.com/SEIR-1003/u4_lesson_python_OOP) | OUTCOMES | [Djanjo Models]() | [Djanjo Serializer II](https://github.com/SEIR-1003/u4_django_serializers_ii) |
@@ -496,7 +494,7 @@ ___
 | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
   | [Recording](https://generalassembly.zoom.us/rec/share/FXJpSSFSKiigCBNt4l6xyS5U4LQEHgk_SF0MLKslHGmqOS8lHKWSibwTHPycKESu.-N1_FaTz8Kdan4Fw) | [Recording](https://generalassembly.zoom.us/rec/share/tfw3k_muD72MaSzEFElOTWbF55FnXuq1yWZ8Nd7C6oa5UTBGeHpCBJwWsVOGB55L.5838VjUeCxebfwOr) | [Recording](https://generalassembly.zoom.us/rec/share/2ZJD4LNvD5GvuPPKQBRvR29qYRWWvo1LZt1_p3krRN_edzbO1vj-X8MWcOtjMSzn.Pt35N9_IUg1QNP52) | [Recording](https://generalassembly.zoom.us/rec/share/27yva2f5HJImQ8PjUypsmO-0-fPoqWrD0StB3BZkgiIV3r33marHxQSAlot9c6nd.mT_1KrME0qdDMT6R) | [Recording](https://generalassembly.zoom.us/rec/share/Mr2RSi68R1NiebudnySOyHgwIuqkeSRgwTRjDpuwrEt5HhENzl4FgiWv_0-SBw4.PsSADazrGSF5rMb9) |
-  | Passcode: `b95S6X#.` | Passcode: `8@F6Fj+$` | Passcode: `7K3SkA.M` | Passcode: `iK4+M&rv` | Passcode: `G%Jv!5Wk` |
+  | Passcode: `b95S6X#.` | Passcode: `8@F6Fj+$` | Passcode: `7K3SkA.M` | Passcode: `iK4+M&rv` | Passcode: `G%Jv!5Wk` | -->
 
   </p></details></li>
 
@@ -510,7 +508,7 @@ ___
   </p>
 
 
-  | Monday | Tuesday | Wednesday | Thursday | Friday |
+  <!--| Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
   | [Django Full Stackathon](https://github.com/SEIR-1003/u4_django_fullstack) | [Django Full Stackathon Cont...](https://github.com/SEIR-1003/u4_django_fullstack) | Full Stackathon Presentations | P4 Project Planning | Project Week |
   |  | | OUTCOMES |  | |
@@ -523,8 +521,8 @@ ___
   | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
   | No Recording | [Recording](https://generalassembly.zoom.us/rec/share/Z-QyP2YXdGoYVH5FMKtMbkueON2HtJ2SytEz2Ce_lr800G4Wlzi87salpqgq7DYU.ojfLVjBIaC5Mhb5s) | [Recording](https://generalassembly.zoom.us/rec/share/v-EJn260ACoULVzTZYnC5MrsrWNzT3H8-ihTjpmu1VE7_tIQD1JnrTamIwxzOq0y.v5w4kZy7tNRdskwC) | No Recording | No Recording |
-  |  | Passcode: `84QCh@=*` | Passcode: `i4h^LC%X` |  |  |
--->
+  |  | Passcode: `84QCh@=*` | Passcode: `i4h^LC%X` |  |  | -->
+
   </p></details></li>
 
   

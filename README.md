@@ -280,13 +280,13 @@ ____
   </p>
 
  
- <!-- | Monday | Tuesday | Wednesday | Thursday | Friday |
+| Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  |  [ES6 Syntax](https://github.com/SEIR-123/u1_lesson_ES6) | Wireframing | CSS Media Queries  | [Intro to APIs](https://github.com/SEIr-123/u1_lesson_intro_to_APIs) | [Project 1 Prompt](https://github.com/SEI-R123/u1_project_prompt)|
-  | [ES6 Lab](https://github.com/SEIR-123/u1_lab_ES6_practice)  | Calculator  | [Intro to OOP](https://github.com/SEIR-123/u1_lesson_OOP)| [Poke' API](https://github.com/SEIR-123/u1_api-intro) | Project Time|
-  | [JS HOF](https://github.com/SEIR-123/u1_hw_HOF) |  OUTCOMES  |  [OOP Exercise Lab](https://github.com/SEIR-123/u1_lab_OOP_exercise)  | |  
-  | [JS Lab](https://github.com/seir-123/u1_lab_HOF) |  |[Donut Adventure] | [P1 Prompt](https://github.com/SEIR-1003/u1_project_prompt) |  |
-  |  |  |  |  |  |
+  |  [JS Objects](https://github.com/SEIR-0508/u1_lesson_js_objects/blob/main/README.md) | Wireframing | Trello Intro| [ES6 Syntax](https://github.com/SEIR-0508/u1_lesson_ES6) | Project Week Starts|
+|[Jurassic Object Lab](https://github.com/SEIR-0508/u1_lab_jurassic_objects/blob/main/README.md)|  [Intro to API's](https://github.com/SEIR-0508/u1_pokemon-api-lab/blob/main/README.md)   |  [Jquery](https://github.com/SEIR-0508/u1_lesson_jquery_intro/blob/main/README.md) |  [Testing](https://github.com/SEIR-0508/u1_lesson_testing) |  ||
+  |Classes  | [Poke'mon Lab](https://github.com/SEIR-0508/u1_pokemon-api-lab/blob/main/README.md)  |  [Jquery Lab](https://github.com/SEIR-0508/u1_lab_jquery/blob/main/README.md)  | [Testing Lab](https://github.com/SEIR-0508/u1_lab_testing)|  |  
+  | This |  |[Weather API Lab](https://github.com/SEIR-0508/u1_lab_weather-api/blob/main/README.md)|  Promot 1|  |
+  |  |  |  | OUTCOMES |  | 
 
  <ul type="none">
 
@@ -294,6 +294,7 @@ ____
 
  <li><details><summary>Class Recordings</summary><p>
 
+<!--
 | Monday | Tuesday | Wednesday | Thursday | Friday |
  |:---:|:---:|:---:|:---:|:---:|
  | [Recording](https://generalassembly.zoom.us/rec/share/_myczvxpfOUM3FQ7w7fgEYy0yXnYQzutsPrEDTAj66w6N6w4m-FbF5c5a_zZrGu8.OX0IrFjoIi3e_Mo5)| | [Recording](https://generalassembly.zoom.us/rec/share/fsZDx4AUj3edyl2YSi4T9ju11Li6-X2gl1Ud1Rrg2HYxkZHiBmTXufL76AgTSiiJ.UNUWkn8-S96L-NQA) |  [Recording](https://generalassembly.zoom.us/rec/share/42A7SwpvmU8ejo1NWlUW7bSBgY6-BlYP3THNrQjSugaNiSakTTgeI2vKTCaoR-Wx.m3CdqPBQAmh3euu6) | [Recording](https://generalassembly.zoom.us/rec/share/MSInd1wR5zRyx6kqylz72oZzG1Qwkqzz1sZjlQkzw1mUi5aOc1UjrhcKVGxO3dxP.3FPfaS-w1nE0snf4)|

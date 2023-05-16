@@ -297,8 +297,8 @@ ____
 
 | Monday | Tuesday | Wednesday | Thursday | Friday |
  |:---:|:---:|:---:|:---:|:---:|
- | [Recording](https://generalassembly.zoom.us/rec/share/36-EmP0o8-UQrF7SAdsaFAOs7UpR8m4Map5VXWNfw0GS8K_yEQXGpAXFyruck62m.8rHZioCE1KahfWm8)| | [Recording]() |  [Recording]() | [Recording]()|
- | Passcode:`c8vU$HYi`  | | Passcode:`` | Passcode: `` | Passcode: `` |  
+ | [Recording](https://generalassembly.zoom.us/rec/share/36-EmP0o8-UQrF7SAdsaFAOs7UpR8m4Map5VXWNfw0GS8K_yEQXGpAXFyruck62m.8rHZioCE1KahfWm8)|[Recording]() | [Recording]() |  [Recording]() | [Recording]()|
+ | Passcode:`c8vU$HYi`  | Passcode:``| Passcode:`` | Passcode: `` | Passcode: `` |  
 
  </p></details></li>
  

@@ -203,7 +203,7 @@ The following dates are observed Holidays for this immersive.  There will be no 
 
 | Holiday | Date(s) |
 |:---:|:---:|
-| Memorial Day | February 20, 2023 |
+| Memorial Day | May 29, 2023 |
 | Juneteenth | June 19, 2023 |
 | Independence Day | July 4, 2023 |
 

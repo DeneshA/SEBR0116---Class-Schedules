@@ -297,8 +297,8 @@ ____
 
 | Monday | Tuesday | Wednesday | Thursday | Friday |
  |:---:|:---:|:---:|:---:|:---:|
- | [Recording](https://generalassembly.zoom.us/rec/share/36-EmP0o8-UQrF7SAdsaFAOs7UpR8m4Map5VXWNfw0GS8K_yEQXGpAXFyruck62m.8rHZioCE1KahfWm8)|[Recording]() | [Recording]() |  [Recording]() | [Recording]()|
- | Passcode:`c8vU$HYi`  | Passcode:``| Passcode:`` | Passcode: `` | Passcode: `` |  
+ | [Recording](https://generalassembly.zoom.us/rec/share/36-EmP0o8-UQrF7SAdsaFAOs7UpR8m4Map5VXWNfw0GS8K_yEQXGpAXFyruck62m.8rHZioCE1KahfWm8)|[Recording](https://generalassembly.zoom.us/rec/share/bgOTD3jQah4BbZAEIoQ4gaCoKI--lxgHwhwh4qI-JPK4MWZxm_VPbtcZxz50kdTn.xtxhzR5uOKKCMsDE) | [Recording](https://generalassembly.zoom.us/rec/share/b9ooIOlAhKVHM2jQppciRl20FgM4fTqG3Sldi0MjN49-jorg8MXp7-47Fsz7o859.BEGDjHdQUArBolce) |  [Recording](https://generalassembly.zoom.us/rec/share/LyKIE0vZ8St_sLLLqV37tpkHhY2kmcTlQ-TvfVVlEtS6WTQYmv9KVpfi17clgXw.TD3d0UioahdG5TLx) | [Recording](https://generalassembly.zoom.us/rec/share/zoy5HFlJ8MOSdG1krRONM7ommZhyZ_SxLT3BQv12ftzDVFH8yk3NKPDRf_L1n1eG.orTPm2r5CfgIQ6ED)|
+ | Passcode:`c8vU$HYi`  | Passcode:`e.^W9S^Z`| Passcode:`&1^L#24E` | Passcode: `.n6R7^8b` | Passcode: `=Puagn8W` |  
 
  </p></details></li>
  
@@ -312,25 +312,25 @@ ____
 ___
    
    
-<details><summary><strong>Unit 2</strong> - React </summary><p>
+<details><summary><strong>Unit 2</strong> - Mongo </summary><p>
 
 <ul type="none">
 
   <li><details><summary><strong>Week 4</strong></summary><p>
 
    <p>
-     In Week 4, we learn all about <b>React</b> and what an amazing JavaScript library it can be for developers. We learn the concepts of <b>components</b>, <b>props</b>, and about <b>React Hooks</b> and <b>functional components</b>. We learn about <b>useState</b> and how to use it to manage our state within our apps. We also get into how we can use <b>useEffect</b> to make axios calls in our React apps. Finally at the end of the week, we learn <b>React Router</b>, a powerful tool for navigating around our virtual DOM.
+     In Week 4, we learn all about <b>Mongo</b> with <b>Express</b>. We learn the concepts of <b>associations</b>, <b>data</b>, and about <b>routes & conteollers</b>. 
   </p>
 
 
-<!--| Monday | Tuesday | Wednesday | Thursday | Friday |
+| Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Intro to React](https://github.com/seir-123/u2_lesson_intro_to_react/blob/main/README.md) | [Component Hierarchy Diagrams](https://github.com/seir-123/u2_lesson_component_hierarchy) | [React Router](https://github.com/seir-123/u2_react_router_intro)  |  [Intro to State & Hooks](https://github.com/seir-123/u2_lesson_state_and_hooks) |[Calculator Lab](https://github.com/seir-123/u2_react_calculator_lab)|
-  | [LOTR Lab](https://github.com/SEIR-1003/u2_lab_react_LOTRR)| [Portfolio](https://github.com/seir-123/u2_react_portfolio_lab) | [Mapping Components](https://github.com/seir-123/u2_lesson_react_mapping_components-1/blob/main/README.md) | [Likes Lab](https://github.com/seir-123/u2_lab_likes/blob/main/README.md)|  |
-  | [Korilla Lab](https://github.com/seir-123/u2_react_Korilla_receipts/blob/main/README.md) | OUTCOMES | [Mapping Lab](https://github.com/seir-123/u2_lab_mapping_contacts/blob/main/README.md) | [React Forms](https://github.com/seir-123/u2_react_forms) |  |
-  |   |  | [Movie Mapping HW](https://github.com/seir-123/u2_hw_movie_mapping) | [Groceries Lab](https://github.com/seir-123/u2_lab_groceries)  |  |
-  |  ||  | [ATM Lab](https://github.com/seir-123/u2_lab_react_ATM) |  |
-  |  | |  | [Password Validator](https://github.com/seir-123/u2_lab_password_validator) |  |
+  | Holiday | [Mongo Command](https://github.com/SEIR-0508/u2_lesson_mongoDB/blob/main/README.md) | [Mongoose Data](https://github.com/SEIR-0508/u2_lesson_mongoose_data_model-1)  |  [Express Full Stack Demo](https://github.com/SEIR-0508/express_full_stack_demo) |[ERD](https://github.com/SEIR-0508/u2_lesson_ERD)|
+  | [Mongo Install](https://github.com/SEIR-0508/u2_lesson_mongo_install/blob/main/README.md)| [Mongo lab](https://github.com/SEIR-0508/u2_lab_mongoDB_sneakers/tree/main) | [Mongoose Associations](https://github.com/SEIR-0508/u2_lesson_mongoose_associations/tree/main) | [Express Intro](https://github.com/SEIR-0508/u2_express_intro_and_middleware/tree/main)|[Express Controller](https://github.com/SEIR-0508/u3_lesson_express_controllers/blob/main/README.md)  |
+  | [FullStack Development](https://github.com/SEIR-0508/u2_full_stack_development/blob/main/README.md) | [Node Readalong](https://github.com/SEIR-0508/u2_lesson_node_js/blob/main/README.md) | [Mongoose Lab](https://github.com/SEIR-0508/u2_mongoose_lab/blob/main/README.md) | [Express Routes](https://github.com/SEIR-0508/u3_lesson_express_routing/blob/main/README.md) | [Mongoose w/Express](https://github.com/SEIR-0508/u2_lesson_mongoose_express) |
+  |[Atlas Set up](https://github.com/SEIR-0508/u2_mongo_atlas_setup/blob/main/README.md)   | [Mongo Burgers](https://github.com/SEIR-0508/u2_hw_mongo_burgers) | [Promises](https://github.com/SEIR-0508/u2_lesson_promises/blob/main/README.md) | [Express Fruits](https://github.com/SEIR-0508/express_fruits/blob/main/readme.md)  |  [Mongoose Plants](https://github.com/SEIR-0508/u2_hw_mongoose_plants/blob/main/README.md)|
+  |  ||  | Outcomes |  |
+  |  | |  |  |  |
 
 <ul type="none">
 
@@ -338,7 +338,7 @@ ___
 
   <li><details><summary>Class Recordings</summary><p>
 
-| Monday | Tuesday | Wednesday | Thursday | Friday |
+<!--| Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
   | [Recording](https://generalassembly.zoom.us/rec/share/xhbmONFGRS43yc6jbzRapBE1iW9LgCTOP-Eunn0LPqCKBnUhANKkAQ_om1zInjtT.P3TB9mMQ4zk_4Ewe) | [Recording](https://generalassembly.zoom.us/rec/share/xhbmONFGRS43yc6jbzRapBE1iW9LgCTOP-Eunn0LPqCKBnUhANKkAQ_om1zInjtT.P3TB9mMQ4zk_4Ewe) | [Recording](https://generalassembly.zoom.us/rec/share/fh2EqDrXONFgiYTvUCQtUSCZDn5CNtZ0V8sIHjrXm9k9aKu_fEECV-0K0qbhl-8.45-XXNVptGfWXoMV) | [Recording](https://generalassembly.zoom.us/rec/share/RY8GmzDxcdzplFmv9GNCqeavZpRo95oqGbr5S0oOZozK9fUVNl4NnSO7UKdHYwRQ.aF-paFRznraRUMDj) | [No Recording]() |
   | Passcode: `P246nby!` | Passcode: `P246nby!` | Passcode: `!T73bj@u` | Passcode: `8yw*23Bb` | Passcode: `` | -->

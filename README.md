@@ -338,10 +338,10 @@ ___
 
   <li><details><summary>Class Recordings</summary><p>
 
-<!--| Monday | Tuesday | Wednesday | Thursday | Friday |
+| Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Recording](https://generalassembly.zoom.us/rec/share/xhbmONFGRS43yc6jbzRapBE1iW9LgCTOP-Eunn0LPqCKBnUhANKkAQ_om1zInjtT.P3TB9mMQ4zk_4Ewe) | [Recording](https://generalassembly.zoom.us/rec/share/xhbmONFGRS43yc6jbzRapBE1iW9LgCTOP-Eunn0LPqCKBnUhANKkAQ_om1zInjtT.P3TB9mMQ4zk_4Ewe) | [Recording](https://generalassembly.zoom.us/rec/share/fh2EqDrXONFgiYTvUCQtUSCZDn5CNtZ0V8sIHjrXm9k9aKu_fEECV-0K0qbhl-8.45-XXNVptGfWXoMV) | [Recording](https://generalassembly.zoom.us/rec/share/RY8GmzDxcdzplFmv9GNCqeavZpRo95oqGbr5S0oOZozK9fUVNl4NnSO7UKdHYwRQ.aF-paFRznraRUMDj) | [No Recording]() |
-  | Passcode: `P246nby!` | Passcode: `P246nby!` | Passcode: `!T73bj@u` | Passcode: `8yw*23Bb` | Passcode: `` | -->
+  | [No Recording]() | [Recording](https://generalassembly.zoom.us/rec/share/QDSbVKFh1S0NPhGoYoTgVGM1Pk30_T-IhVl7l4KSd5RpOYLV0CvSPsmE3HOS7lTG.f39Kz2tWMj1Vq0Mvralassembly.zoom.us/rec/share/xhbmONFGRS43yc6jbzRapBE1iW9LgCTOP-Eunn0LPqCKBnUhANKkAQ_om1zInjtT.P3TB9mMQ4zk_4Ewe) | [Recording](https://generalassembly.zoom.us/rec/share/XPkYH5jA3R5uM7G4v8UXBweNYk5LY2mc9MxShpc8wTJB8VXYOKlThEQhnqrwxiDH.yao5q7PtSSTw7Phs) | [Recording](https://generalassembly.zoom.us/rec/share/rJmZQocOTZK_47afMVCMa9sDuiei8ihDyd1y01SCyvVuGc1l642M-2PPnkegF3Iw.0yz73zjeuDZMaEYI) | [Recording](https://generalassembly.zoom.us/rec/share/FHdUHA41DU-agh6RgXKDbZNSuOh5RSm0ATHHLM6NnflP0aU_E0ZuklPJhyDjTF54.iAHat7sJe0I858Iy) |
+  | Passcode: `` | Passcode: `#R#TF$0s` | Passcode: `U?c6.2uq` | Passcode: `t1eh!1BT` | Passcode: `#$1ky1bx` | 
 
   </p></details></li>
 
@@ -350,16 +350,16 @@ ___
   <li><details><summary><strong>Week 5</strong></summary><p>
 
   <p>
-  In Week 5 we continue to work with React Functional Components, learning about some amazing Hooks like useEffect and useContext, as well as two powerful libraries, Axios and the React Router
+  In Week 5 we continue to work with Express from scratch, Authorization and following it up with a full stackathon for practice
   </p>
 
 
- <!-- | Monday | Tuesday | Wednesday | Thursday | Friday |
+ | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | HOLIDAY |[useEffect](https://github.com/seir-123/u2_lesson_useEffect)  | [Router II](https://github.com/seir-123/u2_lesson_react_router)  | [useContext](https://github.com/seir-123/u2_lesson_useContext)  | [Project 2](https://github.com/seir-123/project2_prompt/blob/main/README.md) |
-  |  | [React API](https://github.com/seir-123/u2_lesson_react_APIs)  | [Router Lab](https://github.com/seir-123/u2_lab_react_router)| [Context Lab](https://github.com/seir-123/u2_react_useContext_lab)   | React Review |
-  | |[STARWARS Lab](https://github.com/seir-123/u2_react_axios_lab) |   | Project Proposals |  |
-  |  | OUTCOMES|  |  |  |
+  | [Group Git](https://github.com/SEIR-0508/u2_lesson_group_git) | Heavy Review  | Stackathon day 2 | Stackathon day 3  | [Project 2](https://github.com/SEIR-0508/project2/blob/main/README.md) |
+  | [Express fron Scratch](https://github.com/taubman33/u2_lab_express_api/blob/main/README.md) |  [Reg ex (optional)](https://github.com/SEIR-0508/u2_lesson_regEx_js/tree/main)| | Presentations   | |
+  | |[OAuth (optional)](https://github.com/SEIR-0508/u2_lesson_oAuth) |   | [Project 2 setup] (https://github.com/SEIR-0508/project2/blob/main/README.md) |  |
+  |  | Stackaton Day 1 |  | OUTCOMES |  |
  
 
 
@@ -367,8 +367,8 @@ ___
 
 | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Recording]() | [Recording]() | [Recording]() | [Recording]() | [Recording]() |
-  | Passcode: `` | Passcode: `` | Passcode: `` | Passcode: `` | Passcode: `` | -->
+  | [Recording](https://generalassembly.zoom.us/rec/share/rpgppCB-VEov47lNWi_Ov-ZegO3AtzMtA3SmZohvbZ0nb7EUt0LzggdYMhRriuo2.CWe71a6eI9i0ymGe) | [Recording]() | [Recording]() | [Recording]() | [Recording]() |
+  | Passcode: `.M7#y&Qz` | Passcode: `` | Passcode: `` | Passcode: `` | Passcode: `` | -->
  
   </p></details></li>
   

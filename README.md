@@ -345,7 +345,10 @@ ___
 
   </p></details></li>
 
-  
+  </ul>
+
+  ___
+  </p></details></li>
 
   <li><details><summary><strong>Week 5</strong></summary><p>
 
@@ -358,7 +361,7 @@ ___
   |:---:|:---:|:---:|:---:|:---:|
   | [Group Git](https://github.com/SEIR-0508/u2_lesson_group_git) | Heavy Review  | Stackathon day 2 | Stackathon day 3  | [Project 2](https://github.com/SEIR-0508/project2/blob/main/README.md) |
   | [Express fron Scratch](https://github.com/taubman33/u2_lab_express_api/blob/main/README.md) |  [Reg ex (optional)](https://github.com/SEIR-0508/u2_lesson_regEx_js/tree/main)| | Presentations   | |
-  | |[OAuth (optional)](https://github.com/SEIR-0508/u2_lesson_oAuth) |   | [Project 2 setup] (https://github.com/SEIR-0508/project2/blob/main/README.md) |  |
+  | |[OAuth (optional)](https://github.com/SEIR-0508/u2_lesson_oAuth) |   | [Project 2 setup](https://github.com/SEIR-0508/project2/blob/main/README.md) |  |
   |  | Stackaton Day 1 |  | OUTCOMES |  |
  
 

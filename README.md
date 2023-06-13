@@ -385,25 +385,25 @@ ___
 
 
 ___
-<details><summary><strong>Unit 3</strong> - PostgreSQL | Sequelize</summary><p>
+<details><summary><strong>Unit 3</strong> - REACT </summary><p>
 
 <ul type="none">
 
   <li><details><summary><strong>Week 7</strong></summary><p>
 
   <p>
-  In Week 7 we are introduced to <b>SQL databases</b> and start to learn SQL commands to interact with our database.  We also learn about the concept of <b>SQL Joins</b>. Then, we learn all about <b>Sequelize</b> and how it can interpret for our SQL database and our backend Node servers and we learn how to make <b>queries</b> with it, as well as how to set up <b>Sequelize with Express</b>
+  In Week 7 we learn all about React and what an amazing JavaScript library it can be for developers. We learn the concepts of components, props, and about React Hooks and functional components. We learn about useState and how to use it to manage our state within our apps. We also get into how we can use useEffect to make axios calls in our React apps. Finally at the end of the week, we learn React Router, a powerful tool for navigating around our virtual DOM.
   </p>
 
  
   <!--| Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | [SQL Intro](https://github.com/seir-123/u3_lesson_SQL_intro)| [Sequelize Intro](https://github.com/seir-123/u3_lesson_sequelize_intro) | [Database Design](https://github.com/seir-123/u3_lesson_database_design) | [ERD's](https://github.com/seir-123/u3_lesson_ERD) | [Intro to Express](https://github.com/seir-123/u3_lesson_express_intro-1) |
-  | [SQL Practice Lab](https://github.com/seir-123/u3_lab_SQL_practice) | [Sequelize Queries](https://github.com/seir-123/u3_lesson_sequelize_queries-1) | [Sequelize Associations](https://github.com/seir-123/u3_lesson_sequelize_associations) | [Sequelize Migrations](https://github.com/seir-123/u3_lesson_sequelize_migrations) | [Express Routes](https://github.com/seir-123/u3_lesson_express_routing) |
-  |[SQL Joins](https://github.com/seir-123/u3_lesson_SQL_joins)  | [ Query Lab](https://github.com/seir-123/u3_lab_sequelize_querying) |  [Associations Exercise](https://github.com/seir-123/u3_lab_sequelize_associations_exercise) | [Migrations Lab](https://github.com/seir-123/u3_lab_sequelize_migrations_exercise)  | [Intro to Middleware](https://github.com/seir-123/u3_lesson_express_middleware) |
-  | [SQL Joins lab](https://github.com/seir-123/u3_lab_SQL_joins) | OUTCOMES | [Complex Associations](https://github.com/seir-123/u3_lesson_sequelize_complex_associations) | [ Associations HW ](https://github.com/seir-123/u3_hw_sequelize_associations_and_migrations) | [Express Controllers](https://github.com/seir-123/u3_lesson_express_controllers) |
-  | [Carmen Sandiego HW](https://github.com/seir-123/u3_hw_carmen_sandiego) |  | [Sequelize Practice](https://github.com/seir-123/u3_hw_sequelize_practice) |  | [Express Fruits](https://github.com/seir-123/u3_hw_express_fruits)|
-|||| |
+  | HOLIDAY | [Intro to React](https://github.com/SEIR-0508/u3_lesson_intro_to_react/blob/main/README.md) | [Component hierarchy Diagram](https://github.com/SEIR-0508/u3_lesson_component_hierarchy/blob/main/README.md) | [Portfolio](https://github.com/SEIR-0508/u3_react_portfolio_lab) | [Reat State](https://github.com/SEIR-0508/u3_lesson_state_and_hooks) |
+  || [LOTR Lab](https://github.com/SEIR-0508/u3_lab_react_LOTR/blob/main/README.md) | [Mapping Components](https://github.com/SEIR-0508/u3_lesson_react_mapping_components-1) | OUTCOMES | [Likes Lab](https://github.com/SEIR-0508/u3_lab_likes) |
+  | | [ Hello React](https://github.com/SEIR-0508/u3_hw_hello_react) |  [Mapping Lab](https://github.com/SEIR-0508/u3_lab_mapping_contacts/blob/main/README.md) |   | [React Forms](https://github.com/SEIR-0508/u3_react_forms/tree/main) |
+  | |  | [React Router](https://github.com/SEIR-0508/u3_react_router_intro/blob/main/README.md) |  | [Groceries Lab](https://github.com/SEIR-0508/u3_lab_groceries) |
+  |  |  | [Mapping Movies](https://github.com/SEIR-0508/u3_hw_movie_mapping) |  | [ATM Lab](https://github.com/SEIR-0508/u3_lab_react_ATM)|
+|||| | [Password Validator](https://github.com/SEIR-0508/u3_lab_password_validator/blob/main/README.md)|
 | | | | |
 
 
@@ -415,8 +415,8 @@ ___
 
 | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Recording](https://generalassembly.zoom.us/rec/share/9uV4FZZFWETM5pKJC_t_PINg2pJc9ZXL9or5GLEtAoJknxxot_AyAT4OnAUazPlO.haPG1YSDf7cKkWVV) | [Recording](https://generalassembly.zoom.us/rec/share/uKCuqZa3ayPbwveXKTyrpG-CoE9LeZ7q8ZrhHweIDueskKRRZcxPDfqD3GMfzD1x.x8l3bXTSGuLU-_0r) | [Recording](https://generalassembly.zoom.us/rec/share/yvcObbUQgrxYdpcgPRym3WkZQu6ysYBjtAEapHENCgWTmpYVl9i63bPR7wtvrFPU.q9Nt-4cZKzD4U7PC) | [Recording](https://generalassembly.zoom.us/rec/share/2z58ZFX5KOWWftOVTVzh-jIFtWsdNb6c0E2CoKnp3oPO-jQblgdFLWB6XXmmtUCo.5aJCUTFv07pd73zm) | [Recording](https://generalassembly.zoom.us/rec/share/7NCgrYJZmWQ6JP6n_ZQYy10pCaLQA3gKQWFlU45c_mrXPqu0tni_E7li6kWNZREE.CMVXDlxRF_IpYmy3) |
-  | Passcode: `692TdrH=` | Passcode: `=vpVTa2q` | Passcode: `s#3wQAs2` | Passcode: `z1b#Lx5^` | Passcode: `Vdf$UnP8` | -->
+  | [Recording]() | [Recording]() | [Recording]() | [Recording]() | [Recording]() |
+  | Passcode: `` | Passcode: `` | Passcode: `` | Passcode: `` | Passcode: `` | -->
 
   </p></details></li>
 
@@ -425,15 +425,15 @@ ___
   <li><details><summary><strong>Week 8</strong></summary><p>
 
   <p>
-  In Week 8, we learn all about how to integrate <b>user authentication</b> in our apps from scratch. At the end of the week, we learn how to set up <b>complex associations</b> in Sequelize and then split up into our Groups for Project 3!
+  In Week 8, we continue to work with React Functional Components, learning about some amazing Hooks like useEffect and useContext, as well as two powerful libraries, Axios and the React Router
   </p>
 
  
   <!--| Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Express Sequelize](https://github.com/seir-123/u3_lesson_express_sequelize) | [Group Git](https://github.com/seir-123/u3_lesson_group_git) | [JWT](https://github.com/seir-123/u3_lesson_JWT_auth) | Project Proposal  | Project Work |
-  | [Sequelize API from scratch](https://github.com/seir-123/u3_lab_sequelize_API_from_scratch) | [Full Stack Lab](https://github.com/seir-123/u3_lab_PERN_stack/blob/main/README.md) | [Sequelize Auth](https://github.com/seir-123/u3_lesson_sequelize_auth-1) | Proposal Presentations  | |
-  | [Router Lab]() | [Auth Practice Reading](https://github.com/seir-123/u3_hw_JWT_auth_study/blob/main/README.md)| [React Auth](https://github.com/seir-123/u3_lesson_react_auth) |  |  |
+  | [Router II](https://github.com/seir-123/u2_lesson_react_router) | [UseEffect](https://github.com/seir-123/u2_lesson_useEffect) | [useContext](https://github.com/seir-123/u2_lesson_useContext) | [Project 2 prompt](https://github.com/seir-123/project2_prompt/blob/main/README.md)  | Project Proposals |
+  | [Router Lab](https://github.com/seir-123/u2_lab_react_router) | [Reat API](https://github.com/seir-123/u2_lesson_react_APIs) | [Context Lab](https://github.com/seir-123/u2_react_useContext_lab) |   |  React Review |
+  | [Router Lab](https://github.com/seir-123/u2_lab_react_router) | [SWAPI Axios Lab](https://github.com/seir-123/u2_react_axios_lab)|  |  |Project Work|
   
 
   <ul type="none">
@@ -442,8 +442,8 @@ ___
 
 | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Recording](https://generalassembly.zoom.us/rec/share/8HQJaLMPCJwcEmdN6H9Zad01GNjmoLCclRFv4CCl1JZN-xNNi7YeF7AJC0h6kvJp.pclB8UGJL5RxJNG3) | [Recording](https://generalassembly.zoom.us/rec/share/o7bpgJ48xEL6xVj--5laLn8nOVX-64WHui3NnvNaDS3CQjQ60DyWp0Up7uQQGhjX.DahYw8OeCkVJHlkx) | [Recording]() | [Recording]() |[Recording]()|
-  | Passcode: `$jg?^C4i` | Passcode: `?47xCs9k` | Passcode: `` | Passcode: ``  |  Passcode: `` | -->
+  | [Recording]() | [Recording]() | [Recording]() | [Recording]() |[Recording]()|
+  | Passcode: `` | Passcode: `` | Passcode: `` | Passcode: ``  |  Passcode: `` | -->
 
  </p></details></li>
   

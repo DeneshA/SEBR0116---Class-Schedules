@@ -370,8 +370,8 @@ ___
 
 | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Recording](https://generalassembly.zoom.us/rec/share/rpgppCB-VEov47lNWi_Ov-ZegO3AtzMtA3SmZohvbZ0nb7EUt0LzggdYMhRriuo2.CWe71a6eI9i0ymGe) | [Recording]() | [Recording]() | [Recording]() | [Recording]() |
-  | Passcode: `.M7#y&Qz` | Passcode: `` | Passcode: `` | Passcode: `` | Passcode: `` | -->
+  | [Recording](https://generalassembly.zoom.us/rec/share/rpgppCB-VEov47lNWi_Ov-ZegO3AtzMtA3SmZohvbZ0nb7EUt0LzggdYMhRriuo2.CWe71a6eI9i0ymGe) | [Recording]() | [Recording]() | [Recording](https://generalassembly.zoom.us/rec/share/mw-P8GO_Q75a5H7DwXq_ConfsjIl2ZmwWDkpL2X8bqCAJhOVDuKIjdoIM_q_ADUj.nOZOVWyV0yqxa0fq) | [Recording]() |
+  | Passcode: `.M7#y&Qz` | Passcode: `` | Passcode: `` | Passcode: `i$fQa%$6` | Passcode: `` | 
  
   </p></details></li>
   
@@ -396,7 +396,7 @@ ___
   </p>
 
  
-  <!--| Monday | Tuesday | Wednesday | Thursday | Friday |
+  | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
   | HOLIDAY | [Intro to React](https://github.com/SEIR-0508/u3_lesson_intro_to_react/blob/main/README.md) | [Component hierarchy Diagram](https://github.com/SEIR-0508/u3_lesson_component_hierarchy/blob/main/README.md) | [Portfolio](https://github.com/SEIR-0508/u3_react_portfolio_lab) | [Reat State](https://github.com/SEIR-0508/u3_lesson_state_and_hooks) |
   || [LOTR Lab](https://github.com/SEIR-0508/u3_lab_react_LOTR/blob/main/README.md) | [Mapping Components](https://github.com/SEIR-0508/u3_lesson_react_mapping_components-1) | OUTCOMES | [Likes Lab](https://github.com/SEIR-0508/u3_lab_likes) |
@@ -416,7 +416,7 @@ ___
 | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
   | [Recording]() | [Recording]() | [Recording]() | [Recording]() | [Recording]() |
-  | Passcode: `` | Passcode: `` | Passcode: `` | Passcode: `` | Passcode: `` | -->
+  | Passcode: `` | Passcode: `` | Passcode: `` | Passcode: `` | Passcode: `` | 
 
   </p></details></li>
 

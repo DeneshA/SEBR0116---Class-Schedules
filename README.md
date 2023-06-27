@@ -436,7 +436,7 @@ ___
  
   | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | [UseEffect](https://github.com/SEIR-0508/u3_lesson_useEffect) | [Router II](https://github.com/SEIR-0508/u3_lesson_react_router) | [Front End Hackaton](https://github.com/SEIR-0508/u3_front_end_hackathon) | Hackathon Presentations | Project Proposals |
+  | [UseEffect](https://github.com/SEIR-0508/u3_lesson_useEffect) | [Router II](https://github.com/SEIR-0508/u3_lesson_react_router) | LABS| Hackathon Presentations | Project Proposals |
   | [Reat API](https://github.com/SEIR-0508/u3_lesson_react_APIs/blob/main/README.md)   | [Router Lab](https://github.com/SEIR-0508/u3_lab_react_router)| |  [Project 2 prompt](https://github.com/seir-123/project2_prompt/blob/main/README.md)  |  [useContext](https://github.com/seir-123/u2_lesson_useContext)|
   | [SWAPI Axios Lab](https://github.com/SEIR-0508/u3_react_axios_lab/blob/main/README.md)  | Axios Lab II |  | OUTCOMES |[Context Lab](https://github.com/seir-123/u2_react_useContext_lab) |
   

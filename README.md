@@ -370,8 +370,8 @@ ___
 
 | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Recording](https://generalassembly.zoom.us/rec/share/rpgppCB-VEov47lNWi_Ov-ZegO3AtzMtA3SmZohvbZ0nb7EUt0LzggdYMhRriuo2.CWe71a6eI9i0ymGe) | [Recording]() | [Recording]() | [Recording](https://generalassembly.zoom.us/rec/share/mw-P8GO_Q75a5H7DwXq_ConfsjIl2ZmwWDkpL2X8bqCAJhOVDuKIjdoIM_q_ADUj.nOZOVWyV0yqxa0fq) | [Recording]() |
-  | Passcode: `.M7#y&Qz` | Passcode: `` | Passcode: `` | Passcode: `i$fQa%$6` | Passcode: `` | 
+  | [Recording](https://generalassembly.zoom.us/rec/share/rpgppCB-VEov47lNWi_Ov-ZegO3AtzMtA3SmZohvbZ0nb7EUt0LzggdYMhRriuo2.CWe71a6eI9i0ymGe) | [Recording]() | [Recording]() | [Recording](https://generalassembly.zoom.us/rec/share/mw-P8GO_Q75a5H7DwXq_ConfsjIl2ZmwWDkpL2X8bqCAJhOVDuKIjdoIM_q_ADUj.nOZOVWyV0yqxa0fq) | [Recording](https://generalassembly.zoom.us/rec/share/Mer5085ymQqB3T0vIkWlIrQoC8jhzJPGObV-hJpxcsPM63xvFh17LKrykMWzRRq9.tK4TCSbEEAqKbg6Y) |
+  | Passcode: `.M7#y&Qz` | Passcode: `` | Passcode: `` | Passcode: `i$fQa%$6` | Passcode: `.2+e.y3y` | 
  
   </p></details></li>
   
@@ -415,9 +415,14 @@ ___
 
 | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Recording]() | [Recording]() | [Recording]() | [Recording]() | [Recording]() |
-  | Passcode: `` | Passcode: `` | Passcode: `` | Passcode: `` | Passcode: `` | 
+  | [Recording]() | [Recording](https://generalassembly.zoom.us/rec/share/zVzM25yv0H_xlVogigYMeGEcnIJdT5crBJni1m2FwJmo8JRbQHugCCyQCsQrZaw9.w2h9RpaEHDkOVN8r) | [Recording](https://generalassembly.zoom.us/rec/share/HDHSafQ_cP9A462uFgidePdBkx6BkZFhY4kkixAiHl7Yf4GTAcB7zrZKGexAOG8s.cE6swbpDpTaMEtja) | [Recording]() | [Recording](https://generalassembly.zoom.us/rec/share/77pKRE9_joj5fdQdbJhJueOik89q8__G0kIgz1HDRIt2VqQHZSdG_gqCBwlwxRZX.Ze6K1IDjXvJBRxm2) |
+  | Passcode: `` | Passcode: `#vt?C7Ch` | Passcode: `u!dsv*n8` | Passcode: `` | Passcode: `E$XKK5+r` | 
 
+  </p></details></li>
+
+  </ul>
+
+  ___
   </p></details></li>
 
 
@@ -429,11 +434,11 @@ ___
   </p>
 
  
-  <!--| Monday | Tuesday | Wednesday | Thursday | Friday |
+  | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Router II](https://github.com/seir-123/u2_lesson_react_router) | [UseEffect](https://github.com/seir-123/u2_lesson_useEffect) | [useContext](https://github.com/seir-123/u2_lesson_useContext) | [Project 2 prompt](https://github.com/seir-123/project2_prompt/blob/main/README.md)  | Project Proposals |
-  | [Router Lab](https://github.com/seir-123/u2_lab_react_router) | [Reat API](https://github.com/seir-123/u2_lesson_react_APIs) | [Context Lab](https://github.com/seir-123/u2_react_useContext_lab) |   |  React Review |
-  | [Router Lab](https://github.com/seir-123/u2_lab_react_router) | [SWAPI Axios Lab](https://github.com/seir-123/u2_react_axios_lab)|  |  |Project Work|
+  | [UseEffect](https://github.com/SEIR-0508/u3_lesson_useEffect) | [Router II](https://github.com/SEIR-0508/u3_lesson_react_router) | [Front End Hackaton](https://github.com/SEIR-0508/u3_front_end_hackathon) | Hackathon Presentations | Project Proposals |
+  | [Reat API](https://github.com/SEIR-0508/u3_lesson_react_APIs/blob/main/README.md)   | [Router Lab](https://github.com/SEIR-0508/u3_lab_react_router)| |  [Project 2 prompt](https://github.com/seir-123/project2_prompt/blob/main/README.md)  |  [useContext](https://github.com/seir-123/u2_lesson_useContext)|
+  | [SWAPI Axios Lab](https://github.com/SEIR-0508/u3_react_axios_lab/blob/main/README.md)  | Axios Lab II |  | OUTCOMES |[Context Lab](https://github.com/seir-123/u2_react_useContext_lab) |
   
 
   <ul type="none">
@@ -442,8 +447,8 @@ ___
 
 | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Recording]() | [Recording]() | [Recording]() | [Recording]() |[Recording]()|
-  | Passcode: `` | Passcode: `` | Passcode: `` | Passcode: ``  |  Passcode: `` | -->
+  | [Recording](https://generalassembly.zoom.us/rec/share/6VE0LhwINg4qTPOPqBFYJh-AU_ybyfXxpD10xvFIcKS9lBiyO1Ugtdtbu8roxYWl.eKShH9UVMF7oVwiK) | [Recording]() | [Recording]() | [Recording]() |[Recording]()|
+  | Passcode: `.b6T&Vr#` | Passcode: `` | Passcode: `` | Passcode: ``  |  Passcode: `` | 
 
  </p></details></li>
   

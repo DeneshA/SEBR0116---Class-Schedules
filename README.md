@@ -473,22 +473,19 @@ ___
   </p>
 
  
-  <!-- | Monday | Tuesday | Wednesday | Thursday | Friday |
+| Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Intro to Python](https://github.com/SEIR-1003/u4_lesson_python_intro) | [Python Tuples Lab](https://github.com/SEIR-1003/u4_lab_python_tuple_exercise) | [Code War Challenges](https://github.com/SEIR-1003/u4_python_challenges/blob/main/README.md) | [Django Install](https://github.com/SEIR-1003/u4_lesson_django_intro) | [Django Serializer I](https://github.com/SEIR-1003/u4_lesson_django_REST_API) |
-  | [Python Functions](https://github.com/SEIR-1003/u4_lesson_python_functions) | [Python OOP](https://github.com/SEIR-1003/u4_lesson_python_OOP) | OUTCOMES | [Djanjo Models]() | [Djanjo Serializer II](https://github.com/SEIR-1003/u4_django_serializers_ii) |
-  | [Python Controll Flow](https://github.com/SEIR-1003/u4_lesson_python_control_flow) | [CSV Parser Lab](https://github.com/SEIR-1003/u4_lab_python_CSV_parser) |  | [Django Practice I](https://github.com/SEIR-1003/u4_lab_nostaldja) | [Django Practice II](https://github.com/SEIR-1003/u4_lab_django_REST_API) |
-  |  |  |  |  |  |
-  | [Python List & Loops](https://github.com/SEIR-1003/u4_lesson_python_lists_loops) | [Polyglot Workshop](https://github.com/SEIR-1003/u4_polyglot_challenge) |  |  |  |
-  | [Python Dictionaries](https://github.com/SEIR-1003/u4_lesson_python_dictionaries)  |  |  |  | |
-| [Python Tuples](https://github.com/SEI-R-6-21/u4_lesson_python_tuples)  |  |  |  | |
-| [Python CYOA HW](https://github.com/SEIR-1003/u4_hw_python_adventure)  |  |  |  | |
+  | Presentations | [Python Functions](https://github.com/SEIR-0508/u4_lesson_python_functions/tree/main) | [Python Tuples Lab](https://github.com/SEIR-0508/u4_lesson_python_tuples/tree/main) | [CSV Parser Lab](https://github.com/SEIR-0508/u4_lab_python_CSV_parser) | [SQL intro](https://github.com/SEIR-0508/u4_lesson_SQL_intro/tree/main) |
+  | [Intro to Python](https://github.com/SEIR-0508/u4_lesson_python_intro) | [Python Control Flow](https://github.com/SEIR-0508/u4_lesson_python_control_flow/tree/main) | [Python OOP](https://github.com/SEIR-0508/u4_lesson_python_OOP) | [Polyglot Workshop](https://github.com/SEIR-0508/u4_polyglot_challenge/tree/main) | [SQL Lab](https://github.com/SEIR-0508/u4_lab_SQL_practice/tree/main) |
+  | | [Python Lists & Loops](https://github.com/SEIR-0508/u4_lesson_python_lists_loops/tree/main) |[Smash Bros](https://github.com/SEIR-0508/u4_hw_python_smash_bros)  |[Py Pac Poe](https://github.com/SEIR-0508/u4_py_pac_pie/blob/main/README.md)  |[SQL Joins](https://github.com/SEIR-0508/u4_lab_SQL_joins/blob/main/ReadMe.md) |
+  | |  [Python Dictionaries](https://github.com/SEIR-0508/u4_lesson_python_dictionaries/tree/main) |[Codewars](https://github.com/SEIR-0508/u4_python_challenges/tree/main)  | OUTCOMES | [SQL Joins lAB](https://github.com/SEIR-0508/u4_lab_SQL_joins/blob/main/ReadMe.md) |
+|||||[Carmen San Diego](https://github.com/SEIR-0508/u4_hw_carmen_sandiego)|
 
    <ul type="none">
 
   <li><details><summary>Class Recordings</summary><p>
 
-| Monday | Tuesday | Wednesday | Thursday | Friday |
+<!-- | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
   | [Recording](https://generalassembly.zoom.us/rec/share/FXJpSSFSKiigCBNt4l6xyS5U4LQEHgk_SF0MLKslHGmqOS8lHKWSibwTHPycKESu.-N1_FaTz8Kdan4Fw) | [Recording](https://generalassembly.zoom.us/rec/share/tfw3k_muD72MaSzEFElOTWbF55FnXuq1yWZ8Nd7C6oa5UTBGeHpCBJwWsVOGB55L.5838VjUeCxebfwOr) | [Recording](https://generalassembly.zoom.us/rec/share/2ZJD4LNvD5GvuPPKQBRvR29qYRWWvo1LZt1_p3krRN_edzbO1vj-X8MWcOtjMSzn.Pt35N9_IUg1QNP52) | [Recording](https://generalassembly.zoom.us/rec/share/27yva2f5HJImQ8PjUypsmO-0-fPoqWrD0StB3BZkgiIV3r33marHxQSAlot9c6nd.mT_1KrME0qdDMT6R) | [Recording](https://generalassembly.zoom.us/rec/share/Mr2RSi68R1NiebudnySOyHgwIuqkeSRgwTRjDpuwrEt5HhENzl4FgiWv_0-SBw4.PsSADazrGSF5rMb9) |
   | Passcode: `b95S6X#.` | Passcode: `8@F6Fj+$` | Passcode: `7K3SkA.M` | Passcode: `iK4+M&rv` | Passcode: `G%Jv!5Wk` | -->

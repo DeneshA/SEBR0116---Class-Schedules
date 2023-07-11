@@ -469,7 +469,7 @@ ___
   <li><details><summary><strong>Week 11</strong></summary><p>
 
   <p>
-  In Week 11, we are introduced to <b>Python</b> and learn about <b>functions</b>, <b>control flow</b>, <b>loops</b>, and <b>dictionaries</b>. We continue with Python through the week by learning about <b>tuples</b> and <b>OOP</b>. We then get a quick intro to <b>Django</b> and how to set up <b>views</b>. 
+  In Week 11, we are introduced to <b>Python</b> and learn about <b>functions</b>, <b>control flow</b>, <b>loops</b>, and <b>dictionaries</b>. We continue with Python through the week by learning about <b>tuples</b> and <b>OOP</b>. 
   </p>
 
  
@@ -487,25 +487,30 @@ ___
 
 <!-- | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Recording](https://generalassembly.zoom.us/rec/share/FXJpSSFSKiigCBNt4l6xyS5U4LQEHgk_SF0MLKslHGmqOS8lHKWSibwTHPycKESu.-N1_FaTz8Kdan4Fw) | [Recording](https://generalassembly.zoom.us/rec/share/tfw3k_muD72MaSzEFElOTWbF55FnXuq1yWZ8Nd7C6oa5UTBGeHpCBJwWsVOGB55L.5838VjUeCxebfwOr) | [Recording](https://generalassembly.zoom.us/rec/share/2ZJD4LNvD5GvuPPKQBRvR29qYRWWvo1LZt1_p3krRN_edzbO1vj-X8MWcOtjMSzn.Pt35N9_IUg1QNP52) | [Recording](https://generalassembly.zoom.us/rec/share/27yva2f5HJImQ8PjUypsmO-0-fPoqWrD0StB3BZkgiIV3r33marHxQSAlot9c6nd.mT_1KrME0qdDMT6R) | [Recording](https://generalassembly.zoom.us/rec/share/Mr2RSi68R1NiebudnySOyHgwIuqkeSRgwTRjDpuwrEt5HhENzl4FgiWv_0-SBw4.PsSADazrGSF5rMb9) |
-  | Passcode: `b95S6X#.` | Passcode: `8@F6Fj+$` | Passcode: `7K3SkA.M` | Passcode: `iK4+M&rv` | Passcode: `G%Jv!5Wk` | -->
+  | [Recording] | [Recording]| [Recording](https://generalassembly.zoom.us/rec/share/2ZJD4LNvD5GvuPPKQBRvR29qYRWWvo1LZt1_p3krRN_edzbO1vj-X8MWcOtjMSzn.Pt35N9_IUg1QNP52) | [Recording] | [Recording] |
+  | Passcode: `` | Passcode: `` | Passcode: `` | Passcode: `` | Passcode: `` | -->
 
-  </p></details></li>
+   </p></details></li>
+
+  </ul>
 
   ___
- 
+  </p></details></li>
 
-  <li><details><summary><strong>Week 12</strong></summary><p>
+
+
+  <li><details><summary><strong>Week 8</strong></summary><p>
+
 
   <p>
-  In Week 12, we continue with Python by working in groups for A stackathon challenge. At the end of the week, we begin our <b>Capstone Project</b>!
+  In Week 12, We get a quick intro to <b>Django</b> and how to set up <b>views</b>. At the end of the week, we begin our <b>Capstone Project</b>!
   </p>
 
 
   <!--| Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Django Full Stackathon](https://github.com/SEIR-1003/u4_django_fullstack) | [Django Full Stackathon Cont...](https://github.com/SEIR-1003/u4_django_fullstack) | Full Stackathon Presentations | P4 Project Planning | Project Week |
-  |  | | OUTCOMES |  | |
+  | [Django Install](https://github.com/SEIR-0508/u4_lesson_django_intro) | [Django Serializer](https://github.com/SEIR-0508/u4_lesson_django_REST_API) | [Django Full STackathon](https://github.com/seir-123/u4_django_fullstack/) | P4 Project Planning | Project Week Starts |
+  | [Django Practice I](https://github.com/SEIR-0508/u4_lab_nostaldja) | [Django practice II](https://github.com/SEIR-0508/u4_lab_django_REST_API)| |  OUTCOMES | |
   
 
   <ul type="none">

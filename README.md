@@ -5,7 +5,7 @@
 </div>
 
 ___
-Welcome to the <b>SEIR-0508 Class Wiki</b>.
+Welcome to the <b>SEIR-0911EC Class Wiki</b>.
 
 This repository is a place where links to all of the course content that we cover can be found. Content is organized by <i>Unit</i> and <i>Week</i> with lesson repos and class recordings for each day.
 <br>
@@ -166,18 +166,18 @@ ____
 	Week 3 - Project 1 (API Call / JS Game)
 
 ### Unit 2 - 
-	Week 4 - React Basics, React Hooks
-	Week 5 - React Hooks, Router, Axios and API calls
-	Week 6 - Project 2 (React Axios)
+	Week 4 -Mongo, Mongoose, Express
+	Week 5 -  Mongoose with Express, Full Stack Development
+	Week 6 - Project 2 (Mongoose /  Axios)
 
 ### Unit 3 -
-	Week 7 - Mongo, Mongoose, Express
-	Week 8 - Mongoose with Express, React + Auth with JWT
+	Week 7 -  React Basics, React Hooks
+	Week 8 -  React Router and Axios
 	Week 9 - Group MERN Stack Project
 
 ### Unit 4 -
 	  Week 10 - Python, Django
-	  Week 11 - Django Auth, Group Hackathon
+	  Week 11 - Django Serializers, Group Hackathon
 	  Week 12 - Capstone Project  
 
 
@@ -197,12 +197,12 @@ ____
 
   | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | Introductions| [JS Intro- Datatypes](https://github.com/SEIR-0508/u1_js_intro_datatypes/blob/main/README.md) | [HTML](https://github.com/SEIR-0508/u1_HTML_intro)  |  [Array Iterators](https://github.com/SEIR-0508/u1_array_iterators) | [DOM Events](https://github.com/SEIR-0508/u1_lesson_js_dom_events)
-  | [CLI Intro](https://github.com/SEIR-0508/u1_CLI_intro)  | [Control Flow](https://github.com/SEIR-0508/u1_js_control_flow/blob/main/README.md) | [Grumpy Cat](https://github.com/SEIR-0508/u1_lab_grumpy_cat_resume)| [JS Objects](https://github.com/SEIR-0508/u1_lesson_js_objects/blob/main/README.md) | [Color Switcher](https://github.com/SEIR-0508/u1_lab_dom_color_switcher)
-  |  [InstallFest](https://github.com/SEIR-0508/u1_Installfest) | [Arrays](https://github.com/SEIR-0508/u1_js_arrays/blob/main/README.md) | [CSS](https://github.com/SEIR-0508/u1_CSS_intro) | [Jurassic Objects Lab](https://github.com/SEIR-0508/u1_lab_jurassic_objects/blob/main/README.md) | [JS Dots Game Lab](https://github.com/SEIR-0508/u1_lab_dom_dots)| 
-  |  [Git](https://github.com/SEIR-0508/u1_lesson_git_intro)| [Functions and Scopes](https://github.com/SEIR-0508/u1_js_functions_and_scope/blob/main/README.md) | [Resume](https://github.com/SEIR-0508/u1_lab_personal_resume)  | [CodeWars Challenges](https://github.com/seir-123/u1_hw_codewars_challenges) | [Connect Four](https://github.com/SEIR-0508/u1_hw_Connect_four/blob/main/README.md)  | |
-  | [Command Line Practice](https://github.com/SEIR-0508/u1_hw_star_wars-1/blob/main/README.md)  | [Data Types Practice](https://github.com/SEIR-0508/U1_data_types_practice) | [Flexbox](https://github.com/SEIR-0508/u1_CSS_Flex_and_Grid)  | OUTCOMES  | [Tic Tac Toe](https://github.com/SEIR-0508/u1_hw_tic_tac_toe)  |
-  |  | [Functions Lab](https://github.com/SEIR-0508/u1_functions_lab/blob/main/README.md)  | [CFashion Blog](https://github.com/SEIR-0508/u1_HW_Fashion-Blog/blob/master/README.md) | | |
+  | Introductions| [JS Intro- Datatypes](https://github.com/SEIR-0911/u1_js_intro_datatypes/blob/main/README.md) | [HTML](https://github.com/SEIR-0911/u1_HTML_intro)  |  [Array Iterators](https://github.com/SEIR-0911/u1_array_iterators) | [DOM Events](https://github.com/SEIR-0911/u1_lesson_js_dom_events)
+  | [CLI Intro](https://github.com/SEIR-0911/u1_CLI_intro)  | [Control Flow](https://github.com/SEIR-0911/u1_js_control_flow/blob/main/README.md) | [Grumpy Cat](https://github.com/SEIR-0911/u1_lab_grumpy_cat_resume)| [JS Objects](https://github.com/SEIR-0911/u1_lesson_js_objects/blob/main/README.md) | [Color Switcher](https://github.com/SEIR-0911/u1_lab_dom_color_switcher)
+  |  [InstallFest](https://github.com/SEIR-0911/u1_Installfest) | [Arrays](https://github.com/SEIR-0911/u1_js_arrays/blob/main/README.md) | [CSS](https://github.com/SEIR-0911/u1_CSS_intro) | [Jurassic Objects Lab](https://github.com/SEIR-0911/u1_lab_jurassic_objects/blob/main/README.md) | [JS Dots Game Lab](https://github.com/SEIR-0911/u1_lab_dom_dots)| 
+  |  [Git](https://github.com/SEIR-0911/u1_lesson_git_intro)| [Functions and Scopes](https://github.com/SEIR-0911/u1_js_functions_and_scope/blob/main/README.md) | [Resume](https://github.com/SEIR-0911/u1_lab_personal_resume)  | [CodeWars Challenges](https://github.com/seir-123/u1_hw_codewars_challenges) | [Connect Four](https://github.com/SEIR-0911/u1_hw_Connect_four/blob/main/README.md)  | |
+  | [Command Line Practice](https://github.com/SEIR-0911/u1_hw_star_wars-1/blob/main/README.md)  | [Data Types Practice](https://github.com/SEIR-0911/U1_data_types_practice) | [Flexbox](https://github.com/SEIR-0911/u1_CSS_Flex_and_Grid)  | OUTCOMES  | [Tic Tac Toe](https://github.com/SEIR-0911/u1_hw_tic_tac_toe)  |
+  |  | [Functions Lab](https://github.com/SEIR-0911/u1_functions_lab/blob/main/README.md)  | [CFashion Blog](https://github.com/SEIR-0911/u1_HW_Fashion-Blog/blob/master/README.md) | | |
 
   <ul type="none">
 
@@ -229,10 +229,10 @@ ____
  
 | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  |  [JS Objects](https://github.com/SEIR-0508/u1_lesson_js_objects/blob/main/README.md) | Wireframing | Trello Intro| [ES6 Syntax](https://github.com/SEIR-0508/u1_lesson_ES6) | Project Week Starts|
-|[Jurassic Object Lab](https://github.com/SEIR-0508/u1_lab_jurassic_objects/blob/main/README.md)|  [Intro to API's](https://github.com/SEIR-0508/u1_pokemon-api-lab/blob/main/README.md)   |  [Jquery](https://github.com/SEIR-0508/u1_lesson_jquery_intro/blob/main/README.md) |  [Testing](https://github.com/SEIR-0508/u1_lesson_testing) |  ||
-  |Classes  | [Poke'mon Lab](https://github.com/SEIR-0508/u1_pokemon-api-lab/blob/main/README.md)  |  [Jquery Lab](https://github.com/SEIR-0508/u1_lab_jquery/blob/main/README.md)  | [Testing Lab](https://github.com/SEIR-0508/u1_lab_testing)|  |  
-  | This |  |[Weather API Lab](https://github.com/SEIR-0508/u1_lab_weather-api/blob/main/README.md)|  Promot 1|  |
+  |  [JS Objects](https://github.com/SEIR-0911/u1_lesson_js_objects/blob/main/README.md) | Wireframing | Trello Intro| [ES6 Syntax](https://github.com/SEIR-0911/u1_lesson_ES6) | Project Week Starts|
+|[Jurassic Object Lab](https://github.com/SEIR-0911/u1_lab_jurassic_objects/blob/main/README.md)|  [Intro to API's](https://github.com/SEIR-0911/u1_pokemon-api-lab/blob/main/README.md)   |  [Jquery](https://github.com/SEIR-0911/u1_lesson_jquery_intro/blob/main/README.md) |  [Testing](https://github.com/SEIR-0911/u1_lesson_testing) |  ||
+  |Classes  | [Poke'mon Lab](https://github.com/SEIR-0911/u1_pokemon-api-lab/blob/main/README.md)  |  [Jquery Lab](https://github.com/SEIR-0911/u1_lab_jquery/blob/main/README.md)  | [Testing Lab](https://github.com/SEIR-0911/u1_lab_testing)|  |  
+  | This |  |[Weather API Lab](https://github.com/SEIR-0911/u1_lab_weather-api/blob/main/README.md)|  Promot 1|  |
   |  |  |  | OUTCOMES |  | 
 
  <ul type="none">
@@ -272,10 +272,10 @@ ___
 
 | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | Holiday | [Mongo Command](https://github.com/SEIR-0508/u2_lesson_mongoDB/blob/main/README.md) | [Mongoose Data](https://github.com/SEIR-0508/u2_lesson_mongoose_data_model-1)  |  [Express Full Stack Demo](https://github.com/SEIR-0508/express_full_stack_demo) |[ERD](https://github.com/SEIR-0508/u2_lesson_ERD)|
-  | [Mongo Install](https://github.com/SEIR-0508/u2_lesson_mongo_install/blob/main/README.md)| [Mongo lab](https://github.com/SEIR-0508/u2_lab_mongoDB_sneakers/tree/main) | [Mongoose Associations](https://github.com/SEIR-0508/u2_lesson_mongoose_associations/tree/main) | [Express Intro](https://github.com/SEIR-0508/u2_express_intro_and_middleware/tree/main)|[Express Controller](https://github.com/SEIR-0508/u3_lesson_express_controllers/blob/main/README.md)  |
-  | [FullStack Development](https://github.com/SEIR-0508/u2_full_stack_development/blob/main/README.md) | [Node Readalong](https://github.com/SEIR-0508/u2_lesson_node_js/blob/main/README.md) | [Mongoose Lab](https://github.com/SEIR-0508/u2_mongoose_lab/blob/main/README.md) | [Express Routes](https://github.com/SEIR-0508/u3_lesson_express_routing/blob/main/README.md) | [Mongoose w/Express](https://github.com/SEIR-0508/u2_lesson_mongoose_express) |
-  |[Atlas Set up](https://github.com/SEIR-0508/u2_mongo_atlas_setup/blob/main/README.md)   | [Mongo Burgers](https://github.com/SEIR-0508/u2_hw_mongo_burgers) | [Promises](https://github.com/SEIR-0508/u2_lesson_promises/blob/main/README.md) | [Express Fruits](https://github.com/SEIR-0508/express_fruits/blob/main/readme.md)  |  [Mongoose Plants](https://github.com/SEIR-0508/u2_hw_mongoose_plants/blob/main/README.md)|
+  | Holiday | [Mongo Command](https://github.com/SEIR-0911/u2_lesson_mongoDB/blob/main/README.md) | [Mongoose Data](https://github.com/SEIR-0911/u2_lesson_mongoose_data_model-1)  |  [Express Full Stack Demo](https://github.com/SEIR-0911/express_full_stack_demo) |[ERD](https://github.com/SEIR-0911/u2_lesson_ERD)|
+  | [Mongo Install](https://github.com/SEIR-0911/u2_lesson_mongo_install/blob/main/README.md)| [Mongo lab](https://github.com/SEIR-0911/u2_lab_mongoDB_sneakers/tree/main) | [Mongoose Associations](https://github.com/SEIR-0911/u2_lesson_mongoose_associations/tree/main) | [Express Intro](https://github.com/SEIR-0911/u2_express_intro_and_middleware/tree/main)|[Express Controller](https://github.com/SEIR-0911/u3_lesson_express_controllers/blob/main/README.md)  |
+  | [FullStack Development](https://github.com/SEIR-0911/u2_full_stack_development/blob/main/README.md) | [Node Readalong](https://github.com/SEIR-0911/u2_lesson_node_js/blob/main/README.md) | [Mongoose Lab](https://github.com/SEIR-0911/u2_mongoose_lab/blob/main/README.md) | [Express Routes](https://github.com/SEIR-0911/u3_lesson_express_routing/blob/main/README.md) | [Mongoose w/Express](https://github.com/SEIR-0911/u2_lesson_mongoose_express) |
+  |[Atlas Set up](https://github.com/SEIR-0911/u2_mongo_atlas_setup/blob/main/README.md)   | [Mongo Burgers](https://github.com/SEIR-0911/u2_hw_mongo_burgers) | [Promises](https://github.com/SEIR-0911/u2_lesson_promises/blob/main/README.md) | [Express Fruits](https://github.com/SEIR-0911/express_fruits/blob/main/readme.md)  |  [Mongoose Plants](https://github.com/SEIR-0911/u2_hw_mongoose_plants/blob/main/README.md)|
   |  ||  | Outcomes |  |
   |  | |  |  |  |
 
@@ -306,9 +306,9 @@ ___
 
  | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Group Git](https://github.com/SEIR-0508/u2_lesson_group_git) | Heavy Review  | Stackathon day 2 | Stackathon day 3  | [Project 2](https://github.com/SEIR-0508/project2/blob/main/README.md) |
-  | [Express fron Scratch](https://github.com/taubman33/u2_lab_express_api/blob/main/README.md) |  [Reg ex (optional)](https://github.com/SEIR-0508/u2_lesson_regEx_js/tree/main)| | Presentations   | |
-  | |[OAuth (optional)](https://github.com/SEIR-0508/u2_lesson_oAuth) |   | [Project 2 setup](https://github.com/SEIR-0508/project2/blob/main/README.md) |  |
+  | [Group Git](https://github.com/SEIR-0911/u2_lesson_group_git) | Heavy Review  | Stackathon day 2 | Stackathon day 3  | [Project 2](https://github.com/SEIR-0911/project2/blob/main/README.md) |
+  | [Express fron Scratch](https://github.com/taubman33/u2_lab_express_api/blob/main/README.md) |  [Reg ex (optional)](https://github.com/SEIR-0911/u2_lesson_regEx_js/tree/main)| | Presentations   | |
+  | |[OAuth (optional)](https://github.com/SEIR-0911/u2_lesson_oAuth) |   | [Project 2 setup](https://github.com/SEIR-0911/project2/blob/main/README.md) |  |
   |  | Stackaton Day 1 |  | OUTCOMES |  |
  
 
@@ -345,12 +345,12 @@ ___
  
   | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | HOLIDAY | [Intro to React](https://github.com/SEIR-0508/u3_lesson_intro_to_react/blob/main/README.md) | [Component hierarchy Diagram](https://github.com/SEIR-0508/u3_lesson_component_hierarchy/blob/main/README.md) | [Portfolio](https://github.com/SEIR-0508/u3_react_portfolio_lab) | [Reat State](https://github.com/SEIR-0508/u3_lesson_state_and_hooks) |
-  || [LOTR Lab](https://github.com/SEIR-0508/u3_lab_react_LOTR/blob/main/README.md) | [Mapping Components](https://github.com/SEIR-0508/u3_lesson_react_mapping_components-1) | OUTCOMES | [Likes Lab](https://github.com/SEIR-0508/u3_lab_likes) |
-  | | [ Hello React](https://github.com/SEIR-0508/u3_hw_hello_react) |  [Mapping Lab](https://github.com/SEIR-0508/u3_lab_mapping_contacts/blob/main/README.md) |   | [React Forms](https://github.com/SEIR-0508/u3_react_forms/tree/main) |
-  | |  | [React Router](https://github.com/SEIR-0508/u3_react_router_intro/blob/main/README.md) |  | [Groceries Lab](https://github.com/SEIR-0508/u3_lab_groceries) |
-  |  |  | [Mapping Movies](https://github.com/SEIR-0508/u3_hw_movie_mapping) |  | [ATM Lab](https://github.com/SEIR-0508/u3_lab_react_ATM)|
-|||| | [Password Validator](https://github.com/SEIR-0508/u3_lab_password_validator/blob/main/README.md)|
+  | HOLIDAY | [Intro to React](https://github.com/SEIR-0911/u3_lesson_intro_to_react/blob/main/README.md) | [Component hierarchy Diagram](https://github.com/SEIR-0911/u3_lesson_component_hierarchy/blob/main/README.md) | [Portfolio](https://github.com/SEIR-0911/u3_react_portfolio_lab) | [Reat State](https://github.com/SEIR-0911/u3_lesson_state_and_hooks) |
+  || [LOTR Lab](https://github.com/SEIR-0911/u3_lab_react_LOTR/blob/main/README.md) | [Mapping Components](https://github.com/SEIR-0911/u3_lesson_react_mapping_components-1) | OUTCOMES | [Likes Lab](https://github.com/SEIR-0911/u3_lab_likes) |
+  | | [ Hello React](https://github.com/SEIR-0911/u3_hw_hello_react) |  [Mapping Lab](https://github.com/SEIR-0911/u3_lab_mapping_contacts/blob/main/README.md) |   | [React Forms](https://github.com/SEIR-0911/u3_react_forms/tree/main) |
+  | |  | [React Router](https://github.com/SEIR-0911/u3_react_router_intro/blob/main/README.md) |  | [Groceries Lab](https://github.com/SEIR-0911/u3_lab_groceries) |
+  |  |  | [Mapping Movies](https://github.com/SEIR-0911/u3_hw_movie_mapping) |  | [ATM Lab](https://github.com/SEIR-0911/u3_lab_react_ATM)|
+|||| | [Password Validator](https://github.com/SEIR-0911/u3_lab_password_validator/blob/main/README.md)|
 | | | | |
 
 
@@ -383,9 +383,9 @@ ___
  
   | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | [UseEffect](https://github.com/SEIR-0508/u3_lesson_useEffect) | [Router II](https://github.com/SEIR-0508/u3_lesson_react_router) | LABS| Hackathon Presentations | Project Proposals |
-  | [Reat API](https://github.com/SEIR-0508/u3_lesson_react_APIs/blob/main/README.md)   | [Router Lab](https://github.com/SEIR-0508/u3_lab_react_router)| |  [Project 2 prompt](https://github.com/seir-123/project2_prompt/blob/main/README.md)  |  [useContext](https://github.com/seir-123/u2_lesson_useContext)|
-  | [SWAPI Axios Lab](https://github.com/SEIR-0508/u3_react_axios_lab/blob/main/README.md)  | Axios Lab II |  | OUTCOMES |[Context Lab](https://github.com/seir-123/u2_react_useContext_lab) |
+  | [UseEffect](https://github.com/SEIR-0911/u3_lesson_useEffect) | [Router II](https://github.com/SEIR-0911/u3_lesson_react_router) | LABS| Hackathon Presentations | Project Proposals |
+  | [Reat API](https://github.com/SEIR-0911/u3_lesson_react_APIs/blob/main/README.md)   | [Router Lab](https://github.com/SEIR-0911/u3_lab_react_router)| |  [Project 2 prompt](https://github.com/seir-123/project2_prompt/blob/main/README.md)  |  [useContext](https://github.com/seir-123/u2_lesson_useContext)|
+  | [SWAPI Axios Lab](https://github.com/SEIR-0911/u3_react_axios_lab/blob/main/README.md)  | Axios Lab II |  | OUTCOMES |[Context Lab](https://github.com/seir-123/u2_react_useContext_lab) |
   
 
   <ul type="none">
@@ -422,11 +422,11 @@ ___
  
 | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | Presentations | [Python Functions](https://github.com/SEIR-0508/u4_lesson_python_functions/tree/main) | [Python Tuples Lab](https://github.com/SEIR-0508/u4_lesson_python_tuples/tree/main) | [CSV Parser Lab](https://github.com/SEIR-0508/u4_lab_python_CSV_parser) | [SQL intro](https://github.com/SEIR-0508/u4_lesson_SQL_intro/tree/main) |
-  | [Intro to Python](https://github.com/SEIR-0508/u4_lesson_python_intro) | [Python Control Flow](https://github.com/SEIR-0508/u4_lesson_python_control_flow/tree/main) | [Python OOP](https://github.com/SEIR-0508/u4_lesson_python_OOP) | [Polyglot Workshop](https://github.com/SEIR-0508/u4_polyglot_challenge/tree/main) | [SQL Lab](https://github.com/SEIR-0508/u4_lab_SQL_practice/tree/main) |
-  | | [Python Lists & Loops](https://github.com/SEIR-0508/u4_lesson_python_lists_loops/tree/main) |[Smash Bros](https://github.com/SEIR-0508/u4_hw_python_smash_bros)  |[Py Pac Poe](https://github.com/SEIR-0508/u4_py_pac_pie/blob/main/README.md)  |[SQL Joins](https://github.com/SEIR-0508/u4_lab_SQL_joins/blob/main/ReadMe.md) |
-  | |  [Python Dictionaries](https://github.com/SEIR-0508/u4_lesson_python_dictionaries/tree/main) |[Codewars](https://github.com/SEIR-0508/u4_python_challenges/tree/main)  | OUTCOMES | [SQL Joins lAB](https://github.com/SEIR-0508/u4_lab_SQL_joins/blob/main/ReadMe.md) |
-|||||[Carmen San Diego](https://github.com/SEIR-0508/u4_hw_carmen_sandiego)|
+  | Presentations | [Python Functions](https://github.com/SEIR-0911/u4_lesson_python_functions/tree/main) | [Python Tuples Lab](https://github.com/SEIR-0911/u4_lesson_python_tuples/tree/main) | [CSV Parser Lab](https://github.com/SEIR-0911/u4_lab_python_CSV_parser) | [SQL intro](https://github.com/SEIR-0911/u4_lesson_SQL_intro/tree/main) |
+  | [Intro to Python](https://github.com/SEIR-0911/u4_lesson_python_intro) | [Python Control Flow](https://github.com/SEIR-0911/u4_lesson_python_control_flow/tree/main) | [Python OOP](https://github.com/SEIR-0911/u4_lesson_python_OOP) | [Polyglot Workshop](https://github.com/SEIR-0911/u4_polyglot_challenge/tree/main) | [SQL Lab](https://github.com/SEIR-0911/u4_lab_SQL_practice/tree/main) |
+  | | [Python Lists & Loops](https://github.com/SEIR-0911/u4_lesson_python_lists_loops/tree/main) |[Smash Bros](https://github.com/SEIR-0911/u4_hw_python_smash_bros)  |[Py Pac Poe](https://github.com/SEIR-0911/u4_py_pac_pie/blob/main/README.md)  |[SQL Joins](https://github.com/SEIR-0911/u4_lab_SQL_joins/blob/main/ReadMe.md) |
+  | |  [Python Dictionaries](https://github.com/SEIR-0911/u4_lesson_python_dictionaries/tree/main) |[Codewars](https://github.com/SEIR-0911/u4_python_challenges/tree/main)  | OUTCOMES | [SQL Joins lAB](https://github.com/SEIR-0911/u4_lab_SQL_joins/blob/main/ReadMe.md) |
+|||||[Carmen San Diego](https://github.com/SEIR-0911/u4_hw_carmen_sandiego)|
 
    <ul type="none">
 
@@ -456,8 +456,8 @@ ___
 
  | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Django Install](https://github.com/SEIR-0508/u4_lesson_django_intro) | [Django Serializer](https://github.com/SEIR-0508/u4_lesson_django_REST_API) | [Django Full STackathon](https://github.com/seir-123/u4_django_fullstack/) | P4 Project Planning | Project Week Starts |
-  | [Django Practice I](https://github.com/SEIR-0508/u4_lab_nostaldja) | [Django practice II](https://github.com/SEIR-0508/u4_lab_django_REST_API)| |  OUTCOMES | |
+  | [Django Install](https://github.com/SEIR-0911/u4_lesson_django_intro) | [Django Serializer](https://github.com/SEIR-0911/u4_lesson_django_REST_API) | [Django Full STackathon](https://github.com/seir-123/u4_django_fullstack/) | P4 Project Planning | Project Week Starts |
+  | [Django Practice I](https://github.com/SEIR-0911/u4_lab_nostaldja) | [Django practice II](https://github.com/SEIR-0911/u4_lab_django_REST_API)| |  OUTCOMES | |
   
 
   <ul type="none">

@@ -24,7 +24,7 @@ This repository is a place where links to all of the course content that we cove
 
 
 ____
-<details><summary><strong>General Assembly Team</strong></summary><p>
+<strong>General Assembly Team</strong>
 
 
 
@@ -52,25 +52,6 @@ ____
   <br>
 </div>
 
-____
-
-<div align="center">
-  <img width="200px" src="https://i.imgur.com/Inhk8OE.jpeg" alt="tiffany">
-  <h3>Tiffany Pereira</h3>
-  <h4>Instructional Associate</h4>
-  <p>My name is Tiffany, I live in Boston and I will be one of your <b>Instructor Associates (IA)</b>. Having completed GA in May, I understand the challenges that come with learning these new languages and concepts. </p>
-  <p>During my time in the course I discovered my interest in backend programming and languages such as SQL and python. Besides programming I enjoy finding new TV shows to binge watch, traveling, and photography. I look forward to helping you all have the best learning experience and dive into the world of Tech!</p>
-  <span><a href="https://github.com/tiffpereira">GitHub</a> | <a href="https://www.linkedin.com/in/tiffanympereira/">LinkedIn</a></span>
-  <br>
-</div>
-
-____
-
-<div align="center">
-  <h3>Jordan Bank</h3>
-  <h4>Instructional Associate</h4>
-
-<p>I'm a software developer, digital artist, and photographer from New York. I'm also a Software Engineering Alum and I'm excited to help new students find their footing. I usually spend my free time cooking, trying new restaurants, or watching the Knicks lose.</p>
 
 ____
 
@@ -80,49 +61,15 @@ ____
 <p>TAs will lead nightly study and debugging sessions that are <b>highly recommended</b> to attend.</p>
 
 <div align="center">
-  <img width="200px" src="https://i.imgur.com/a5jjxUf.jpg" alt="kristina">
-  <h3>Kristina Vanbergen-DeSilva</h3>
+  <img width="200px" src="" alt="">
+  <h3>NAme/h3>
   <h4>Teaching Assistant</h4>
-  <p>My name is Kristina and I will be one of your Teaching Assistants. I am a recent GA grad from New York, interested in full-stack development and experienced with React/Vue on the front-end & SQL on the backend, Before becoming a developer, I worked for several years teaching children as a nanny, and teaching volunteers at a non-profit organization. Very excited to bring that experience to GA and welcome a new cohort of future software engineers!</p>
+  <p>Aboue</p>
   <span><a href="https://github.com/kavdesilva">GitHub</a>  | <a href="https://www.linkedin.com/in/kristina-vanbergen-desilva/">LinkedIn</a></span>
   <br>
 </div>
 
 ____
-
-
-
-<div align="center">
-  <img width="200px" src="https://i.imgur.com/dH5Pznf.png" alt="default">
-  <h3>Tylus Dawkins</h3>
-  <h4>Teaching Assistant</h4>
-  <!--   <p>Hello everyone, I am a default placeholder for an instructors introduction paragraph. This instructor's role will be to be a faceless representation of what an instructor might be, but nothing more. They will lead no lessons, they will offer no help, they will father no sons. They are void.</p>
-  <p>I am nothing but a filler for where an instructor might put their personal brand statement! I just sit here and fill space so that the developer can see what it might look like when an instructor has actually provided them with their intro. I have no purpose beyond that and my existence is meaningless!</p> -->
-  <!--   <span><a href="https://github.com/">GitHub</a> | <a href="https://linkedin.com/">LinkedIn</a></span> -->
-  <br>
-</div>
-
-
-____
-
-</p></details></li>
-
-<li><details><summary><strong>Student Success</strong></summary><p>
-
-<p>This teams job is to ensure your success <i>during</i> the immersive. Any administrative, financial, or interpersonal questions can be directed to them.</p>
-
-____
-
-<div align="center">
-  <h3>Alyx Warner</h3>
-  <h4>Student Success Specialist</h4>
-  <br>
-</div>
-
-
-____
-
-</p></details></li>
 
 
 

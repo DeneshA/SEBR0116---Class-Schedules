@@ -56,7 +56,7 @@ ____
 ____
 
 
-<li><details><summary><strong>Teaching Assistants</strong></summary><p>
+<details><summary><strong>Teaching Assistants</strong></summary><p>
 
 <p>TAs will lead nightly study and debugging sessions that are <b>highly recommended</b> to attend.</p>
 
@@ -150,9 +150,8 @@ The following dates are observed Holidays for this immersive.  There will be no 
 
 | Holiday | Date(s) |
 |:---:|:---:|
-| Memorial Day | May 29, 2023 |
-| Juneteenth | June 19, 2023 |
-| Independence Day | July 4, 2023 |
+| Thanksgiving Break | Nov 22-24 |
+
 
 
 </details>
@@ -197,12 +196,12 @@ ____
 
   | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | Introductions| [JS Intro- Datatypes](https://github.com/SEIR-0911/u1_js_intro_datatypes/blob/main/README.md) | [HTML](https://github.com/SEIR-0911/u1_HTML_intro)  |  [Array Iterators](https://github.com/SEIR-0911/u1_array_iterators) | [DOM Events](https://github.com/SEIR-0911/u1_lesson_js_dom_events)
-  | [CLI Intro](https://github.com/SEIR-0911/u1_CLI_intro)  | [Control Flow](https://github.com/SEIR-0911/u1_js_control_flow/blob/main/README.md) | [Grumpy Cat](https://github.com/SEIR-0911/u1_lab_grumpy_cat_resume)| [JS Objects](https://github.com/SEIR-0911/u1_lesson_js_objects/blob/main/README.md) | [Color Switcher](https://github.com/SEIR-0911/u1_lab_dom_color_switcher)
-  |  [InstallFest](https://github.com/SEIR-0911/u1_Installfest) | [Arrays](https://github.com/SEIR-0911/u1_js_arrays/blob/main/README.md) | [CSS](https://github.com/SEIR-0911/u1_CSS_intro) | [Jurassic Objects Lab](https://github.com/SEIR-0911/u1_lab_jurassic_objects/blob/main/README.md) | [JS Dots Game Lab](https://github.com/SEIR-0911/u1_lab_dom_dots)| 
-  |  [Git](https://github.com/SEIR-0911/u1_lesson_git_intro)| [Functions and Scopes](https://github.com/SEIR-0911/u1_js_functions_and_scope/blob/main/README.md) | [Resume](https://github.com/SEIR-0911/u1_lab_personal_resume)  | [CodeWars Challenges](https://github.com/seir-123/u1_hw_codewars_challenges) | [Connect Four](https://github.com/SEIR-0911/u1_hw_Connect_four/blob/main/README.md)  | |
-  | [Command Line Practice](https://github.com/SEIR-0911/u1_hw_star_wars-1/blob/main/README.md)  | [Data Types Practice](https://github.com/SEIR-0911/U1_data_types_practice) | [Flexbox](https://github.com/SEIR-0911/u1_CSS_Flex_and_Grid)  | OUTCOMES  | [Tic Tac Toe](https://github.com/SEIR-0911/u1_hw_tic_tac_toe)  |
-  |  | [Functions Lab](https://github.com/SEIR-0911/u1_functions_lab/blob/main/README.md)  | [CFashion Blog](https://github.com/SEIR-0911/u1_HW_Fashion-Blog/blob/master/README.md) | | |
+  | Introductions| [JS Intro- Datatypes](https://github.com/SEIR-0911/u1_js_intro_datatypes/blob/main/README.md) | [Functions and Scopes](https://github.com/SEIR-0911/u1_js_functions_and_scope/blob/main/README.md)  | [HTML](https://github.com/SEIR-0911/u1_HTML_intro)   | [DOM Events](https://github.com/SEIR-0911/u1_lesson_js_dom_events)
+  | [CLI Intro](https://github.com/SEIR-0911/u1_CLI_intro)  | [Arrays](https://github.com/SEIR-0911/u1_js_arrays/blob/main/README.md) |  [Functions Lab](https://github.com/SEIR-0911/u1_functions_lab/blob/main/README.md)  | [Grumpy Cat](https://github.com/SEIR-0911/u1_lab_grumpy_cat_resume) | [Color Switcher](https://github.com/SEIR-0911/u1_lab_dom_color_switcher)
+  |  [InstallFest](https://github.com/SEIR-0911/u1_Installfest) | [Control Flow](https://github.com/SEIR-0911/u1_js_control_flow/blob/main/README.md)   | [Array Iterators](https://github.com/SEIR-0911/u1_array_iterators) | [CSS](https://github.com/SEIR-0911/u1_CSS_intro)  | [JS Dots Game Lab](https://github.com/SEIR-0911/u1_lab_dom_dots)| 
+  |  [Git](https://github.com/SEIR-0911/u1_lesson_git_intro)| [Data Types Practice](https://github.com/SEIR-0911/U1_data_types_practice) | [HOF Lab](https://github.com/SEIR-0911/u1_lab_HOF_lab/tree/main)   |  [Resume](https://github.com/SEIR-0911/u1_lab_personal_resume)  |[Connect Four](https://github.com/SEIR-0911/u1_hw_Connect_four/blob/main/README.md) |  |
+  | [Git PAT](https://github.com/SEIR-0911/u1_git_PAT) | [CYOA](https://github.com/SEIR-0911/u1_hw_control_flow_adventure/tree/main) |[CodeWars Challenges](https://github.com/SEIR-0911/u1_hw_codewars_challenges/blob/main/README.md)  | [Flexbox](https://github.com/SEIR-0911/u1_CSS_Flex_and_Grid)    | [Tic Tac Toe](https://github.com/SEIR-0911/u1_hw_tic_tac_toe)
+  | [Command Line Practice](https://github.com/SEIR-0911/u1_hw_star_wars-1/blob/main/README.md)  ||OUTCOMES | [Fashion Blog](https://github.com/SEIR-0911/u1_HW_Fashion-Blog/blob/master/README.md) |   |
 
   <ul type="none">
 
@@ -210,8 +209,8 @@ ____
 
   | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Recording](https://generalassembly.zoom.us/rec/share/cXCwgaBgDJzzbD7ckmtSGqL9s41lgxv0ZTadqR6YAEOd6QlNV1xcMzNZtFIYgAjn.4t63kGbrhm4_6G-S)| [Recording](https://generalassembly.zoom.us/rec/share/UeS-l2phdONpTgDa2TSh7ZQhCf2ACJF_ZOfbQG0YYeUG0U1-XJTZx43JL1pE1cDU.rS7NcGhDCKvZjTYD)|[Recording](https://generalassembly.zoom.us/rec/share/owoz3aw8q-Wqz-9_fuFJ8_JQ0ty2TQUEggSphKZwgqaviYrUIFBPGSZNfN1VSZ1L.UanCOUlPqhQQ06TF)| [Recording](https://generalassembly.zoom.us/rec/share/F2Jobm0OhNe1F3N74PUdtu8_DwqEcxi8TeFSTZwy1iqzojTkkboc-9yamy5sNqYP.rlMIAnWuC8Aa6lJq)| [Recording](https://generalassembly.zoom.us/rec/share/GuA3vOHIkhAAVx1c5MB-v6Oy0_S0YYNgnAOQvIvt2oMG8gk5p-Oq91pm1L6IAKc.QVADiqRrugl8yVAW)|
-  | Passcode: `Ey&FZ9+$`  | Passcode: `=zE5afAV` | Passcode: `8Z+qq495` | Passcode: `9?C*.rA=` | Passcode: `Jshwa91%` |
+  | [Recording]()| [Recording]()|[Recording]()| [Recording]()| [Recording]()|
+  | Passcode: ``  | Passcode: `` | Passcode: `` | Passcode: `` | Passcode: `` |
 
   </p></details></li>
 
@@ -223,17 +222,17 @@ ____
   <li><details><summary><strong>Week 2</strong></summary><p>
 
   <p>
-  In Week 2, we practice more <b>DOM Manipulation</b> and are introduced to <b>Daily JavaScript Challenges</b> and basic algorithmic problem solving. We learn about <b>ES6</b> syntax along with <b>Higher Order Functions</b> and <b>Object Oriented Programming</b> in JavaScript. At the end of the week, we learn how to call on external data sources with <b>APIs</b>.
+  In Week 2, we practice more <b>DOM Manipulation</b> and are introduced to <b>Daily JavaScript Challenges</b> and basic algorithmic problem-solving. We learn about <b>ES6</b> syntax along with <b>Higher Order Functions</b> and <b>Object Oriented Programming</b> in JavaScript. At the end of the week, we learn how to call on external data sources with <b>APIs</b>.
   </p>
 
  
-| Monday | Tuesday | Wednesday | Thursday | Friday |
+ <!-- | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  |  [JS Objects](https://github.com/SEIR-0911/u1_lesson_js_objects/blob/main/README.md) | Wireframing | Trello Intro| [ES6 Syntax](https://github.com/SEIR-0911/u1_lesson_ES6) | Project Week Starts|
+|  [JS Objects](https://github.com/SEIR-0911/u1_lesson_js_objects/blob/main/README.md) | | Wireframing | [ES6 Syntax](https://github.com/SEIR-0911/u1_lesson_ES6) | Project Week Starts|
 |[Jurassic Object Lab](https://github.com/SEIR-0911/u1_lab_jurassic_objects/blob/main/README.md)|  [Intro to API's](https://github.com/SEIR-0911/u1_pokemon-api-lab/blob/main/README.md)   |  [Jquery](https://github.com/SEIR-0911/u1_lesson_jquery_intro/blob/main/README.md) |  [Testing](https://github.com/SEIR-0911/u1_lesson_testing) |  ||
   |Classes  | [Poke'mon Lab](https://github.com/SEIR-0911/u1_pokemon-api-lab/blob/main/README.md)  |  [Jquery Lab](https://github.com/SEIR-0911/u1_lab_jquery/blob/main/README.md)  | [Testing Lab](https://github.com/SEIR-0911/u1_lab_testing)|  |  
   | This |  |[Weather API Lab](https://github.com/SEIR-0911/u1_lab_weather-api/blob/main/README.md)|  Promot 1|  |
-  |  |  |  | OUTCOMES |  | 
+  |  |  |  | OUTCOMES |  | -->
 
  <ul type="none">
 
@@ -242,10 +241,10 @@ ____
  <li><details><summary>Class Recordings</summary><p>
 
 
-| Monday | Tuesday | Wednesday | Thursday | Friday |
+<!--| Monday | Tuesday | Wednesday | Thursday | Friday |
  |:---:|:---:|:---:|:---:|:---:|
- | [Recording](https://generalassembly.zoom.us/rec/share/36-EmP0o8-UQrF7SAdsaFAOs7UpR8m4Map5VXWNfw0GS8K_yEQXGpAXFyruck62m.8rHZioCE1KahfWm8)|[Recording](https://generalassembly.zoom.us/rec/share/bgOTD3jQah4BbZAEIoQ4gaCoKI--lxgHwhwh4qI-JPK4MWZxm_VPbtcZxz50kdTn.xtxhzR5uOKKCMsDE) | [Recording](https://generalassembly.zoom.us/rec/share/b9ooIOlAhKVHM2jQppciRl20FgM4fTqG3Sldi0MjN49-jorg8MXp7-47Fsz7o859.BEGDjHdQUArBolce) |  [Recording](https://generalassembly.zoom.us/rec/share/LyKIE0vZ8St_sLLLqV37tpkHhY2kmcTlQ-TvfVVlEtS6WTQYmv9KVpfi17clgXw.TD3d0UioahdG5TLx) | [Recording](https://generalassembly.zoom.us/rec/share/zoy5HFlJ8MOSdG1krRONM7ommZhyZ_SxLT3BQv12ftzDVFH8yk3NKPDRf_L1n1eG.orTPm2r5CfgIQ6ED)|
- | Passcode:`c8vU$HYi`  | Passcode:`e.^W9S^Z`| Passcode:`&1^L#24E` | Passcode: `.n6R7^8b` | Passcode: `=Puagn8W` |  
+ | [Recording]()|[Recording]() | [Recording]() |  [Recording]() | [Recording]()|
+ | Passcode:``  | Passcode:``| Passcode:`` | Passcode: `` | Passcode: `` |  -->
 
  </p></details></li>
  
@@ -270,14 +269,14 @@ ___
   </p>
 
 
-| Monday | Tuesday | Wednesday | Thursday | Friday |
+<!--| Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
   | Holiday | [Mongo Command](https://github.com/SEIR-0911/u2_lesson_mongoDB/blob/main/README.md) | [Mongoose Data](https://github.com/SEIR-0911/u2_lesson_mongoose_data_model-1)  |  [Express Full Stack Demo](https://github.com/SEIR-0911/express_full_stack_demo) |[ERD](https://github.com/SEIR-0911/u2_lesson_ERD)|
   | [Mongo Install](https://github.com/SEIR-0911/u2_lesson_mongo_install/blob/main/README.md)| [Mongo lab](https://github.com/SEIR-0911/u2_lab_mongoDB_sneakers/tree/main) | [Mongoose Associations](https://github.com/SEIR-0911/u2_lesson_mongoose_associations/tree/main) | [Express Intro](https://github.com/SEIR-0911/u2_express_intro_and_middleware/tree/main)|[Express Controller](https://github.com/SEIR-0911/u3_lesson_express_controllers/blob/main/README.md)  |
   | [FullStack Development](https://github.com/SEIR-0911/u2_full_stack_development/blob/main/README.md) | [Node Readalong](https://github.com/SEIR-0911/u2_lesson_node_js/blob/main/README.md) | [Mongoose Lab](https://github.com/SEIR-0911/u2_mongoose_lab/blob/main/README.md) | [Express Routes](https://github.com/SEIR-0911/u3_lesson_express_routing/blob/main/README.md) | [Mongoose w/Express](https://github.com/SEIR-0911/u2_lesson_mongoose_express) |
   |[Atlas Set up](https://github.com/SEIR-0911/u2_mongo_atlas_setup/blob/main/README.md)   | [Mongo Burgers](https://github.com/SEIR-0911/u2_hw_mongo_burgers) | [Promises](https://github.com/SEIR-0911/u2_lesson_promises/blob/main/README.md) | [Express Fruits](https://github.com/SEIR-0911/express_fruits/blob/main/readme.md)  |  [Mongoose Plants](https://github.com/SEIR-0911/u2_hw_mongoose_plants/blob/main/README.md)|
   |  ||  | Outcomes |  |
-  |  | |  |  |  |
+  |  | |  |  |  | -->
 
 <ul type="none">
 
@@ -285,10 +284,10 @@ ___
 
   <li><details><summary>Class Recordings</summary><p>
 
-| Monday | Tuesday | Wednesday | Thursday | Friday |
+<!--| Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
   | [No Recording]() | [Recording](https://generalassembly.zoom.us/rec/share/QDSbVKFh1S0NPhGoYoTgVGM1Pk30_T-IhVl7l4KSd5RpOYLV0CvSPsmE3HOS7lTG.f39Kz2tWMj1Vq0Mvralassembly.zoom.us/rec/share/xhbmONFGRS43yc6jbzRapBE1iW9LgCTOP-Eunn0LPqCKBnUhANKkAQ_om1zInjtT.P3TB9mMQ4zk_4Ewe) | [Recording](https://generalassembly.zoom.us/rec/share/XPkYH5jA3R5uM7G4v8UXBweNYk5LY2mc9MxShpc8wTJB8VXYOKlThEQhnqrwxiDH.yao5q7PtSSTw7Phs) | [Recording](https://generalassembly.zoom.us/rec/share/rJmZQocOTZK_47afMVCMa9sDuiei8ihDyd1y01SCyvVuGc1l642M-2PPnkegF3Iw.0yz73zjeuDZMaEYI) | [Recording](https://generalassembly.zoom.us/rec/share/FHdUHA41DU-agh6RgXKDbZNSuOh5RSm0ATHHLM6NnflP0aU_E0ZuklPJhyDjTF54.iAHat7sJe0I858Iy) |
-  | Passcode: `` | Passcode: `#R#TF$0s` | Passcode: `U?c6.2uq` | Passcode: `t1eh!1BT` | Passcode: `#$1ky1bx` | 
+  | Passcode: `` | Passcode: `#R#TF$0s` | Passcode: `U?c6.2uq` | Passcode: `t1eh!1BT` | Passcode: `#$1ky1bx` | -->
 
   </p></details></li>
 
@@ -304,21 +303,21 @@ ___
   </p>
 
 
- | Monday | Tuesday | Wednesday | Thursday | Friday |
+<!-- | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
   | [Group Git](https://github.com/SEIR-0911/u2_lesson_group_git) | Heavy Review  | Stackathon day 2 | Stackathon day 3  | [Project 2](https://github.com/SEIR-0911/project2/blob/main/README.md) |
   | [Express fron Scratch](https://github.com/taubman33/u2_lab_express_api/blob/main/README.md) |  [Reg ex (optional)](https://github.com/SEIR-0911/u2_lesson_regEx_js/tree/main)| | Presentations   | |
   | |[OAuth (optional)](https://github.com/SEIR-0911/u2_lesson_oAuth) |   | [Project 2 setup](https://github.com/SEIR-0911/project2/blob/main/README.md) |  |
-  |  | Stackaton Day 1 |  | OUTCOMES |  |
+  |  | Stackaton Day 1 |  | OUTCOMES |  |-->
  
 
 
   <li><details><summary>Class Recordings </summary><p>
 
-| Monday | Tuesday | Wednesday | Thursday | Friday |
+<!--| Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
   | [Recording](https://generalassembly.zoom.us/rec/share/rpgppCB-VEov47lNWi_Ov-ZegO3AtzMtA3SmZohvbZ0nb7EUt0LzggdYMhRriuo2.CWe71a6eI9i0ymGe) | [Recording]() | [Recording]() | [Recording](https://generalassembly.zoom.us/rec/share/mw-P8GO_Q75a5H7DwXq_ConfsjIl2ZmwWDkpL2X8bqCAJhOVDuKIjdoIM_q_ADUj.nOZOVWyV0yqxa0fq) | [Recording](https://generalassembly.zoom.us/rec/share/Mer5085ymQqB3T0vIkWlIrQoC8jhzJPGObV-hJpxcsPM63xvFh17LKrykMWzRRq9.tK4TCSbEEAqKbg6Y) |
-  | Passcode: `.M7#y&Qz` | Passcode: `` | Passcode: `` | Passcode: `i$fQa%$6` | Passcode: `.2+e.y3y` | 
+  | Passcode: `.M7#y&Qz` | Passcode: `` | Passcode: `` | Passcode: `i$fQa%$6` | Passcode: `.2+e.y3y` | -->
  
   </p></details></li>
   
@@ -339,11 +338,11 @@ ___
   <li><details><summary><strong>Week 7</strong></summary><p>
 
   <p>
-  In Week 7 we learn all about React and what an amazing JavaScript library it can be for developers. We learn the concepts of components, props, and about React Hooks and functional components. We learn about useState and how to use it to manage our state within our apps. We also get into how we can use useEffect to make axios calls in our React apps. Finally at the end of the week, we learn React Router, a powerful tool for navigating around our virtual DOM.
+  In Week 7 we learn all about React and what an amazing JavaScript library it can be for developers. We learn the concepts of components, props, and about React Hooks and functional components. We learn about useState and how to use it to manage our state within our apps. We also get into how we can use useEffect to make axios calls in our React apps. Finally, at the end of the week, we learn React Router, a powerful tool for navigating around our virtual DOM.
   </p>
 
  
-  | Monday | Tuesday | Wednesday | Thursday | Friday |
+ <!-- | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
   | HOLIDAY | [Intro to React](https://github.com/SEIR-0911/u3_lesson_intro_to_react/blob/main/README.md) | [Component hierarchy Diagram](https://github.com/SEIR-0911/u3_lesson_component_hierarchy/blob/main/README.md) | [Portfolio](https://github.com/SEIR-0911/u3_react_portfolio_lab) | [Reat State](https://github.com/SEIR-0911/u3_lesson_state_and_hooks) |
   || [LOTR Lab](https://github.com/SEIR-0911/u3_lab_react_LOTR/blob/main/README.md) | [Mapping Components](https://github.com/SEIR-0911/u3_lesson_react_mapping_components-1) | OUTCOMES | [Likes Lab](https://github.com/SEIR-0911/u3_lab_likes) |
@@ -351,7 +350,7 @@ ___
   | |  | [React Router](https://github.com/SEIR-0911/u3_react_router_intro/blob/main/README.md) |  | [Groceries Lab](https://github.com/SEIR-0911/u3_lab_groceries) |
   |  |  | [Mapping Movies](https://github.com/SEIR-0911/u3_hw_movie_mapping) |  | [ATM Lab](https://github.com/SEIR-0911/u3_lab_react_ATM)|
 |||| | [Password Validator](https://github.com/SEIR-0911/u3_lab_password_validator/blob/main/README.md)|
-| | | | |
+| | | | |-->
 
 
   <ul type="none">
@@ -360,10 +359,10 @@ ___
  
  <li><details><summary>Class Recordings</summary><p>
 
-| Monday | Tuesday | Wednesday | Thursday | Friday |
+<!--| Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
   | [Recording]() | [Recording](https://generalassembly.zoom.us/rec/share/zVzM25yv0H_xlVogigYMeGEcnIJdT5crBJni1m2FwJmo8JRbQHugCCyQCsQrZaw9.w2h9RpaEHDkOVN8r) | [Recording](https://generalassembly.zoom.us/rec/share/HDHSafQ_cP9A462uFgidePdBkx6BkZFhY4kkixAiHl7Yf4GTAcB7zrZKGexAOG8s.cE6swbpDpTaMEtja) | No Recording | [Recording](https://generalassembly.zoom.us/rec/share/77pKRE9_joj5fdQdbJhJueOik89q8__G0kIgz1HDRIt2VqQHZSdG_gqCBwlwxRZX.Ze6K1IDjXvJBRxm2) |
-  | Passcode: `` | Passcode: `#vt?C7Ch` | Passcode: `u!dsv*n8` |  | Passcode: `E$XKK5+r` | 
+  | Passcode: `` | Passcode: `#vt?C7Ch` | Passcode: `u!dsv*n8` |  | Passcode: `E$XKK5+r` | -->
 
   </p></details></li>
 
@@ -381,21 +380,21 @@ ___
   </p>
 
  
-  | Monday | Tuesday | Wednesday | Thursday | Friday |
+  <!--| Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
   | [UseEffect](https://github.com/SEIR-0911/u3_lesson_useEffect) | [Router II](https://github.com/SEIR-0911/u3_lesson_react_router) | LABS| Hackathon Presentations | Project Proposals |
   | [Reat API](https://github.com/SEIR-0911/u3_lesson_react_APIs/blob/main/README.md)   | [Router Lab](https://github.com/SEIR-0911/u3_lab_react_router)| |  [Project 2 prompt](https://github.com/seir-123/project2_prompt/blob/main/README.md)  |  [useContext](https://github.com/seir-123/u2_lesson_useContext)|
-  | [SWAPI Axios Lab](https://github.com/SEIR-0911/u3_react_axios_lab/blob/main/README.md)  | Axios Lab II |  | OUTCOMES |[Context Lab](https://github.com/seir-123/u2_react_useContext_lab) |
+  | [SWAPI Axios Lab](https://github.com/SEIR-0911/u3_react_axios_lab/blob/main/README.md)  | Axios Lab II |  | OUTCOMES |[Context Lab](https://github.com/seir-123/u2_react_useContext_lab) |-->
   
 
   <ul type="none">
 
   <li><details><summary>Class Recordings</summary><p>
 
-| Monday | Tuesday | Wednesday | Thursday | Friday |
+<!--| Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
   | [Recording](https://generalassembly.zoom.us/rec/share/6VE0LhwINg4qTPOPqBFYJh-AU_ybyfXxpD10xvFIcKS9lBiyO1Ugtdtbu8roxYWl.eKShH9UVMF7oVwiK) | [Recording](https://generalassembly.zoom.us/rec/share/EMqbbkVQ0-DEzOTYdmxhetO0xnS6biFeYHptHsSaUoLjJJzas3IGE8c0391YusLY.MXt9c5ju0vftCpRt) | No Recording | [Recording](https://generalassembly.zoom.us/rec/share/9LZ1r5QYpp-lbSYBTKNn5DjRyQ9eh0IVpOKUWBdCxJqI4ChM1g6arqWnETAwIFVj.AigSHDZPC5YJJ3GB) |[Recording](https://generalassembly.zoom.us/rec/share/66Cr6lV1xyeDsVkS-SdCm7_7-BBWxV27w7SRgUADO7Szue5WJF6I950adU-tmzGM.LHoZQlXgnzoAomgF)|
-  | Passcode: `.b6T&Vr#` | Passcode: `+0BzsY0W` |  | Passcode: `*Dv?jr2L`  |  Passcode: `L1!gyo24` | 
+  | Passcode: `.b6T&Vr#` | Passcode: `+0BzsY0W` |  | Passcode: `*Dv?jr2L`  |  Passcode: `L1!gyo24` | -->
 
  </p></details></li>
   
@@ -420,13 +419,13 @@ ___
   </p>
 
  
-| Monday | Tuesday | Wednesday | Thursday | Friday |
+<!--| Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
   | Presentations | [Python Functions](https://github.com/SEIR-0911/u4_lesson_python_functions/tree/main) | [Python Tuples Lab](https://github.com/SEIR-0911/u4_lesson_python_tuples/tree/main) | [CSV Parser Lab](https://github.com/SEIR-0911/u4_lab_python_CSV_parser) | [SQL intro](https://github.com/SEIR-0911/u4_lesson_SQL_intro/tree/main) |
   | [Intro to Python](https://github.com/SEIR-0911/u4_lesson_python_intro) | [Python Control Flow](https://github.com/SEIR-0911/u4_lesson_python_control_flow/tree/main) | [Python OOP](https://github.com/SEIR-0911/u4_lesson_python_OOP) | [Polyglot Workshop](https://github.com/SEIR-0911/u4_polyglot_challenge/tree/main) | [SQL Lab](https://github.com/SEIR-0911/u4_lab_SQL_practice/tree/main) |
   | | [Python Lists & Loops](https://github.com/SEIR-0911/u4_lesson_python_lists_loops/tree/main) |[Smash Bros](https://github.com/SEIR-0911/u4_hw_python_smash_bros)  |[Py Pac Poe](https://github.com/SEIR-0911/u4_py_pac_pie/blob/main/README.md)  |[SQL Joins](https://github.com/SEIR-0911/u4_lab_SQL_joins/blob/main/ReadMe.md) |
   | |  [Python Dictionaries](https://github.com/SEIR-0911/u4_lesson_python_dictionaries/tree/main) |[Codewars](https://github.com/SEIR-0911/u4_python_challenges/tree/main)  | OUTCOMES | [SQL Joins lAB](https://github.com/SEIR-0911/u4_lab_SQL_joins/blob/main/ReadMe.md) |
-|||||[Carmen San Diego](https://github.com/SEIR-0911/u4_hw_carmen_sandiego)|
+|||||[Carmen San Diego](https://github.com/SEIR-0911/u4_hw_carmen_sandiego)|-->
 
    <ul type="none">
 
@@ -435,7 +434,7 @@ ___
 <!-- | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
   | No Recording | Recording in slack|  | NO Recording | [Recording](https://generalassembly.zoom.us/rec/share/uKH3rdQE2JiICjYPSE96wW7gPwCg5a5dyBDuqCHIWTJIL9wwSLVRxcpy70jDkUjY.l_TSpEdLbFS6lJ4A)|
-  |  |  | | | Passcode: `yJ.4+uvz` |
+  |  |  | | | Passcode: `yJ.4+uvz` |-->
 
    </p></details></li>
 
@@ -454,20 +453,20 @@ ___
   </p>
 
 
- | Monday | Tuesday | Wednesday | Thursday | Friday |
+ <!--| Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
   | [Django Install](https://github.com/SEIR-0911/u4_lesson_django_intro) | [Django Serializer](https://github.com/SEIR-0911/u4_lesson_django_REST_API) | [Django Full STackathon](https://github.com/seir-123/u4_django_fullstack/) | P4 Project Planning | Project Week Starts |
-  | [Django Practice I](https://github.com/SEIR-0911/u4_lab_nostaldja) | [Django practice II](https://github.com/SEIR-0911/u4_lab_django_REST_API)| |  OUTCOMES | |
+  | [Django Practice I](https://github.com/SEIR-0911/u4_lab_nostaldja) | [Django practice II](https://github.com/SEIR-0911/u4_lab_django_REST_API)| |  OUTCOMES | |-->
   
 
   <ul type="none">
 
   <li><details><summary>Class Recordings</summary><p>
 
-  | Monday | Tuesday | Wednesday | Thursday | Friday |
+ <!-- | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
   | [Recording](https://generalassembly.zoom.us/rec/share/h-9ngB5u1uEx5zSesSveCLwLqBJrFkBk9mtyfNKBNI3bzuSjiHPtdX_jyQIIvuc4.eKNgftyhkYl6ErIg) | [Recording](https://generalassembly.zoom.us/rec/share/fTTWYzAbEqvGm0iwI96-T-_n9pJKFEwEEnx3eLOvZzEXlXj2ARXUB1g3iy0gDZ-T.whN7L2OIyZO4ZfrP) | No Recording | No Recording | No Recording |
-  |Passcode: `xzkxF+i8`  | Passcode: `2fS9fP#N` |  |  |  | 
+  |Passcode: `xzkxF+i8`  | Passcode: `2fS9fP#N` |  |  |  | -->
 
   </p></details></li>
 

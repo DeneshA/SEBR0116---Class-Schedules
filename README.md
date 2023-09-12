@@ -210,7 +210,7 @@ ____
   | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
   | [Recording](https://generalassembly.zoom.us/rec/share/8dvXRvdhk1rZigzh1rxM8BFVgvbulUvOtwI_MvVspc3UZFoBE2mYVx5rvs5IdSso.Oj2zsrEaYgKH3gHW)| [Recording]()|[Recording]()| [Recording]()| [Recording]()|
-  | Passcode: ``  | Passcode: `` | Passcode: `` | Passcode: `` | Passcode: `` |
+  | Passcode: `0q1!ghrd`  | Passcode: `` | Passcode: `` | Passcode: `` | Passcode: `` |
 
   </p></details></li>
 

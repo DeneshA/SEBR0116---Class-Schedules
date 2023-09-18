@@ -209,9 +209,9 @@ ____
 
   | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Recording](https://generalassembly.zoom.us/rec/share/8dvXRvdhk1rZigzh1rxM8BFVgvbulUvOtwI_MvVspc3UZFoBE2mYVx5rvs5IdSso.Oj2zsrEaYgKH3gHW)| [Recording](https://generalassembly.zoom.us/rec/share/eRwUN76Bl1gksVvhJ_jOHCjNy_PrVrefvzWZjKPe15vy5iJGUYl2WQrSilUpgJ2k.MpOY41Ab6qgp6Gt5)|[Recording](https://generalassembly.zoom.us/rec/share/w78QGA_GLb9JESDU5SXugkxlefr1GpCx38DHGmoyQuk90xLvY5FSFRUFTSpzum2P.cToFMiwKspO3wOac)| [Recording](https://generalassembly.zoom.us/rec/share/0vzAOCMGQIJTDVFaSw3fLM1XUTlicGiP-hnXsqrAXx5t8rkvgeE3uGQ6VJc0UQwM.X0wEUaYXQVVFsLzy)| [Recording]()|
+  | [Recording](https://generalassembly.zoom.us/rec/share/8dvXRvdhk1rZigzh1rxM8BFVgvbulUvOtwI_MvVspc3UZFoBE2mYVx5rvs5IdSso.Oj2zsrEaYgKH3gHW)| [Recording](https://generalassembly.zoom.us/rec/share/eRwUN76Bl1gksVvhJ_jOHCjNy_PrVrefvzWZjKPe15vy5iJGUYl2WQrSilUpgJ2k.MpOY41Ab6qgp6Gt5)|[Recording](https://generalassembly.zoom.us/rec/share/w78QGA_GLb9JESDU5SXugkxlefr1GpCx38DHGmoyQuk90xLvY5FSFRUFTSpzum2P.cToFMiwKspO3wOac)| [Recording](https://generalassembly.zoom.us/rec/share/0vzAOCMGQIJTDVFaSw3fLM1XUTlicGiP-hnXsqrAXx5t8rkvgeE3uGQ6VJc0UQwM.X0wEUaYXQVVFsLzy)| [Recording](https://generalassembly.zoom.us/rec/share/gDMRwR9HTirxSBnF-qQHZ0SP8pd307NV2dxEzySPsUWPk_7wTUQU62uGwxr2_1qz.E9Pju-_WYWkBqRTh)|
   | Passcode: `0q1!ghrd`  | Passcode: `pw9GO%?3` | Passcode: `dBUuu%S7
-` | Passcode: `XuVF8@T.` | Passcode: `` |
+` | Passcode: `XuVF8@T.` | Passcode: `J9G.4KJC` |
 
   </p></details></li>
 
@@ -227,13 +227,13 @@ ____
   </p>
 
  
- <!-- | Monday | Tuesday | Wednesday | Thursday | Friday |
+  | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-|  [JS Objects](https://github.com/SEIR-0911/u1_lesson_js_objects/blob/main/README.md) | | Wireframing | [ES6 Syntax](https://github.com/SEIR-0911/u1_lesson_ES6) | Project Week Starts|
-|[Jurassic Object Lab](https://github.com/SEIR-0911/u1_lab_jurassic_objects/blob/main/README.md)|  [Intro to API's](https://github.com/SEIR-0911/u1_pokemon-api-lab/blob/main/README.md)   |  [Jquery](https://github.com/SEIR-0911/u1_lesson_jquery_intro/blob/main/README.md) |  [Testing](https://github.com/SEIR-0911/u1_lesson_testing) |  ||
-  |Classes  | [Poke'mon Lab](https://github.com/SEIR-0911/u1_pokemon-api-lab/blob/main/README.md)  |  [Jquery Lab](https://github.com/SEIR-0911/u1_lab_jquery/blob/main/README.md)  | [Testing Lab](https://github.com/SEIR-0911/u1_lab_testing)|  |  
-  | This |  |[Weather API Lab](https://github.com/SEIR-0911/u1_lab_weather-api/blob/main/README.md)|  Promot 1|  |
-  |  |  |  | OUTCOMES |  | -->
+|  [JS Objects](https://github.com/SEIR-0911/u1_lesson_js_objects/blob/main/README.md) |Wireframing| [Weather API Lab](https://github.com/SEIR-0911/u1_lab_weather-api/blob/main/README.md) | [Responsive CSS](https://github.com/SEIR-0911/u1_responsive_css/blob/main/README.md)| Project Week Starts|
+|[Jurassic Object Lab](https://github.com/SEIR-0911/u1_lab_jurassic_objects/blob/main/README.md)|  [Intro to API's](https://github.com/SEIR-0911/u1_axios-api-intro)   |  OUTCOMES  |  Deployment |  ||
+  |[ES6 Syntax](https://github.com/SEIR-0911/u1_lesson_ES6) | [Poke'mon Lab](https://github.com/SEIR-0911/u1_pokemon-api-lab/blob/main/README.md)  |   |[Prompt 1](https://github.com/SEIR-0911/u1_project_prompt/blob/main/README.md) |  |  
+  | [Calculator](https://github.com/SEIR-0911/u1_JS_calculator_lab/tree/main) |  ||  |  |
+  |  |  |  | |  | 
 
  <ul type="none">
 

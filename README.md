@@ -272,11 +272,11 @@ ___
 
 <!--| Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | Holiday | [Mongo Command](https://github.com/SEIR-0911/u2_lesson_mongoDB/blob/main/README.md) | [Mongoose Data](https://github.com/SEIR-0911/u2_lesson_mongoose_data_model-1)  |  [Express Full Stack Demo](https://github.com/SEIR-0911/express_full_stack_demo) |[ERD](https://github.com/SEIR-0911/u2_lesson_ERD)|
-  | [Mongo Install](https://github.com/SEIR-0911/u2_lesson_mongo_install/blob/main/README.md)| [Mongo lab](https://github.com/SEIR-0911/u2_lab_mongoDB_sneakers/tree/main) | [Mongoose Associations](https://github.com/SEIR-0911/u2_lesson_mongoose_associations/tree/main) | [Express Intro](https://github.com/SEIR-0911/u2_express_intro_and_middleware/tree/main)|[Express Controller](https://github.com/SEIR-0911/u3_lesson_express_controllers/blob/main/README.md)  |
-  | [FullStack Development](https://github.com/SEIR-0911/u2_full_stack_development/blob/main/README.md) | [Node Readalong](https://github.com/SEIR-0911/u2_lesson_node_js/blob/main/README.md) | [Mongoose Lab](https://github.com/SEIR-0911/u2_mongoose_lab/blob/main/README.md) | [Express Routes](https://github.com/SEIR-0911/u3_lesson_express_routing/blob/main/README.md) | [Mongoose w/Express](https://github.com/SEIR-0911/u2_lesson_mongoose_express) |
-  |[Atlas Set up](https://github.com/SEIR-0911/u2_mongo_atlas_setup/blob/main/README.md)   | [Mongo Burgers](https://github.com/SEIR-0911/u2_hw_mongo_burgers) | [Promises](https://github.com/SEIR-0911/u2_lesson_promises/blob/main/README.md) | [Express Fruits](https://github.com/SEIR-0911/express_fruits/blob/main/readme.md)  |  [Mongoose Plants](https://github.com/SEIR-0911/u2_hw_mongoose_plants/blob/main/README.md)|
-  |  ||  | Outcomes |  |
+  | [Mongo Install](https://github.com/SEIR-0911/u2_lesson_mongo_install/blob/main/README.md)|[Mongoose Data](https://github.com/SEIR-0911/u2_lesson_mongoose_data_model-1) | [Express Full Stack Demo](https://github.com/SEIR-0911/express_full_stack_demo) | [ERD](https://github.com/SEIR-0911/u2_lesson_ERD) | [Express from Scratch](https://github.com/taubman33/u2_lab_express_api/blob/main/README.md)  ||
+  | [Mongo Command](https://github.com/SEIR-0911/u2_lesson_mongoDB/blob/main/README.md) | [Mongoose Associations](https://github.com/SEIR-0911/u2_lesson_mongoose_associations/tree/main) | [Express Intro](https://github.com/SEIR-0911/u2_express_intro_and_middleware/tree/main)  | [Express Controller](https://github.com/SEIR-0911/u3_lesson_express_controllers/blob/main/README.md) | [Mongoose w/Express](https://github.com/SEIR-0911/u2_lesson_mongoose_express) |
+  | [Mongo Lab](https://github.com/SEIR-0508/u2_lab_mongoDB_sneakers/tree/main)  |  [Mongoose Lab](https://github.com/SEIR-0911/u2_mongoose_lab/blob/main/README.md) |[Express Routes](https://github.com/SEIR-0911/u3_lesson_express_routing/blob/main/README.md)|  | [Mongoose Plants](https://github.com/SEIR-0911/u2_hw_mongoose_plants/blob/main/README.md)  |
+  |[Atlas Set up](https://github.com/SEIR-0911/u2_mongo_atlas_setup/blob/main/README.md)   | |[Express Fruits](https://github.com/SEIR-0911/express_fruits/blob/main/readme.md)  |  |  |
+  | [Mongo Burgers](https://github.com/SEIR-0911/u2_hw_mongo_burgers)  || OUTCOMES ||  |
   |  | |  |  |  | -->
 
 <ul type="none">
@@ -287,8 +287,8 @@ ___
 
 <!--| Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | [No Recording]() | [Recording](https://generalassembly.zoom.us/rec/share/QDSbVKFh1S0NPhGoYoTgVGM1Pk30_T-IhVl7l4KSd5RpOYLV0CvSPsmE3HOS7lTG.f39Kz2tWMj1Vq0Mvralassembly.zoom.us/rec/share/xhbmONFGRS43yc6jbzRapBE1iW9LgCTOP-Eunn0LPqCKBnUhANKkAQ_om1zInjtT.P3TB9mMQ4zk_4Ewe) | [Recording](https://generalassembly.zoom.us/rec/share/XPkYH5jA3R5uM7G4v8UXBweNYk5LY2mc9MxShpc8wTJB8VXYOKlThEQhnqrwxiDH.yao5q7PtSSTw7Phs) | [Recording](https://generalassembly.zoom.us/rec/share/rJmZQocOTZK_47afMVCMa9sDuiei8ihDyd1y01SCyvVuGc1l642M-2PPnkegF3Iw.0yz73zjeuDZMaEYI) | [Recording](https://generalassembly.zoom.us/rec/share/FHdUHA41DU-agh6RgXKDbZNSuOh5RSm0ATHHLM6NnflP0aU_E0ZuklPJhyDjTF54.iAHat7sJe0I858Iy) |
-  | Passcode: `` | Passcode: `#R#TF$0s` | Passcode: `U?c6.2uq` | Passcode: `t1eh!1BT` | Passcode: `#$1ky1bx` | -->
+  | [No Recording]() | [Recording]() | [Recording]() | [Recording]() | [Recording]() |
+  | Passcode: `` | Passcode: `` | Passcode: `` | Passcode: `t1eh!1BT` | Passcode: `` | -->
 
   </p></details></li>
 

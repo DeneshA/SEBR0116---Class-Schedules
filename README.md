@@ -270,15 +270,14 @@ ___
   </p>
 
 
-<!--| Monday | Tuesday | Wednesday | Thursday | Friday |
+| Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
   | [Mongo Install](https://github.com/SEIR-0911/u2_lesson_mongo_install/blob/main/README.md)|[Mongoose Data](https://github.com/SEIR-0911/u2_lesson_mongoose_data_model-1) | [Express Full Stack Demo](https://github.com/SEIR-0911/express_full_stack_demo) | [ERD](https://github.com/SEIR-0911/u2_lesson_ERD) | [Express from Scratch](https://github.com/taubman33/u2_lab_express_api/blob/main/README.md)  ||
   | [Mongo Command](https://github.com/SEIR-0911/u2_lesson_mongoDB/blob/main/README.md) | [Mongoose Associations](https://github.com/SEIR-0911/u2_lesson_mongoose_associations/tree/main) | [Express Intro](https://github.com/SEIR-0911/u2_express_intro_and_middleware/tree/main)  | [Express Controller](https://github.com/SEIR-0911/u3_lesson_express_controllers/blob/main/README.md) | [Mongoose w/Express](https://github.com/SEIR-0911/u2_lesson_mongoose_express) |
   | [Mongo Lab](https://github.com/SEIR-0508/u2_lab_mongoDB_sneakers/tree/main)  |  [Mongoose Lab](https://github.com/SEIR-0911/u2_mongoose_lab/blob/main/README.md) |[Express Routes](https://github.com/SEIR-0911/u3_lesson_express_routing/blob/main/README.md)|  | [Mongoose Plants](https://github.com/SEIR-0911/u2_hw_mongoose_plants/blob/main/README.md)  |
   |[Atlas Set up](https://github.com/SEIR-0911/u2_mongo_atlas_setup/blob/main/README.md)   | |[Express Fruits](https://github.com/SEIR-0911/express_fruits/blob/main/readme.md)  |  |  |
   | [Mongo Burgers](https://github.com/SEIR-0911/u2_hw_mongo_burgers)  || OUTCOMES ||  |
-  |  | |  |  |  | -->
-
+  |  | |  |  |  | 
 <ul type="none">
 
  
@@ -288,7 +287,7 @@ ___
 <!--| Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
   | [No Recording]() | [Recording]() | [Recording]() | [Recording]() | [Recording]() |
-  | Passcode: `` | Passcode: `` | Passcode: `` | Passcode: `t1eh!1BT` | Passcode: `` | -->
+  | Passcode: `` | Passcode: `` | Passcode: `` | Passcode: `` | Passcode: `` | -->
 
   </p></details></li>
 

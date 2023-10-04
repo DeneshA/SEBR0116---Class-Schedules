@@ -287,8 +287,8 @@ ___
 
 | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Recording](https://generalassembly.zoom.us/rec/share/KojBx5iid6CQ9MYIamujd_8QfxfmiC2pftExgGZ9Bvh4DhXIPxVaJg5cSzz-L1JE.vOdp6Lqj3JWhiK8p) | [Recording]() | [Recording]() | [Recording]() | [Recording]() |
-  | Passcode: `1#6APOT%` | Passcode: `` | Passcode: `` | Passcode: `` | Passcode: `` | 
+  | [Recording](https://generalassembly.zoom.us/rec/share/KojBx5iid6CQ9MYIamujd_8QfxfmiC2pftExgGZ9Bvh4DhXIPxVaJg5cSzz-L1JE.vOdp6Lqj3JWhiK8p) | [Recording](https://generalassembly.zoom.us/rec/share/ZUXppiomUy9iI2h2lALlb2nhRUQcvpSJDtxFJ3IobDx_tB8MlKTzXqnyOQtNF1HD.AVmQTJO2cr7zXTEz) | [Recording]() | [Recording]() | [Recording]() |
+  | Passcode: `1#6APOT%` | Passcode: `9@xxf0?@` | Passcode: `` | Passcode: `` | Passcode: `` | 
 
   </p></details></li>
 

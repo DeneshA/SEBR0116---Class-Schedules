@@ -304,21 +304,21 @@ ___
   </p>
 
 
-<!-- | Monday | Tuesday | Wednesday | Thursday | Friday |
+| Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Group Git](https://github.com/SEIR-0911/u2_lesson_group_git) | Heavy Review  | Stackathon day 2 | Stackathon day 3  | [Project 2](https://github.com/SEIR-0911/project2/blob/main/README.md) |
-  | [Express fron Scratch](https://github.com/taubman33/u2_lab_express_api/blob/main/README.md) |  [Reg ex (optional)](https://github.com/SEIR-0911/u2_lesson_regEx_js/tree/main)| | Presentations   | |
-  | |[OAuth (optional)](https://github.com/SEIR-0911/u2_lesson_oAuth) |   | [Project 2 setup](https://github.com/SEIR-0911/project2/blob/main/README.md) |  |
-  |  | Stackaton Day 1 |  | OUTCOMES |  |-->
+  | [Express/Mongoose Review](https://github.com/SEIR-0911/u2_heroes_and_villains_api/tree/main) | [Group Git](https://github.com/SEIR-0911/u2_lesson_group_git) | Stackathon day | Presentations  | [Project 2](https://github.com/SEIR-0911/project2/blob/main/README.md) |
+  | [Express fron Scratch](https://github.com/taubman33/u2_lab_express_api/blob/main/README.md) |  [Reg ex (optional)](https://github.com/SEIR-0911/u2_lesson_regEx_js/tree/main)| OUTCOMES |  [Project 2 setup](https://github.com/SEIR-0911/project2/blob/main/README.md)    ||
+  | |[OAuth (optional)](https://github.com/SEIR-0911/u2_lesson_oAuth) |   | |  |
+  |  | Stackaton Day 1 | |  |  |
  
 
 
   <li><details><summary>Class Recordings </summary><p>
 
-<!--| Monday | Tuesday | Wednesday | Thursday | Friday |
+| Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Recording](https://generalassembly.zoom.us/rec/share/rpgppCB-VEov47lNWi_Ov-ZegO3AtzMtA3SmZohvbZ0nb7EUt0LzggdYMhRriuo2.CWe71a6eI9i0ymGe) | [Recording]() | [Recording]() | [Recording](https://generalassembly.zoom.us/rec/share/mw-P8GO_Q75a5H7DwXq_ConfsjIl2ZmwWDkpL2X8bqCAJhOVDuKIjdoIM_q_ADUj.nOZOVWyV0yqxa0fq) | [Recording](https://generalassembly.zoom.us/rec/share/Mer5085ymQqB3T0vIkWlIrQoC8jhzJPGObV-hJpxcsPM63xvFh17LKrykMWzRRq9.tK4TCSbEEAqKbg6Y) |
-  | Passcode: `.M7#y&Qz` | Passcode: `` | Passcode: `` | Passcode: `i$fQa%$6` | Passcode: `.2+e.y3y` | -->
+  | [Recording]() | [Recording]() | [Recording]() | [Recording]() | [Recording](https://generalassembly.zoom.us/rec/share/JUgAoH5tc3metfg--hbDVq87qrDH35L9NSFgDQ_DSaRKMNyb3JtMFZ5X21HthGrF.04HUrTQwqzTbZxDT) |
+  | Passcode: `` | Passcode: `` | Passcode: `` | Passcode: `` | Passcode: `7*+Zxm%Z` | 
  
   </p></details></li>
   
@@ -362,8 +362,8 @@ ___
 
 | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Recording]() | [Recording]| [Recording] | [Recording] | [Recording] |
-  | Passcode: `` | Passcode: `` | Passcode: `` |  | Passcode: `` | 
+  | [Recording](https://generalassembly.zoom.us/rec/share/WD_KuZz8-nKMuJo9vjZ8C0wmowgQrK9Iat9lVlBhJYXRYQgetRjnNawgpoArvTId.JjVBK8qbu6vf_LJ4) | [Recording]| [Recording] | [Recording] | [Recording] |
+  | Passcode: `6mn6U3#m` | Passcode: `` | Passcode: `` |  | Passcode: `` | 
 
   </p></details></li>
 

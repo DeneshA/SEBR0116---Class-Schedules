@@ -343,15 +343,15 @@ ___
   </p>
 
  
- <!-- | Monday | Tuesday | Wednesday | Thursday | Friday |
+ | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | HOLIDAY | [Intro to React](https://github.com/SEIR-0911/u3_lesson_intro_to_react/blob/main/README.md) | [Component hierarchy Diagram](https://github.com/SEIR-0911/u3_lesson_component_hierarchy/blob/main/README.md) | [Portfolio](https://github.com/SEIR-0911/u3_react_portfolio_lab) | [Reat State](https://github.com/SEIR-0911/u3_lesson_state_and_hooks) |
-  || [LOTR Lab](https://github.com/SEIR-0911/u3_lab_react_LOTR/blob/main/README.md) | [Mapping Components](https://github.com/SEIR-0911/u3_lesson_react_mapping_components-1) | OUTCOMES | [Likes Lab](https://github.com/SEIR-0911/u3_lab_likes) |
-  | | [ Hello React](https://github.com/SEIR-0911/u3_hw_hello_react) |  [Mapping Lab](https://github.com/SEIR-0911/u3_lab_mapping_contacts/blob/main/README.md) |   | [React Forms](https://github.com/SEIR-0911/u3_react_forms/tree/main) |
-  | |  | [React Router](https://github.com/SEIR-0911/u3_react_router_intro/blob/main/README.md) |  | [Groceries Lab](https://github.com/SEIR-0911/u3_lab_groceries) |
-  |  |  | [Mapping Movies](https://github.com/SEIR-0911/u3_hw_movie_mapping) |  | [ATM Lab](https://github.com/SEIR-0911/u3_lab_react_ATM)|
-|||| | [Password Validator](https://github.com/SEIR-0911/u3_lab_password_validator/blob/main/README.md)|
-| | | | |-->
+  | [Intro to React](https://github.com/SEIR-0911/u3_lesson_intro_to_react/blob/main/README.md)| [React Router](https://github.com/SEIR-0911/u3_react_router_intro/blob/main/README.md)  |[Component hierarchy Diagram](https://github.com/SEIR-0911/u3_lesson_component_hierarchy/blob/main/README.md) |  [Reat State](https://github.com/SEIR-0911/u3_lesson_state_and_hooks) | [UseEffect](https://github.com/SEIR-0911/u3_lesson_useEffect/tree/main) | 
+  |[LOTR Lab](https://github.com/SEIR-0911/u3_lab_react_LOTR/blob/main/README.md)| [Mapping Components](https://github.com/SEIR-0911/u3_lesson_react_mapping_components-1)  | [Portfolio](https://github.com/SEIR-0911/u3_react_portfolio_lab) |  [Likes Lab](https://github.com/SEIR-0911/u3_lab_likes) | [React API's](https://github.com/SEIR-0911/u3_lesson_react_APIs) |
+  |[Korilla Lab](https://github.com/SEIR-0911/u3_react_Korilla_receipts/tree/main)| [Mapping Lab](https://github.com/SEIR-0911/u3_lab_mapping_contacts/blob/main/README.md)| OUTCOMES   | [React Forms](https://github.com/SEIR-0911/u3_react_forms/tree/main)    | [SWAPI Axios Lab](https://github.com/SEIR-0911/u3_react_axios_lab/blob/main/README.md) |
+  | | [Mapping Movies](https://github.com/SEIR-0911/u3_hw_movie_mapping) |  | [Groceries Lab](https://github.com/SEIR-0911/u3_lab_groceries) |  |
+  |  |  |  | [ATM Lab](https://github.com/SEIR-0911/u3_lab_react_ATM) | |
+|||| [Password Validator](https://github.com/SEIR-0911/u3_lab_password_validator/blob/main/README.md) | |
+| | | | |
 
 
   <ul type="none">
@@ -360,10 +360,10 @@ ___
  
  <li><details><summary>Class Recordings</summary><p>
 
-<!--| Monday | Tuesday | Wednesday | Thursday | Friday |
+| Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Recording]() | [Recording](https://generalassembly.zoom.us/rec/share/zVzM25yv0H_xlVogigYMeGEcnIJdT5crBJni1m2FwJmo8JRbQHugCCyQCsQrZaw9.w2h9RpaEHDkOVN8r) | [Recording](https://generalassembly.zoom.us/rec/share/HDHSafQ_cP9A462uFgidePdBkx6BkZFhY4kkixAiHl7Yf4GTAcB7zrZKGexAOG8s.cE6swbpDpTaMEtja) | No Recording | [Recording](https://generalassembly.zoom.us/rec/share/77pKRE9_joj5fdQdbJhJueOik89q8__G0kIgz1HDRIt2VqQHZSdG_gqCBwlwxRZX.Ze6K1IDjXvJBRxm2) |
-  | Passcode: `` | Passcode: `#vt?C7Ch` | Passcode: `u!dsv*n8` |  | Passcode: `E$XKK5+r` | -->
+  | [Recording]() | [Recording]| [Recording] | [Recording] | [Recording] |
+  | Passcode: `` | Passcode: `` | Passcode: `` |  | Passcode: `` | 
 
   </p></details></li>
 
@@ -385,7 +385,7 @@ ___
   |:---:|:---:|:---:|:---:|:---:|
   | [UseEffect](https://github.com/SEIR-0911/u3_lesson_useEffect) | [Router II](https://github.com/SEIR-0911/u3_lesson_react_router) | LABS| Hackathon Presentations | Project Proposals |
   | [Reat API](https://github.com/SEIR-0911/u3_lesson_react_APIs/blob/main/README.md)   | [Router Lab](https://github.com/SEIR-0911/u3_lab_react_router)| |  [Project 2 prompt](https://github.com/seir-123/project2_prompt/blob/main/README.md)  |  [useContext](https://github.com/seir-123/u2_lesson_useContext)|
-  | [SWAPI Axios Lab](https://github.com/SEIR-0911/u3_react_axios_lab/blob/main/README.md)  | Axios Lab II |  | OUTCOMES |[Context Lab](https://github.com/seir-123/u2_react_useContext_lab) |-->
+  | | Axios Lab II |  | OUTCOMES |[Context Lab](https://github.com/seir-123/u2_react_useContext_lab) |-->
   
 
   <ul type="none">

@@ -381,21 +381,23 @@ ___
   </p>
 
  
-  <!--| Monday | Tuesday | Wednesday | Thursday | Friday |
+ | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | [UseEffect](https://github.com/SEIR-0911/u3_lesson_useEffect) | [Router II](https://github.com/SEIR-0911/u3_lesson_react_router) | LABS| Hackathon Presentations | Project Proposals |
-  | [Reat API](https://github.com/SEIR-0911/u3_lesson_react_APIs/blob/main/README.md)   | [Router Lab](https://github.com/SEIR-0911/u3_lab_react_router)| |  [Project 2 prompt](https://github.com/seir-123/project2_prompt/blob/main/README.md)  |  [useContext](https://github.com/seir-123/u2_lesson_useContext)|
-  | | Axios Lab II |  | OUTCOMES |[Context Lab](https://github.com/seir-123/u2_react_useContext_lab) |-->
+  |[Router II](https://github.com/SEIR-0911/u3_lesson_react_router) [UseEffect](https://github.com/SEIR-0911/u3_lesson_useEffect) | [useContext](https://github.com/seir-123/u2_lesson_useContext) | Hackathon| Hackathon | Hackathon Presentations |
+  |[Router Lab](https://github.com/SEIR-0911/u3_lab_react_router)    |[Context Lab](https://github.com/seir-123/u2_react_useContext_lab)  |OUTCOMES |  [Project 3 prompt](https://github.com/seir-123/project2_prompt/blob/main/README.md)  |  |
+  | | [React States Lab](https://github.com/SEIR-0911/u3_react_states_lab/blob/main/README.md) |  | ||
+| | [FrontEnd Hackathon](https://github.com/SEIR-0911/u3_lab_react_axios_foodE/blob/main/README.md) |  | ||
+| | Axios Lab II |  | ||
   
 
   <ul type="none">
 
   <li><details><summary>Class Recordings</summary><p>
 
-<!--| Monday | Tuesday | Wednesday | Thursday | Friday |
+| Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Recording](https://generalassembly.zoom.us/rec/share/6VE0LhwINg4qTPOPqBFYJh-AU_ybyfXxpD10xvFIcKS9lBiyO1Ugtdtbu8roxYWl.eKShH9UVMF7oVwiK) | [Recording](https://generalassembly.zoom.us/rec/share/EMqbbkVQ0-DEzOTYdmxhetO0xnS6biFeYHptHsSaUoLjJJzas3IGE8c0391YusLY.MXt9c5ju0vftCpRt) | No Recording | [Recording](https://generalassembly.zoom.us/rec/share/9LZ1r5QYpp-lbSYBTKNn5DjRyQ9eh0IVpOKUWBdCxJqI4ChM1g6arqWnETAwIFVj.AigSHDZPC5YJJ3GB) |[Recording](https://generalassembly.zoom.us/rec/share/66Cr6lV1xyeDsVkS-SdCm7_7-BBWxV27w7SRgUADO7Szue5WJF6I950adU-tmzGM.LHoZQlXgnzoAomgF)|
-  | Passcode: `.b6T&Vr#` | Passcode: `+0BzsY0W` |  | Passcode: `*Dv?jr2L`  |  Passcode: `L1!gyo24` | -->
+  | [Recording](https://generalassembly.zoom.us/rec/share/p1ul2ouA1Wo2Era8Tf1ja_rixy4frrdhnWL5IyQ7YCUi7Yd1Bn5gHSmrXg0OYKYo.1LjwcBW95kxEIGvV)  |[Recording](https://generalassembly.zoom.us/rec/share/_Xj_AB91EX6zVySs6aggzHlR-GZ5RRFg2ag0kMELwiIiGL9kaUv1K7xYsW1Q5p1m.YChwkc4l74at_ihM)  | No Recording | [Recording](https://generalassembly.zoom.us/rec/share/zxRBA7NE31gSDoGHaV2mHWiuOLOBbOnOKTL6EpWaCklOi3H5CccqBbJ3xSDpECY.GLSrAdp6brFTSy09) |No Recording|
+  | Passcode: `1ZKBjbh*` | Passcode: `^Bm9Ys1u` |  | Passcode: `kmW=BN03`  |  | 
 
  </p></details></li>
   
@@ -420,22 +422,23 @@ ___
   </p>
 
  
-<!--| Monday | Tuesday | Wednesday | Thursday | Friday |
+| Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | Presentations | [Python Functions](https://github.com/SEIR-0911/u4_lesson_python_functions/tree/main) | [Python Tuples Lab](https://github.com/SEIR-0911/u4_lesson_python_tuples/tree/main) | [CSV Parser Lab](https://github.com/SEIR-0911/u4_lab_python_CSV_parser) | [SQL intro](https://github.com/SEIR-0911/u4_lesson_SQL_intro/tree/main) |
-  | [Intro to Python](https://github.com/SEIR-0911/u4_lesson_python_intro) | [Python Control Flow](https://github.com/SEIR-0911/u4_lesson_python_control_flow/tree/main) | [Python OOP](https://github.com/SEIR-0911/u4_lesson_python_OOP) | [Polyglot Workshop](https://github.com/SEIR-0911/u4_polyglot_challenge/tree/main) | [SQL Lab](https://github.com/SEIR-0911/u4_lab_SQL_practice/tree/main) |
-  | | [Python Lists & Loops](https://github.com/SEIR-0911/u4_lesson_python_lists_loops/tree/main) |[Smash Bros](https://github.com/SEIR-0911/u4_hw_python_smash_bros)  |[Py Pac Poe](https://github.com/SEIR-0911/u4_py_pac_pie/blob/main/README.md)  |[SQL Joins](https://github.com/SEIR-0911/u4_lab_SQL_joins/blob/main/ReadMe.md) |
-  | |  [Python Dictionaries](https://github.com/SEIR-0911/u4_lesson_python_dictionaries/tree/main) |[Codewars](https://github.com/SEIR-0911/u4_python_challenges/tree/main)  | OUTCOMES | [SQL Joins lAB](https://github.com/SEIR-0911/u4_lab_SQL_joins/blob/main/ReadMe.md) |
-|||||[Carmen San Diego](https://github.com/SEIR-0911/u4_hw_carmen_sandiego)|-->
+  | Presentations |[Intro to Python](https://github.com/SEIR-0911/u4_lesson_python_intro)  | [Python OOP](https://github.com/SEIR-0911/u4_lesson_python_OOP)  | [Django Install](https://github.com/SEIR-0911/u4_lesson_django_intro)  |[Django Serializer](https://github.com/SEIR-0911/u4_lesson_django_REST_API) |
+  | [SQL intro](https://github.com/SEIR-0911/u4_lesson_SQL_intro/tree/main)  | [Python Functions](https://github.com/SEIR-0911/u4_lesson_python_functions/tree/main)  |[Polyglot Workshop](https://github.com/SEIR-0911/u4_polyglot_challenge/tree/main) | [Django Practice I](https://github.com/SEIR-0911/u4_lab_nostaldja)  |[Django practice II](https://github.com/SEIR-0911/u4_lab_django_REST_API)  |
+  |[SQL Lab](https://github.com/SEIR-0911/u4_lab_SQL_practice/tree/main) |[Python Control Flow](https://github.com/SEIR-0911/u4_lesson_python_control_flow/tree/main)   |[Py Pac Poe](https://github.com/SEIR-0911/u4_py_pac_pie/blob/main/README.md)   |[Django Admin Stylist](https://unfoldadmin.com/) | |
+  |[SQL Joins](https://github.com/SEIR-0911/u4_lab_SQL_joins/blob/main/ReadMe.md) | [Python Lists & Loops](https://github.com/SEIR-0911/u4_lesson_python_lists_loops/tree/main)   |[State Capitals](https://github.com/SEIR-0911/u4_python_capitals_lab/blob/main/README.md) [Codewars](https://github.com/SEIR-0911/u4_python_challenges/tree/main)  | OUTCOMES | |
+|[SQL Joins LAB](https://github.com/SEIR-0911/u4_lab_SQL_joins/blob/main/ReadMe.md) |[Python Dictionaries](https://github.com/SEIR-0911/u4_lesson_python_dictionaries/tree/main)| [CVS Parser Lab](https://github.com/SEIR-0911/u4_lab_python_CSV_parser)|||
+|[Carmen San Diego](https://github.com/SEIR-0911/u4_hw_carmen_sandiego)|[Codewae Challenges](https://github.com/SEIR-0508/u4_python_challenges/tree/main)|[Smash Bros](https://github.com/SEIR-0911/u4_hw_python_smash_bros) |||
 
    <ul type="none">
 
   <li><details><summary>Class Recordings</summary><p>
 
-<!-- | Monday | Tuesday | Wednesday | Thursday | Friday |
+| Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | No Recording | Recording in slack|  | NO Recording | [Recording](https://generalassembly.zoom.us/rec/share/uKH3rdQE2JiICjYPSE96wW7gPwCg5a5dyBDuqCHIWTJIL9wwSLVRxcpy70jDkUjY.l_TSpEdLbFS6lJ4A)|
-  |  |  | | | Passcode: `yJ.4+uvz` |-->
+  | [Recording]() | [Recording]()| [Recording]() | [Recording]() | [Recording]()|
+  | Passcode: `` | Passcode: `` | Passcode: ``|Passcode: `` | Passcode: `` |
 
    </p></details></li>
 
@@ -454,10 +457,10 @@ ___
   </p>
 
 
- <!--| Monday | Tuesday | Wednesday | Thursday | Friday |
+| Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Django Install](https://github.com/SEIR-0911/u4_lesson_django_intro) | [Django Serializer](https://github.com/SEIR-0911/u4_lesson_django_REST_API) | [Django Full STackathon](https://github.com/seir-123/u4_django_fullstack/) | P4 Project Planning | Project Week Starts |
-  | [Django Practice I](https://github.com/SEIR-0911/u4_lab_nostaldja) | [Django practice II](https://github.com/SEIR-0911/u4_lab_django_REST_API)| |  OUTCOMES | |-->
+  | [Django Full STackathon](https://github.com/seir-123/u4_django_fullstack/) |[Django Full STackathon](https://github.com/seir-123/u4_django_fullstack/)  | HOLIDAY  | HOLIDAY | HOLIDAY |
+  | | | |  | |
   
 
   <ul type="none">

@@ -150,8 +150,8 @@ The following dates are observed Holidays for this immersive.  There will be no 
 
 | Holiday | Date(s) |
 |:---:|:---:|
-| Presidents Day | Feb 19 |
-| Easter Weekend | Mar 29 - Apr 1 |
+| January 15th| February 19th |
+| March 29th | April 1st |
 
 
 </details>
@@ -209,9 +209,9 @@ ____
 
   | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Recording](https://generalassembly.zoom.us/rec/share/8dvXRvdhk1rZigzh1rxM8BFVgvbulUvOtwI_MvVspc3UZFoBE2mYVx5rvs5IdSso.Oj2zsrEaYgKH3gHW)| [Recording](https://generalassembly.zoom.us/rec/share/eRwUN76Bl1gksVvhJ_jOHCjNy_PrVrefvzWZjKPe15vy5iJGUYl2WQrSilUpgJ2k.MpOY41Ab6qgp6Gt5)|[Recording](https://generalassembly.zoom.us/rec/share/w78QGA_GLb9JESDU5SXugkxlefr1GpCx38DHGmoyQuk90xLvY5FSFRUFTSpzum2P.cToFMiwKspO3wOac)| [Recording](https://generalassembly.zoom.us/rec/share/0vzAOCMGQIJTDVFaSw3fLM1XUTlicGiP-hnXsqrAXx5t8rkvgeE3uGQ6VJc0UQwM.X0wEUaYXQVVFsLzy)| [Recording](https://generalassembly.zoom.us/rec/share/gDMRwR9HTirxSBnF-qQHZ0SP8pd307NV2dxEzySPsUWPk_7wTUQU62uGwxr2_1qz.E9Pju-_WYWkBqRTh)|
-  | Passcode: `0q1!ghrd`  | Passcode: `pw9GO%?3` | Passcode: `dBUuu%S7
-` | Passcode: `XuVF8@T.` | Passcode: `J9G.4KJC` |
+  | [Recording]()| [Recording]()|[Recording]()| [Recording]()| [Recording]()|
+  | Passcode: ``  | Passcode: `` | Passcode: `
+` | Passcode: `.` | Passcode: `` |
 
   </p></details></li>
 
@@ -229,11 +229,11 @@ ____
  
   | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-|  [JS Objects](https://github.com/SEBR-0116/u1_lesson_js_objects/blob/main/README.md) |Wireframing| [Weather API Lab](https://github.com/SEBR-0116/u1_lab_weather-api/blob/main/README.md) | [Responsive CSS](https://github.com/SEBR-0116/u1_responsive_css/blob/main/README.md)| Project Week Starts|
+<!--|  [JS Objects](https://github.com/SEBR-0116/u1_lesson_js_objects/blob/main/README.md) |Wireframing| [Weather API Lab](https://github.com/SEBR-0116/u1_lab_weather-api/blob/main/README.md) | [Responsive CSS](https://github.com/SEBR-0116/u1_responsive_css/blob/main/README.md)| Project Week Starts|
 |[Jurassic Object Lab](https://github.com/SEBR-0116/u1_lab_jurassic_objects/blob/main/README.md)|  [Intro to API's](https://github.com/SEBR-0116/u1_axios-api-intro)   |  OUTCOMES  |  Deployment |  ||
   |[ES6 Syntax](https://github.com/SEBR-0116/u1_lesson_ES6) | [Poke'mon Lab](https://github.com/SEBR-0116/u1_pokemon-api-lab/blob/main/README.md)  |   |[Prompt 1](https://github.com/SEBR-0116/u1_project_prompt/blob/main/README.md) |  |  
   | [Calculator](https://github.com/SEBR-0116/u1_JS_calculator_lab/tree/main) |  ||  |  |
-  |  |  |  | |  | 
+  |  |  |  | |  | -->
 
  <ul type="none">
 
@@ -244,8 +244,8 @@ ____
 
 | Monday | Tuesday | Wednesday | Thursday | Friday |
  |:---:|:---:|:---:|:---:|:---:|
- | [Recording](https://generalassembly.zoom.us/rec/share/cDmD9w7ULkJG6aYVNb7P5ILZhMAsv72_Zrqdy3cZ-wtgpPWcdbso7b89mrvqrah_.8B8Hte07Ivn58qtU)|[Recording](https://generalassembly.zoom.us/rec/share/-CMe-EB9H_3uYM3uppDnVou1kKUzY_oVR9FssDxuKETx9y5fkhlxakoRdPTY7Qbm.V-RAu3F5zngb64kh) | [Recording](https://generalassembly.zoom.us/rec/share/zEkd4PfoxN5BQjeM3yQb59dIDlFUAzmuC9PJhz2W5QPrSvysbLC2vzNFgBo1eJ6l.Kzs_JeuWbKMdFlWt) |  [Recording]() | [Recording]()|
- | Passcode:`%FQV40JU`  | Passcode:`EVTT5q?3`| Passcode:`@@P1Zs$8` | Passcode: `` | Passcode: `` | 
+<!-- | [Recording](https://generalassembly.zoom.us/rec/share/cDmD9w7ULkJG6aYVNb7P5ILZhMAsv72_Zrqdy3cZ-wtgpPWcdbso7b89mrvqrah_.8B8Hte07Ivn58qtU)|[Recording](https://generalassembly.zoom.us/rec/share/-CMe-EB9H_3uYM3uppDnVou1kKUzY_oVR9FssDxuKETx9y5fkhlxakoRdPTY7Qbm.V-RAu3F5zngb64kh) | [Recording](https://generalassembly.zoom.us/rec/share/zEkd4PfoxN5BQjeM3yQb59dIDlFUAzmuC9PJhz2W5QPrSvysbLC2vzNFgBo1eJ6l.Kzs_JeuWbKMdFlWt) |  [Recording]() | [Recording]()|
+ | Passcode:`%FQV40JU`  | Passcode:`EVTT5q?3`| Passcode:`@@P1Zs$8` | Passcode: `` | Passcode: `` | -->
 
  </p></details></li>
  
@@ -272,12 +272,12 @@ ___
 
 | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Mongo Install](https://github.com/SEBR-0116/u2_lesson_mongo_install/blob/main/README.md)|[Mongoose Data](https://github.com/SEBR-0116/u2_lesson_mongoose_data_model-1) | [Express Full Stack Demo](https://github.com/SEBR-0116/express_full_stack_demo) | [ERD](https://github.com/SEBR-0116/u2_lesson_ERD) | [Express from Scratch](https://github.com/taubman33/u2_lab_express_api/blob/main/README.md)  ||
+ <!-- | [Mongo Install](https://github.com/SEBR-0116/u2_lesson_mongo_install/blob/main/README.md)|[Mongoose Data](https://github.com/SEBR-0116/u2_lesson_mongoose_data_model-1) | [Express Full Stack Demo](https://github.com/SEBR-0116/express_full_stack_demo) | [ERD](https://github.com/SEBR-0116/u2_lesson_ERD) | [Express from Scratch](https://github.com/taubman33/u2_lab_express_api/blob/main/README.md)  ||
   | [Mongo Command](https://github.com/SEBR-0116/u2_lesson_mongoDB/blob/main/README.md) | [Mongoose Associations](https://github.com/SEBR-0116/u2_lesson_mongoose_associations/tree/main) | [Express Intro](https://github.com/SEBR-0116/u2_express_intro_and_middleware/tree/main)  | [Express Controller](https://github.com/SEBR-0116/u3_lesson_express_controllers/blob/main/README.md) | [Mongoose w/Express](https://github.com/SEBR-0116/u2_lesson_mongoose_express) |
   | [Mongo Lab](https://github.com/SEIR-0508/u2_lab_mongoDB_sneakers/tree/main)  |  [Mongoose Lab](https://github.com/SEBR-0116/u2_mongoose_lab/blob/main/README.md) |[Express Routes](https://github.com/SEBR-0116/u3_lesson_express_routing/blob/main/README.md)|  | [Mongoose Plants](https://github.com/SEBR-0116/u2_hw_mongoose_plants/blob/main/README.md)  |
   |[Atlas Set up](https://github.com/SEBR-0116/u2_mongo_atlas_setup/blob/main/README.md)   | |[Express Fruits](https://github.com/SEBR-0116/express_fruits/blob/main/readme.md)  |  |  |
   | [Mongo Burgers](https://github.com/SEBR-0116/u2_hw_mongo_burgers)  || OUTCOMES ||  |
-  |  | |  |  |  | 
+  |  | |  |  |  | -->
 
 <ul type="none">
 
@@ -287,8 +287,8 @@ ___
 
 | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Recording](https://generalassembly.zoom.us/rec/share/KojBx5iid6CQ9MYIamujd_8QfxfmiC2pftExgGZ9Bvh4DhXIPxVaJg5cSzz-L1JE.vOdp6Lqj3JWhiK8p) | [Recording](https://generalassembly.zoom.us/rec/share/ZUXppiomUy9iI2h2lALlb2nhRUQcvpSJDtxFJ3IobDx_tB8MlKTzXqnyOQtNF1HD.AVmQTJO2cr7zXTEz) | [Recording]() | [Recording](https://generalassembly.zoom.us/rec/share/MAX9zoNVjUa9UOk-cFGNLpVkrMEoPyJ7m7K3EbioIhS8g_koT_Uv_yB_18WYYwkG.mZ1Bzesmz7OTXOGB) | [Recording]() |
-  | Passcode: `1#6APOT%` | Passcode: `9@xxf0?@` | Passcode: `` | Passcode: `k+gv3m?W` | Passcode: `` | 
+ <!-- | [Recording](https://generalassembly.zoom.us/rec/share/KojBx5iid6CQ9MYIamujd_8QfxfmiC2pftExgGZ9Bvh4DhXIPxVaJg5cSzz-L1JE.vOdp6Lqj3JWhiK8p) | [Recording](https://generalassembly.zoom.us/rec/share/ZUXppiomUy9iI2h2lALlb2nhRUQcvpSJDtxFJ3IobDx_tB8MlKTzXqnyOQtNF1HD.AVmQTJO2cr7zXTEz) | [Recording]() | [Recording](https://generalassembly.zoom.us/rec/share/MAX9zoNVjUa9UOk-cFGNLpVkrMEoPyJ7m7K3EbioIhS8g_koT_Uv_yB_18WYYwkG.mZ1Bzesmz7OTXOGB) | [Recording]() |
+  | Passcode: `1#6APOT%` | Passcode: `9@xxf0?@` | Passcode: `` | Passcode: `k+gv3m?W` | Passcode: `` | -->
 
   </p></details></li>
 
@@ -305,11 +305,11 @@ ___
 
 
 | Monday | Tuesday | Wednesday | Thursday | Friday |
-  |:---:|:---:|:---:|:---:|:---:|
+ <!-- |:---:|:---:|:---:|:---:|:---:|
   | [Express/Mongoose Review](https://github.com/SEBR-0116/u2_heroes_and_villains_api/tree/main) | [Group Git](https://github.com/SEBR-0116/u2_lesson_group_git) | Stackathon day | Presentations  | [Project 2](https://github.com/SEBR-0116/project2/blob/main/README.md) |
   | [Express fron Scratch](https://github.com/taubman33/u2_lab_express_api/blob/main/README.md) |  [Reg ex (optional)](https://github.com/SEBR-0116/u2_lesson_regEx_js/tree/main)| OUTCOMES |  [Project 2 setup](https://github.com/SEBR-0116/project2/blob/main/README.md)    ||
   | |[OAuth (optional)](https://github.com/SEBR-0116/u2_lesson_oAuth) |   | |  |
-  |  | Stackaton Day 1 | |  |  |
+  |  | Stackaton Day 1 | |  |  |-->
  
 
 
@@ -317,8 +317,8 @@ ___
 
 | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Recording]() | [Recording]() | [Recording]() | [Recording]() | [Recording](https://generalassembly.zoom.us/rec/share/JUgAoH5tc3metfg--hbDVq87qrDH35L9NSFgDQ_DSaRKMNyb3JtMFZ5X21HthGrF.04HUrTQwqzTbZxDT) |
-  | Passcode: `` | Passcode: `` | Passcode: `` | Passcode: `` | Passcode: `7*+Zxm%Z` | 
+ <!-- | [Recording]() | [Recording]() | [Recording]() | [Recording]() | [Recording](https://generalassembly.zoom.us/rec/share/JUgAoH5tc3metfg--hbDVq87qrDH35L9NSFgDQ_DSaRKMNyb3JtMFZ5X21HthGrF.04HUrTQwqzTbZxDT) |
+  | Passcode: `` | Passcode: `` | Passcode: `` | Passcode: `` | Passcode: `7*+Zxm%Z` |-->
  
   </p></details></li>
   
@@ -345,13 +345,13 @@ ___
  
  | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Intro to React](https://github.com/SEBR-0116/u3_lesson_intro_to_react/blob/main/README.md)| [React Router](https://github.com/SEBR-0116/u3_react_router_intro/blob/main/README.md)  |[Component hierarchy Diagram](https://github.com/SEBR-0116/u3_lesson_component_hierarchy/blob/main/README.md) |  [Reat State](https://github.com/SEBR-0116/u3_lesson_state_and_hooks) | [UseEffect](https://github.com/SEBR-0116/u3_lesson_useEffect/tree/main) | 
+  <!--| [Intro to React](https://github.com/SEBR-0116/u3_lesson_intro_to_react/blob/main/README.md)| [React Router](https://github.com/SEBR-0116/u3_react_router_intro/blob/main/README.md)  |[Component hierarchy Diagram](https://github.com/SEBR-0116/u3_lesson_component_hierarchy/blob/main/README.md) |  [Reat State](https://github.com/SEBR-0116/u3_lesson_state_and_hooks) | [UseEffect](https://github.com/SEBR-0116/u3_lesson_useEffect/tree/main) | 
   |[LOTR Lab](https://github.com/SEBR-0116/u3_lab_react_LOTR/blob/main/README.md)| [Mapping Components](https://github.com/SEBR-0116/u3_lesson_react_mapping_components-1)  | [Portfolio](https://github.com/SEBR-0116/u3_react_portfolio_lab) |  [Likes Lab](https://github.com/SEBR-0116/u3_lab_likes) | [React API's](https://github.com/SEBR-0116/u3_lesson_react_APIs) |
   |[Korilla Lab](https://github.com/SEBR-0116/u3_react_Korilla_receipts/tree/main)| [Mapping Lab](https://github.com/SEBR-0116/u3_lab_mapping_contacts/blob/main/README.md)| OUTCOMES   | [React Forms](https://github.com/SEBR-0116/u3_react_forms/tree/main)    | [SWAPI Axios Lab](https://github.com/SEBR-0116/u3_react_axios_lab/blob/main/README.md) |
   | | [Mapping Movies](https://github.com/SEBR-0116/u3_hw_movie_mapping) |  | [Groceries Lab](https://github.com/SEBR-0116/u3_lab_groceries) |  |
   |  |  |  | [ATM Lab](https://github.com/SEBR-0116/u3_lab_react_ATM) | |
 |||| [Password Validator](https://github.com/SEBR-0116/u3_lab_password_validator/blob/main/README.md) | |
-| | | | |
+| | | | |-->
 
 
   <ul type="none">
@@ -362,8 +362,8 @@ ___
 
 | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Recording](https://generalassembly.zoom.us/rec/share/WD_KuZz8-nKMuJo9vjZ8C0wmowgQrK9Iat9lVlBhJYXRYQgetRjnNawgpoArvTId.JjVBK8qbu6vf_LJ4) | [Recording](https://generalassembly.zoom.us/rec/share/BE7muJb-EOzojTb6NShYuoy4E8V6XpSmzEMYslxDdmp2nWtXWFShCjbv1dsAH_Sc.Z3hTUcwBXz4ediqP)| [Recording](https://generalassembly.zoom.us/rec/share/td28MAQhMXjq-ovIe-I-sS-WKYOu5Rl15PnjOKGOJXhuAn1fZFLmeFxbnOA16WEe.Ie3qcebXLoLDbCm1) | [Recording](https://generalassembly.zoom.us/rec/share/OqiPqbHElrAowsfO7jKCO7MMyeIxT7yWI5wlV5HEBhH9ZCQbVyflKOiBIoqCf13o.SldeSPzNrNgskygm) | [Recording] |
-  | Passcode: `6mn6U3#m` | Passcode: `b5GM?30d` |  Passcode: `E^yB7HWy` | Passcode: `@6fiwG!m` |  Passcode: `` 
+  <!--| [Recording](https://generalassembly.zoom.us/rec/share/WD_KuZz8-nKMuJo9vjZ8C0wmowgQrK9Iat9lVlBhJYXRYQgetRjnNawgpoArvTId.JjVBK8qbu6vf_LJ4) | [Recording](https://generalassembly.zoom.us/rec/share/BE7muJb-EOzojTb6NShYuoy4E8V6XpSmzEMYslxDdmp2nWtXWFShCjbv1dsAH_Sc.Z3hTUcwBXz4ediqP)| [Recording](https://generalassembly.zoom.us/rec/share/td28MAQhMXjq-ovIe-I-sS-WKYOu5Rl15PnjOKGOJXhuAn1fZFLmeFxbnOA16WEe.Ie3qcebXLoLDbCm1) | [Recording](https://generalassembly.zoom.us/rec/share/OqiPqbHElrAowsfO7jKCO7MMyeIxT7yWI5wlV5HEBhH9ZCQbVyflKOiBIoqCf13o.SldeSPzNrNgskygm) | [Recording] |
+  | Passcode: `6mn6U3#m` | Passcode: `b5GM?30d` |  Passcode: `E^yB7HWy` | Passcode: `@6fiwG!m` |  Passcode: `` -->
 
   </p></details></li>
 
@@ -383,11 +383,11 @@ ___
  
  | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  |[Router II](https://github.com/SEBR-0116/u3_lesson_react_router) [UseEffect](https://github.com/SEBR-0116/u3_lesson_useEffect) | [useContext](https://github.com/seir-123/u2_lesson_useContext) | Hackathon| Hackathon | Hackathon Presentations |
+ <!-- |[Router II](https://github.com/SEBR-0116/u3_lesson_react_router) [UseEffect](https://github.com/SEBR-0116/u3_lesson_useEffect) | [useContext](https://github.com/seir-123/u2_lesson_useContext) | Hackathon| Hackathon | Hackathon Presentations |
   |[Router Lab](https://github.com/SEBR-0116/u3_lab_react_router)    |[Context Lab](https://github.com/seir-123/u2_react_useContext_lab)  |OUTCOMES |  [Project 3 prompt](https://github.com/seir-123/project2_prompt/blob/main/README.md)  |  |
   | | [React States Lab](https://github.com/SEBR-0116/u3_react_states_lab/blob/main/README.md) |  | ||
 | | [FrontEnd Hackathon](https://github.com/SEBR-0116/u3_lab_react_axios_foodE/blob/main/README.md) |  | ||
-| | Axios Lab II |  | ||
+| | Axios Lab II |  | ||-->
   
 
   <ul type="none">
@@ -396,8 +396,8 @@ ___
 
 | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Recording](https://generalassembly.zoom.us/rec/share/p1ul2ouA1Wo2Era8Tf1ja_rixy4frrdhnWL5IyQ7YCUi7Yd1Bn5gHSmrXg0OYKYo.1LjwcBW95kxEIGvV)  |[Recording](https://generalassembly.zoom.us/rec/share/_Xj_AB91EX6zVySs6aggzHlR-GZ5RRFg2ag0kMELwiIiGL9kaUv1K7xYsW1Q5p1m.YChwkc4l74at_ihM)  | No Recording | [Recording](https://generalassembly.zoom.us/rec/share/zxRBA7NE31gSDoGHaV2mHWiuOLOBbOnOKTL6EpWaCklOi3H5CccqBbJ3xSDpECY.GLSrAdp6brFTSy09) |No Recording|
-  | Passcode: `1ZKBjbh*` | Passcode: `^Bm9Ys1u` |  | Passcode: `kmW=BN03`  |  | 
+  <!--| [Recording](https://generalassembly.zoom.us/rec/share/p1ul2ouA1Wo2Era8Tf1ja_rixy4frrdhnWL5IyQ7YCUi7Yd1Bn5gHSmrXg0OYKYo.1LjwcBW95kxEIGvV)  |[Recording](https://generalassembly.zoom.us/rec/share/_Xj_AB91EX6zVySs6aggzHlR-GZ5RRFg2ag0kMELwiIiGL9kaUv1K7xYsW1Q5p1m.YChwkc4l74at_ihM)  | No Recording | [Recording](https://generalassembly.zoom.us/rec/share/zxRBA7NE31gSDoGHaV2mHWiuOLOBbOnOKTL6EpWaCklOi3H5CccqBbJ3xSDpECY.GLSrAdp6brFTSy09) |No Recording|
+  | Passcode: `1ZKBjbh*` | Passcode: `^Bm9Ys1u` |  | Passcode: `kmW=BN03`  |  | -->
 
  </p></details></li>
   
@@ -424,12 +424,12 @@ ___
  
 | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | Presentations |[Intro to Python](https://github.com/SEBR-0116/u4_lesson_python_intro)  | [Python OOP](https://github.com/SEBR-0116/u4_lesson_python_OOP)  | [Django Install](https://github.com/SEBR-0116/u4_lesson_django_intro)  |[Django Serializer](https://github.com/SEBR-0116/u4_lesson_django_REST_API) |
+ <!-- | Presentations |[Intro to Python](https://github.com/SEBR-0116/u4_lesson_python_intro)  | [Python OOP](https://github.com/SEBR-0116/u4_lesson_python_OOP)  | [Django Install](https://github.com/SEBR-0116/u4_lesson_django_intro)  |[Django Serializer](https://github.com/SEBR-0116/u4_lesson_django_REST_API) |
   | [SQL intro](https://github.com/SEBR-0116/u4_lesson_SQL_intro/tree/main)  | [Python Functions](https://github.com/SEBR-0116/u4_lesson_python_functions/tree/main)  |[Polyglot Workshop](https://github.com/SEBR-0116/u4_polyglot_challenge/tree/main) | [Django Practice I](https://github.com/SEBR-0116/u4_lab_nostaldja)  |[Django practice II](https://github.com/SEBR-0116/u4_lab_django_REST_API)  |
   |[SQL Lab](https://github.com/SEBR-0116/u4_lab_SQL_practice/tree/main) |[Python Control Flow](https://github.com/SEBR-0116/u4_lesson_python_control_flow/tree/main)   |[Py Pac Poe](https://github.com/SEBR-0116/u4_py_pac_pie/blob/main/README.md)   |[Django Admin Stylist](https://unfoldadmin.com/) | |
   |[SQL Joins](https://github.com/SEBR-0116/u4_lab_SQL_joins/blob/main/ReadMe.md) | [Python Lists & Loops](https://github.com/SEBR-0116/u4_lesson_python_lists_loops/tree/main)   |[State Capitals](https://github.com/SEBR-0116/u4_python_capitals_lab/blob/main/README.md) [Codewars](https://github.com/SEBR-0116/u4_python_challenges/tree/main)  | OUTCOMES | |
 |[SQL Joins LAB](https://github.com/SEBR-0116/u4_lab_SQL_joins/blob/main/ReadMe.md) |[Python Dictionaries](https://github.com/SEBR-0116/u4_lesson_python_dictionaries/tree/main)| [CVS Parser Lab](https://github.com/SEBR-0116/u4_lab_python_CSV_parser)|||
-|[Carmen San Diego](https://github.com/SEBR-0116/u4_hw_carmen_sandiego)|[Codewae Challenges](https://github.com/SEIR-0508/u4_python_challenges/tree/main)|[Smash Bros](https://github.com/SEBR-0116/u4_hw_python_smash_bros) |||
+|[Carmen San Diego](https://github.com/SEBR-0116/u4_hw_carmen_sandiego)|[Codewae Challenges](https://github.com/SEIR-0508/u4_python_challenges/tree/main)|[Smash Bros](https://github.com/SEBR-0116/u4_hw_python_smash_bros) |||-->
 
    <ul type="none">
 
@@ -437,8 +437,8 @@ ___
 
 | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Recording]() | [Recording]()| [Recording]() | [Recording]() | [Recording]()|
-  | Passcode: `` | Passcode: `` | Passcode: ``|Passcode: `` | Passcode: `` |
+ <!-- | [Recording]() | [Recording]()| [Recording]() | [Recording]() | [Recording]()|
+  | Passcode: `` | Passcode: `` | Passcode: ``|Passcode: `` | Passcode: `` |-->
 
    </p></details></li>
 
@@ -459,8 +459,8 @@ ___
 
 | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Django Full STackathon](https://github.com/seir-123/u4_django_fullstack/) |[Django Full STackathon](https://github.com/seir-123/u4_django_fullstack/)  | HOLIDAY  | HOLIDAY | HOLIDAY |
-  | | | |  | |
+  <!--| [Django Full STackathon](https://github.com/seir-123/u4_django_fullstack/) |[Django Full STackathon](https://github.com/seir-123/u4_django_fullstack/)  | HOLIDAY  | HOLIDAY | HOLIDAY |
+  | | | |  | |-->
   
 
   <ul type="none">

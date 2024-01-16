@@ -160,7 +160,7 @@ ____
 # Class Schedule
 
 ### Unit 1 - 
-	Week 1 - HTML, CSS, JS, DOM Manipulation
+	Week 1 - JS, DOM Manipulation
 	Week 2 - JS Higher Order Functions, OOP, API calls + Axios
 	Week 3 - Project 1 (API Call / JS Game)
 
@@ -184,24 +184,24 @@ ____
 
 ____
 
-<details><summary><strong>Unit 1</strong> - HTML | CSS | JavaScript</summary><p>
+<details><summary><strong>Unit 1</strong> - JavaScript</summary><p>
 
 <ul type="none">
 
   <li><details><summary><strong>Week 1</strong></summary><p>
 
   <p>
-  In Week 1, we review the fundamental concepts of <b>HTML</b>, <b>CSS</b>, and <b>JavaScript</b> along with introducing <b>git</b> workflow, <b>terminal</b> commands, and writing professional <b>markdown</b> files. We also learn about the <b>JavaScript DOM</b> and how to use <b>events</b> to affect it.
+  In Week 1, we review the fundamental concepts of <b>JavaScript</b> along with introducing <b>git</b> workflow, <b>terminal</b> commands, and writing professional <b>markdown</b> files. We also learn about the <b>JavaScript DOM</b> and how to use <b>events</b> to affect it.
   </p>
 
   | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | Introductions| [JS Intro- Datatypes](https://github.com/SEBR-0116/u1_js_intro_datatypes/blob/main/README.md) | [Functions and Scopes](https://github.com/SEBR-0116/u1_js_functions_and_scope/blob/main/README.md)  | [HTML](https://github.com/SEBR-0116/u1_HTML_intro)   | [DOM Events](https://github.com/SEBR-0116/u1_lesson_js_dom_events)
-  | [CLI Intro](https://github.com/SEBR-0116/u1_CLI_intro)  | [Arrays](https://github.com/SEBR-0116/u1_js_arrays/blob/main/README.md) |  [Functions Lab](https://github.com/SEBR-0116/u1_functions_lab/blob/main/README.md)  | [Grumpy Cat](https://github.com/SEBR-0116/u1_lab_grumpy_cat_resume) | [Color Switcher](https://github.com/SEBR-0116/u1_lab_dom_color_switcher)
-  |  [InstallFest](https://github.com/SEBR-0116/u1_Installfest) | [Control Flow](https://github.com/SEBR-0116/u1_js_control_flow/blob/main/README.md)   | [Array Iterators](https://github.com/SEBR-0116/u1_array_iterators) | [CSS](https://github.com/SEBR-0116/u1_CSS_intro)  | [JS Dots Game Lab](https://github.com/SEBR-0116/u1_lab_dom_dots)| 
-  |  [Git](https://github.com/SEBR-0116/u1_lesson_git_intro)| [Data Types Practice](https://github.com/SEBR-0116/U1_data_types_practice) | [HOF Lab](https://github.com/SEBR-0116/u1_lab_HOF_lab/tree/main)   |  [Resume](https://github.com/SEBR-0116/u1_lab_personal_resume)  |[Connect Four](https://github.com/SEBR-0116/u1_hw_Connect_four/blob/main/README.md) |  |
-  | [Git PAT](https://github.com/SEBR-0116/u1_git_PAT) | [CYOA](https://github.com/SEBR-0116/u1_hw_control_flow_adventure/tree/main) |[CodeWars Challenges](https://github.com/SEBR-0116/u1_hw_codewars_challenges/blob/main/README.md)  | [Flexbox](https://github.com/SEBR-0116/u1_CSS_Flex_and_Grid)    | [Tic Tac Toe](https://github.com/SEBR-0116/u1_hw_tic_tac_toe)
-  | [Command Line Practice](https://github.com/SEBR-0116/u1_hw_star_wars-1/blob/main/README.md)  ||OUTCOMES | [Fashion Blog](https://github.com/SEBR-0116/u1_HW_Fashion-Blog/blob/master/README.md) |   |
+  |HOLIDAY | Introductions | [JS Intro- Datatypes](https://github.com/SEBR-0116/u1_js_intro_datatypes/blob/main/README.md)  | [Functions and Scopes](https://github.com/SEBR-0116/u1_js_functions_and_scope/blob/main/README.md) | [DOM Events](https://github.com/SEBR-0116/u1_lesson_js_dom_events)
+  |   |[CLI Intro](https://github.com/SEBR-0116/u1_CLI_intro)  | [Arrays](https://github.com/SEBR-0116/u1_js_arrays/blob/main/README.md)   |[Functions Lab](https://github.com/SEBR-0116/u1_functions_lab/blob/main/README.md) | [Color Switcher](https://github.com/SEBR-0116/u1_lab_dom_color_switcher)
+  |  |[InstallFest](https://github.com/SEBR-0116/u1_Installfest)   |[Control Flow](https://github.com/SEBR-0116/u1_js_control_flow/blob/main/README.md)    |[Array Iterators](https://github.com/SEBR-0116/u1_array_iterators) | [JS Dots Game Lab](https://github.com/SEBR-0116/u1_lab_dom_dots)| 
+  |  |[Git](https://github.com/SEBR-0116/u1_lesson_git_intro) |[Data Types Practice](https://github.com/SEBR-0116/U1_data_types_practice)    | [HOF Lab](https://github.com/SEBR-0116/u1_lab_HOF_lab/tree/main)  |[Connect Four](https://github.com/SEBR-0116/u1_hw_Connect_four/blob/main/README.md) |  |
+  |  |[Git PAT](https://github.com/SEBR-0116/u1_git_PAT)  |[CYOA](https://github.com/SEBR-0116/u1_hw_control_flow_adventure/tree/main)  | [CodeWars Challenges](https://github.com/SEBR-0116/u1_hw_codewars_challenges/blob/main/README.md)  | [Tic Tac Toe](https://github.com/SEBR-0116/u1_hw_tic_tac_toe)
+  |  |[Command Line Practice](https://github.com/SEBR-0116/u1_hw_star_wars-1/blob/main/README.md) | | Flex| [Connect 4](https://github.com/SEIR-0911/u1_hw_Connect_four)  |
 
   <ul type="none">
 

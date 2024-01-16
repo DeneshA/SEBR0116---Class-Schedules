@@ -228,12 +228,12 @@ ____
 
  
   | Monday | Tuesday | Wednesday | Thursday | Friday |
-  |:---:|:---:|:---:|:---:|:---:|
-<!--|  [JS Objects](https://github.com/SEBR-0116/u1_lesson_js_objects/blob/main/README.md) |Wireframing| [Weather API Lab](https://github.com/SEBR-0116/u1_lab_weather-api/blob/main/README.md) | [Responsive CSS](https://github.com/SEBR-0116/u1_responsive_css/blob/main/README.md)| Project Week Starts|
-|[Jurassic Object Lab](https://github.com/SEBR-0116/u1_lab_jurassic_objects/blob/main/README.md)|  [Intro to API's](https://github.com/SEBR-0116/u1_axios-api-intro)   |  OUTCOMES  |  Deployment |  ||
-  |[ES6 Syntax](https://github.com/SEBR-0116/u1_lesson_ES6) | [Poke'mon Lab](https://github.com/SEBR-0116/u1_pokemon-api-lab/blob/main/README.md)  |   |[Prompt 1](https://github.com/SEBR-0116/u1_project_prompt/blob/main/README.md) |  |  
-  | [Calculator](https://github.com/SEBR-0116/u1_JS_calculator_lab/tree/main) |  ||  |  |
-  |  |  |  | |  | -->
+ <!-- |:---:|:---:|:---:|:---:|:---:|
+|  [JS Objects](https://github.com/SEBR-0116/u1_lesson_js_objects/blob/main/README.md) |Wireframing| [Intro to APIs](https://github.com/SEBR-0116/u1_axios-api-intro) | [Weather API Lab](https://github.com/SEBR-0116/u1_lab_weather-api/blob/main/README.md) | Project Week Starts|
+|[Jurassic Object Lab](https://github.com/SEBR-0116/u1_lab_jurassic_objects/blob/main/README.md)|  [Resume Lab](https://github.com/SEIR-0911/u1_lab_personal_resume) | [Poke'mon Lab](https://github.com/SEBR-0116/u1_pokemon-api-lab/blob/main/README.md)   | [Responsive CSS](https://github.com/SEBR-0116/u1_responsive_css/blob/main/README.md) | [Prompt 1](https://github.com/SEBR-0116/u1_project_prompt/blob/main/README.md) ||
+  |[ES6 Syntax](https://github.com/SEBR-0116/u1_lesson_ES6) | [Calculator](https://github.com/SEBR-0116/u1_JS_calculator_lab/tree/main)  | OUTCOMES |Deployment  |  |  
+  |  |  ||  |  |
+   -->
 
  <ul type="none">
 

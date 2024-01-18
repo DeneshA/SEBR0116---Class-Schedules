@@ -210,8 +210,7 @@ ____
   | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
   | [Recording](https://generalassembly.zoom.us/rec/share/LS12mi2nEiAzx22_uOLbVeNbnpdy9ktwX95QP0cethTFjF7NUgx2IzTXBzVIiHjY.-PykKpNMGSfExl1X)| [Recording](https://generalassembly.zoom.us/rec/share/pn_Tgtmwtu3wxdTGKX6J5LaxRpOywb6bFHR7_bN84RfHxPPvx2JFkgNrjOzZkVTU._RFrpvKDU5yoFm9F)|[Recording]()| [Recording]()| [Recording]()|
-  | Passcode: `j?6r#$r!`  | Passcode: `Ba?n28%J` | Passcode: `
-` | Passcode: `.` | Passcode: `` |
+  | Passcode: `j?6r#$r!`  | Passcode: `Ba?n28%J` | Passcode: `` | Passcode: `` | Passcode: `` |
 
   </p></details></li>
 

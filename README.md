@@ -209,8 +209,8 @@ ____
 
   | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Holiday]()| [Recording](https://generalassembly.zoom.us/rec/share/LS12mi2nEiAzx22_uOLbVeNbnpdy9ktwX95QP0cethTFjF7NUgx2IzTXBzVIiHjY.-PykKpNMGSfExl1X)|[Recording](https://generalassembly.zoom.us/rec/share/pn_Tgtmwtu3wxdTGKX6J5LaxRpOywb6bFHR7_bN84RfHxPPvx2JFkgNrjOzZkVTU._RFrpvKDU5yoFm9F)| [Recording](https://generalassembly.zoom.us/rec/share/Nk1O-Px8PRCWcDHTl6kXnP9UHUurATJcZ5RVbladq5YocPuHUG9S5u006kTQbq0t.gHa-edWFDkeDdQrF)| [Recording]()|
-  | Passcode: ``  | Passcode: `j?6r#$r!` | Passcode: `Ba?n28%J` | Passcode: `5BdD!T0` | Passcode: `` |
+  | [Holiday]()| [Recording](https://generalassembly.zoom.us/rec/share/LS12mi2nEiAzx22_uOLbVeNbnpdy9ktwX95QP0cethTFjF7NUgx2IzTXBzVIiHjY.-PykKpNMGSfExl1X)|[Recording](https://generalassembly.zoom.us/rec/share/pn_Tgtmwtu3wxdTGKX6J5LaxRpOywb6bFHR7_bN84RfHxPPvx2JFkgNrjOzZkVTU._RFrpvKDU5yoFm9F)| [Recording](https://generalassembly.zoom.us/rec/share/Nk1O-Px8PRCWcDHTl6kXnP9UHUurATJcZ5RVbladq5YocPuHUG9S5u006kTQbq0t.gHa-edWFDkeDdQrF)| [Recording](https://generalassembly.zoom.us/rec/share/1ur2fKnuqh2X-sfiO-78_JvwtLu8A6fkpEUe2O6KWQzknHrSJszN3yALvTTOt3v8.Z5MnZnprVWjiAoPc)|
+  | Passcode: ``  | Passcode: `j?6r#$r!` | Passcode: `Ba?n28%J` | Passcode: `5BdD!T0` | Passcode: `Vbe0Nhm*` |
 
   </p></details></li>
 
@@ -243,8 +243,8 @@ ____
 
 | Monday | Tuesday | Wednesday | Thursday | Friday |
  |:---:|:---:|:---:|:---:|:---:|
-<!-- | [Recording](https://generalassembly.zoom.us/rec/share/cDmD9w7ULkJG6aYVNb7P5ILZhMAsv72_Zrqdy3cZ-wtgpPWcdbso7b89mrvqrah_.8B8Hte07Ivn58qtU)|[Recording](https://generalassembly.zoom.us/rec/share/-CMe-EB9H_3uYM3uppDnVou1kKUzY_oVR9FssDxuKETx9y5fkhlxakoRdPTY7Qbm.V-RAu3F5zngb64kh) | [Recording](https://generalassembly.zoom.us/rec/share/zEkd4PfoxN5BQjeM3yQb59dIDlFUAzmuC9PJhz2W5QPrSvysbLC2vzNFgBo1eJ6l.Kzs_JeuWbKMdFlWt) |  [Recording]() | [Recording]()|
- | Passcode:`%FQV40JU`  | Passcode:`EVTT5q?3`| Passcode:`@@P1Zs$8` | Passcode: `` | Passcode: `` | -->
+| [Recording](https://generalassembly.zoom.us/rec/share/1Dm6q1E7J2_YUtGfxEvMU6d2CgduTRyOozASf0jROuq4kNBaVsCFh3xumHNYMR9x.x-cL3kb4PAqLVZ0m)|[Recording]() | [Recording]() |  [Recording]() | [Recording]()|
+ | Passcode:`h%sx5&JV`  | Passcode:``| Passcode:`` | Passcode: `` | Passcode: `` | 
 
  </p></details></li>
  

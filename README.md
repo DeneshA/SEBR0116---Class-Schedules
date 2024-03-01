@@ -304,11 +304,11 @@ ___
 
 
 | Monday | Tuesday | Wednesday | Thursday | Friday |
- <!-- |:---:|:---:|:---:|:---:|:---:|
+  |:---:|:---:|:---:|:---:|:---:|
   | [Express/Mongoose Review](https://github.com/SEBR-0116/u2_heroes_and_villains_api/tree/main) | [Group Git](https://github.com/SEBR-0116/u2_lesson_group_git) | Stackathon day | Presentations  | [Project 2](https://github.com/SEBR-0116/project2/blob/main/README.md) |
   | [Express fron Scratch](https://github.com/taubman33/u2_lab_express_api/blob/main/README.md) |  [Reg ex (optional)](https://github.com/SEBR-0116/u2_lesson_regEx_js/tree/main)| OUTCOMES |  [Project 2 setup](https://github.com/SEBR-0116/project2/blob/main/README.md)    ||
   | |[OAuth (optional)](https://github.com/SEBR-0116/u2_lesson_oAuth) |   | |  |
-  |  | Stackaton Day 1 | |  |  |-->
+  |  | Stackaton Day 1 | |  |  |
  
 
 
@@ -344,13 +344,13 @@ ___
  
  | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  <!--| [Intro to React](https://github.com/SEBR-0116/u3_lesson_intro_to_react/blob/main/README.md)| [React Router](https://github.com/SEBR-0116/u3_react_router_intro/blob/main/README.md)  |[Component hierarchy Diagram](https://github.com/SEBR-0116/u3_lesson_component_hierarchy/blob/main/README.md) |  [Reat State](https://github.com/SEBR-0116/u3_lesson_state_and_hooks) | [UseEffect](https://github.com/SEBR-0116/u3_lesson_useEffect/tree/main) | 
+ | [Intro to React](https://github.com/SEBR-0116/u3_lesson_intro_to_react/blob/main/README.md)| [React Router](https://github.com/SEBR-0116/u3_react_router_intro/blob/main/README.md)  |[Component hierarchy Diagram](https://github.com/SEBR-0116/u3_lesson_component_hierarchy/blob/main/README.md) |  [Reat State](https://github.com/SEBR-0116/u3_lesson_state_and_hooks) | [UseEffect](https://github.com/SEBR-0116/u3_lesson_useEffect/tree/main) | 
   |[LOTR Lab](https://github.com/SEBR-0116/u3_lab_react_LOTR/blob/main/README.md)| [Mapping Components](https://github.com/SEBR-0116/u3_lesson_react_mapping_components-1)  | [Portfolio](https://github.com/SEBR-0116/u3_react_portfolio_lab) |  [Likes Lab](https://github.com/SEBR-0116/u3_lab_likes) | [React API's](https://github.com/SEBR-0116/u3_lesson_react_APIs) |
   |[Korilla Lab](https://github.com/SEBR-0116/u3_react_Korilla_receipts/tree/main)| [Mapping Lab](https://github.com/SEBR-0116/u3_lab_mapping_contacts/blob/main/README.md)| OUTCOMES   | [React Forms](https://github.com/SEBR-0116/u3_react_forms/tree/main)    | [SWAPI Axios Lab](https://github.com/SEBR-0116/u3_react_axios_lab/blob/main/README.md) |
   | | [Mapping Movies](https://github.com/SEBR-0116/u3_hw_movie_mapping) |  | [Groceries Lab](https://github.com/SEBR-0116/u3_lab_groceries) |  |
   |  |  |  | [ATM Lab](https://github.com/SEBR-0116/u3_lab_react_ATM) | |
 |||| [Password Validator](https://github.com/SEBR-0116/u3_lab_password_validator/blob/main/README.md) | |
-| | | | |-->
+| | | | |
 
 
   <ul type="none">

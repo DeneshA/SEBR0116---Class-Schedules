@@ -286,8 +286,8 @@ ___
 
 | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
- <!-- | [Recording](https://generalassembly.zoom.us/rec/share/KojBx5iid6CQ9MYIamujd_8QfxfmiC2pftExgGZ9Bvh4DhXIPxVaJg5cSzz-L1JE.vOdp6Lqj3JWhiK8p) | [Recording](https://generalassembly.zoom.us/rec/share/ZUXppiomUy9iI2h2lALlb2nhRUQcvpSJDtxFJ3IobDx_tB8MlKTzXqnyOQtNF1HD.AVmQTJO2cr7zXTEz) | [Recording]() | [Recording](https://generalassembly.zoom.us/rec/share/MAX9zoNVjUa9UOk-cFGNLpVkrMEoPyJ7m7K3EbioIhS8g_koT_Uv_yB_18WYYwkG.mZ1Bzesmz7OTXOGB) | [Recording]() |
-  | Passcode: `1#6APOT%` | Passcode: `9@xxf0?@` | Passcode: `` | Passcode: `k+gv3m?W` | Passcode: `` | -->
+ | [Recording](https://generalassembly.zoom.us/rec/share/UeTH5pF26fNilX5LTvMCQBapZxuxmWrSfv9U5L4uddL827oxMqZSS__6GzLLhfPv.IKH3XksqWHsUoi5m) | [Recording](https://generalassembly.zoom.us/rec/share/jJ97Ex5v2izpub48DX_s4DAjnfXfwLPewwVk9jG0sl56jAvMoTODqmK3fag02v-6.Au3d7GqscMQW8uFE) | [Recording](https://generalassembly.zoom.us/rec/share/InwErg42d8dV28TC164RR9cWbw8eAK5YDmXXDMe7zuE5rtLQEfYtR6nG9ewCHgIY.DGoWubJP-R12xRs1) | [Recording](https://generalassembly.zoom.us/rec/share/BzAjLFa04Ci7RaJjNFtyeEKa2TwLh2FdQErBVJ5xTLrkcX9xNbmavkk5v3Lc1WRR.l8soQ8Rnz-_p28aM) | [Recording](https://generalassembly.zoom.us/rec/share/mqksbqnZTr0JiR9-w1Ht8ZXMAU4ks4Lh1e7-RYDqs5oifNnk2qi4wqj5OR6zaAjx.LhnKKj7unIdikS9A) |
+  | Passcode: `w4X+d?d*` | Passcode: `8V#u3n?#` | Passcode: `uD%!5At!` | Passcode: `bLXI46*u` | Passcode: `em#XK5YB` | 
 
   </p></details></li>
 
@@ -316,8 +316,8 @@ ___
 
 | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
- <!-- | [Recording]() | [Recording]() | [Recording]() | [Recording]() | [Recording](https://generalassembly.zoom.us/rec/share/JUgAoH5tc3metfg--hbDVq87qrDH35L9NSFgDQ_DSaRKMNyb3JtMFZ5X21HthGrF.04HUrTQwqzTbZxDT) |
-  | Passcode: `` | Passcode: `` | Passcode: `` | Passcode: `` | Passcode: `7*+Zxm%Z` |-->
+  | [Recording]() | [Recording]() | [Recording]() | [Recording](https://generalassembly.zoom.us/rec/share/zyt-Es9LZrus285rImQz1QHy5Ob7HTzJRSMrcsHOTZfPJc1HairGMvsKdVeKaPI6.FEfQQ_pkiiKHyrlO) | [Recording]() |
+  | Passcode: `` | Passcode: `` | Passcode: `` | Passcode: `5Lv&Q#U1` | Passcode: `` |
  
   </p></details></li>
   
@@ -361,8 +361,8 @@ ___
 
 | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  <!--| [Recording](https://generalassembly.zoom.us/rec/share/WD_KuZz8-nKMuJo9vjZ8C0wmowgQrK9Iat9lVlBhJYXRYQgetRjnNawgpoArvTId.JjVBK8qbu6vf_LJ4) | [Recording](https://generalassembly.zoom.us/rec/share/BE7muJb-EOzojTb6NShYuoy4E8V6XpSmzEMYslxDdmp2nWtXWFShCjbv1dsAH_Sc.Z3hTUcwBXz4ediqP)| [Recording](https://generalassembly.zoom.us/rec/share/td28MAQhMXjq-ovIe-I-sS-WKYOu5Rl15PnjOKGOJXhuAn1fZFLmeFxbnOA16WEe.Ie3qcebXLoLDbCm1) | [Recording](https://generalassembly.zoom.us/rec/share/OqiPqbHElrAowsfO7jKCO7MMyeIxT7yWI5wlV5HEBhH9ZCQbVyflKOiBIoqCf13o.SldeSPzNrNgskygm) | [Recording] |
-  | Passcode: `6mn6U3#m` | Passcode: `b5GM?30d` |  Passcode: `E^yB7HWy` | Passcode: `@6fiwG!m` |  Passcode: `` -->
+ | [Recording](https://generalassembly.zoom.us/rec/share/ls9_MWFjaxD2cmiolvPDd3EfcnAUQqJUEnIYUOptZqsKjHhmJ-7SiDL4MW0kWiAQ.zjOxJrzbjzYq6ZHW) | [Recording](https://generalassembly.zoom.us/rec/share/kDV4g2YTp4eDjGR_DfThXEjYoVR9WFE9hLMWytlgklHlONsaHBK5a84dTnIgpBOY.AyMVE_9NlbloSlLQ)| [Recording]() | [Recording](https://generalassembly.zoom.us/rec/share/0_3yAfBYDGaYAQiTY3hQR0zRvDWPg9ybd5BP59OE6iVu24jJMIJXzF5VkRzHw3o.En7g-NNRjZ2hx_6F)) | [Recording](https://generalassembly.zoom.us/rec/share/mEJDS0EhB4eqPcN0NDSuiG8hZKGFEdOyjlgJLQC06mN94XqIMDBxiPg3RAZiJfhC.INdAtvL0-C2p_Zgt) |
+  | Passcode: `^m8fK7q7` | Passcode: `=2Hlef@9` |  Passcode: `` | Passcode: `D4=b$1Y8` |  Passcode: `zghW$v!4` 
 
   </p></details></li>
 
@@ -382,11 +382,11 @@ ___
  
  | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
- <!-- |[Router II](https://github.com/SEBR-0116/u3_lesson_react_router) [UseEffect](https://github.com/SEBR-0116/u3_lesson_useEffect) | [useContext](https://github.com/seir-123/u2_lesson_useContext) | Hackathon| Hackathon | Hackathon Presentations |
+  |[Router II](https://github.com/SEBR-0116/u3_lesson_react_router) [UseEffect](https://github.com/SEBR-0116/u3_lesson_useEffect) | [useContext](https://github.com/seir-123/u2_lesson_useContext) | Hackathon| Hackathon | Hackathon Presentations |
   |[Router Lab](https://github.com/SEBR-0116/u3_lab_react_router)    |[Context Lab](https://github.com/seir-123/u2_react_useContext_lab)  |OUTCOMES |  [Project 3 prompt](https://github.com/seir-123/project2_prompt/blob/main/README.md)  |  |
   | | [React States Lab](https://github.com/SEBR-0116/u3_react_states_lab/blob/main/README.md) |  | ||
 | | [FrontEnd Hackathon](https://github.com/SEBR-0116/u3_lab_react_axios_foodE/blob/main/README.md) |  | ||
-| | Axios Lab II |  | ||-->
+| | Axios Lab II |  | ||
   
 
   <ul type="none">
@@ -395,8 +395,8 @@ ___
 
 | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  <!--| [Recording](https://generalassembly.zoom.us/rec/share/p1ul2ouA1Wo2Era8Tf1ja_rixy4frrdhnWL5IyQ7YCUi7Yd1Bn5gHSmrXg0OYKYo.1LjwcBW95kxEIGvV)  |[Recording](https://generalassembly.zoom.us/rec/share/_Xj_AB91EX6zVySs6aggzHlR-GZ5RRFg2ag0kMELwiIiGL9kaUv1K7xYsW1Q5p1m.YChwkc4l74at_ihM)  | No Recording | [Recording](https://generalassembly.zoom.us/rec/share/zxRBA7NE31gSDoGHaV2mHWiuOLOBbOnOKTL6EpWaCklOi3H5CccqBbJ3xSDpECY.GLSrAdp6brFTSy09) |No Recording|
-  | Passcode: `1ZKBjbh*` | Passcode: `^Bm9Ys1u` |  | Passcode: `kmW=BN03`  |  | -->
+ | [Recording](https://generalassembly.zoom.us/rec/share/j9BFqyIqRF7OxtR8cBWFMfLkgNfS_yvI6DvOWMnhacKTARRZNnZn-w_pZKjItD_k.NsoDYl2of9aGr_EM)  |[Recording]()  | No Recording | [Recording]() |No Recording|
+  | Passcode: `N@LA4d#n` | Passcode: `` |  | Passcode: ``  |  |
 
  </p></details></li>
   
